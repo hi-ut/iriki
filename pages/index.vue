@@ -158,6 +158,14 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-account',
     },
+    {
+      label: this.$t('timeline'),
+      path: {
+        name: 'timeline',
+      },
+      description: '',
+      icon: 'mdi-timeline',
+    },
     /*
     
     

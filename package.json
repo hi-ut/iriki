@@ -47,6 +47,7 @@
     "openseadragon": "^2.4.2",
     "save": "^2.4.0",
     "vue-chartjs": "^3.5.1",
+    "vue-google-charts": "^0.3.3",
     "vue-visjs": "^0.6.0",
     "vue2-leaflet": "^2.7.0",
     "vue2-leaflet-markercluster": "^3.1.0"
