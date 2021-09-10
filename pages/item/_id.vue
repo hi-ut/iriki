@@ -125,6 +125,9 @@
                         <template v-else-if="agg.type === 'link'">
                           <a :href="value" target="_blank">{{value}}</a>
                         </template>
+                        <template v-else-if="agg.type === 'html'">
+                          <span v-html="value"/>
+                        </template>
                         <template v-else>
                           <nuxt-link
                           :to="

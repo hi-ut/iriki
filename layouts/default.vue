@@ -145,9 +145,15 @@ export default class search extends Vue {
   get menu(): any[] {
     return [
     {
+      label: "network",
+      to: this.localePath({ name: 'network' }),
+    },
+    /*
+    {
       label: "detail",
       to: this.localePath({ name: 'advanced' }),
     },
+    */
     /*
     {
       label: "list",

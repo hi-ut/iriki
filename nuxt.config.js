@@ -91,6 +91,11 @@ env.detail = [
   {
     label: "外題",
     value: "外題"
+  },
+  {
+    label: "xml",
+    value: "xml",
+    type: "html"
   }
 ]
 
