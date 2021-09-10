@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-09-11",
+    "agential": [
+        "西園寺実秀",
+        "渋谷重門"
+    ],
+    "collection": [
+        "入来院家文書 一"
+    ],
+    "date": [
+        "1365-03-05"
+    ],
+    "jcdate": [
+        "正平19年2月1日"
+    ],
+    "label": "後村上天皇綸旨",
+    "no": [
+        "4"
+    ],
+    "objectID": "4",
+    "received": [
+        "渋谷重門"
+    ],
+    "sent": [
+        "西園寺実秀"
+    ],
+    "vol": [
+        "1帖"
+    ],
+    "xml": [
+        "<body>\n<div type=\"宿紙\">\n<p>\n<!-- <lb/> 　四　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（宿紙）-->\n<lb/> 参御方、相語一族、 <note corresp=\"#致、下同ジ\">至</note> 軍忠者、於本領 <note corresp=\"#不脱カ\">可</note> 有子細、 <note corresp=\"#致\">至</note> 忠節者、恩賞之事\n\t\t\t\t<lb/> 者、不可有子細也、\n\t\t\t\t<lb/> 天気如此、悉之以状、\n\t\t\t\t<lb/> 　　　<date when=\"1365-03-05\">正平十九年二月一日</date>　　　　　　　　　<persName corresp=\"#西園寺実秀\">\n\t\t\t\t\t左 中将</persName>（花押）\n\t\t\t\t<lb/> 　<persName corresp=\"#渋谷重門\">渋谷 能登 守</persName>舘\n\t\t\t</p>\n</div>\n</body>"
+    ],
+    "外題": [
+        "御綸旨御下文御感状御教書　九通　九番"
+    ]
+}
