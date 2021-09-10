@@ -9,16 +9,11 @@
         </v-breadcrumbs>
       </v-container>
     </v-sheet>
-    <template v-if="iframeUrl">
+    <template v-if="item.image">
       <div style="background-color: #f5f5f5;">
         <v-container class="py-0" style="height: 450px">
-          <iframe
-            :src="iframeUrl"
-            width="100%"
-            height="450"
-            allowfullscreen
-            frameborder="0"
-          ></iframe>
+
+          <v-img :src="item.image" contain height="450px"/>
         </v-container>
       </div>
     </template>
@@ -35,14 +30,16 @@
         {{ title }}
       </h1>
 
-      <div class="text-right mb-5">
+      <p v-html="$utils.formatArrayValue(item.description, '<br />')"></p>
+
+      <div class="text-right mb-5" v-if="item.url">
         <v-btn
           target="_blank"
           rounded
           color="primary darken-2"
           dark
-          :href="teiUrl"
-          >テキストデータをみる
+          :href="item.url"
+          >データをみる
           <v-icon class="ml-2">mdi-open-in-new</v-icon></v-btn
         >
       </div>
@@ -100,18 +97,7 @@
       <v-simple-table class="mt-10">
         <template #default>
           <tbody>
-            <tr v-if="false">
-              <td class="py-4">
-                <v-row>
-                  <v-col cols="12" sm="3">{{ $t('description') }}</v-col>
-                  <v-col
-                    cols="12"
-                    sm="9"
-                    v-html="$utils.formatArrayValue(item.description, '<br />')"
-                  ></v-col>
-                </v-row>
-              </td>
-            </tr>
+            
             <template v-for="(agg, key) in aggs">
               <tr v-if="!hide[agg.value] && item[agg.value] && item[agg.value].length > 0" :key="key">
                 <td class="py-4">
@@ -152,7 +138,44 @@
       </v-simple-table>
     </v-container>
 
-    <v-sheet class="text-center pa-10 mt-10" color="grey lighten-4" v-if="item.license">
+    <v-container>
+    <v-btn
+        class="mt-10"
+        block
+        color="primary"
+        rounded
+        dark
+        x-large
+        :to="
+          localePath({
+            name: 'search',
+            query: {
+              'main[refinementList][agential]': item.label
+            },
+          })
+        "
+      >
+        <v-icon class="mr-2">mdi-magnify</v-icon>
+        {{ $t('fulltext_search') }}
+      </v-btn>
+      </v-container>
+
+    <v-container class="pa-10 mt-10">
+      <h3 class="mb-5 text-center">{{ "表記の変遷" }}</h3>
+        <v-data-table
+        class="mt-10"
+        :headers="headers"
+        :items="items"
+      >
+      <template v-slot:item.label="{ item }">
+      <nuxt-link :to="localePath({name: 'item-id', params: {id : item.objectID}})">
+      {{item.label}}
+      </nuxt-link>
+    </template>
+      </v-data-table>
+    </v-container>
+
+    <v-sheet class="text-center pa-10 mt-10" color="grey lighten-2" v-if="item.license">
       <small>
         <h3 class="mb-5">{{ $t('license') }}</h3>
 
@@ -247,24 +270,14 @@ export default class Item extends Vue {
       const id = app.context.params.id
 
       const response = await $axios.$get(
-        process.env.BASE_URL + '/data/item/'+id+'.json'
+        process.env.BASE_URL + '/data/people/'+id+'.json'
       )
       const item = response
 
+      console.log({item})
+
       return { item/*, docs*/ }
     }
-  }
-
-  async asyncData2({ app, $axios }: any) {
-    const id = app.context.params.id.trim()
-
-    const path = `~/static/data/item/${id}.json`
-
-    console.log({path})
-
-    const response = await import(path)
-
-    return {item: response}
   }
 
   baseUrl: any = process.env.BASE_URL
@@ -317,9 +330,9 @@ export default class Item extends Vue {
         exact: true,
       },
       {
-        text: this.$t('search'),
+        text: this.$t('people'),
         disabled: false,
-        to: this.localePath({ name: 'search' }),
+        to: this.localePath({ name: 'people' }),
         exact: true,
       },
       {
@@ -389,6 +402,23 @@ export default class Item extends Vue {
       console.error(e)
     })
     this.snackbar = true
+  }
+
+  headers: any[] = [
+    {
+      text: 'name', value: 'name'
+    },
+    {
+      text: 'document', value: 'label'
+    },
+    {
+      text: 'date', value: 'date'
+    }
+  ]
+
+  get items(){
+    const list = (this as any).item.list
+    return list
   }
 
   head() {

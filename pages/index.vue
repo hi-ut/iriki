@@ -150,6 +150,14 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-network',
     },
+    {
+      label: this.$t('people'),
+      path: {
+        name: 'people',
+      },
+      description: '',
+      icon: 'mdi-account',
+    },
     /*
     
     
