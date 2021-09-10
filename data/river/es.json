@@ -1,0 +1,2270 @@
+[
+    {
+        "_id": "河水1",
+        "_index": "river",
+        "_source": {
+            "_label": "河水1",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/河水1.json",
+            "巻": [
+                "巻1"
+            ],
+            "通番": [
+                1
+            ]
+        }
+    },
+    {
+        "_id": "河水2",
+        "_index": "river",
+        "_source": {
+            "_label": "河水2",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/河水2.json",
+            "巻": [
+                "巻2"
+            ],
+            "通番": [
+                2
+            ]
+        }
+    },
+    {
+        "_id": "河水3",
+        "_index": "river",
+        "_source": {
+            "_label": "河水3",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/河水3.json",
+            "巻": [
+                "巻3"
+            ],
+            "通番": [
+                3
+            ]
+        }
+    },
+    {
+        "_id": "河水4",
+        "_index": "river",
+        "_source": {
+            "_label": "河水4",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/河水4.json",
+            "巻": [
+                "巻4"
+            ],
+            "通番": [
+                4
+            ]
+        }
+    },
+    {
+        "_id": "河水5",
+        "_index": "river",
+        "_source": {
+            "_label": "河水5",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/河水5.json",
+            "巻": [
+                "巻5"
+            ],
+            "通番": [
+                5
+            ]
+        }
+    },
+    {
+        "_id": "汾水",
+        "_index": "river",
+        "_source": {
+            "_label": "汾水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/汾水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                6
+            ]
+        }
+    },
+    {
+        "_id": "澮水",
+        "_index": "river",
+        "_source": {
+            "_label": "澮水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/澮水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                7
+            ]
+        }
+    },
+    {
+        "_id": "涑水",
+        "_index": "river",
+        "_source": {
+            "_label": "涑水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/涑水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                8
+            ]
+        }
+    },
+    {
+        "_id": "文水",
+        "_index": "river",
+        "_source": {
+            "_label": "文水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/文水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                9
+            ]
+        }
+    },
+    {
+        "_id": "原公水",
+        "_index": "river",
+        "_source": {
+            "_label": "原公水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/原公水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                10
+            ]
+        }
+    },
+    {
+        "_id": "洞過水",
+        "_index": "river",
+        "_source": {
+            "_label": "洞過水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洞過水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                11
+            ]
+        }
+    },
+    {
+        "_id": "晉水",
+        "_index": "river",
+        "_source": {
+            "_label": "晉水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/晉水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                12
+            ]
+        }
+    },
+    {
+        "_id": "湛水",
+        "_index": "river",
+        "_source": {
+            "_label": "湛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/湛水.json",
+            "巻": [
+                "巻6"
+            ],
+            "通番": [
+                13
+            ]
+        }
+    },
+    {
+        "_id": "濟水1",
+        "_index": "river",
+        "_source": {
+            "_label": "濟水1",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/濟水1.json",
+            "巻": [
+                "巻7"
+            ],
+            "通番": [
+                14
+            ]
+        }
+    },
+    {
+        "_id": "濟水2",
+        "_index": "river",
+        "_source": {
+            "_label": "濟水2",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/濟水2.json",
+            "巻": [
+                "巻8"
+            ],
+            "通番": [
+                15
+            ]
+        }
+    },
+    {
+        "_id": "清水",
+        "_index": "river",
+        "_source": {
+            "_label": "清水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/清水.json",
+            "巻": [
+                "巻9"
+            ],
+            "通番": [
+                16
+            ]
+        }
+    },
+    {
+        "_id": "沁水",
+        "_index": "river",
+        "_source": {
+            "_label": "沁水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沁水.json",
+            "巻": [
+                "巻9"
+            ],
+            "通番": [
+                17
+            ]
+        }
+    },
+    {
+        "_id": "淇水",
+        "_index": "river",
+        "_source": {
+            "_label": "淇水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/淇水.json",
+            "巻": [
+                "巻9"
+            ],
+            "通番": [
+                18
+            ]
+        }
+    },
+    {
+        "_id": "蕩水",
+        "_index": "river",
+        "_source": {
+            "_label": "蕩水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/蕩水.json",
+            "巻": [
+                "巻9"
+            ],
+            "通番": [
+                19
+            ]
+        }
+    },
+    {
+        "_id": "洹水",
+        "_index": "river",
+        "_source": {
+            "_label": "洹水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洹水.json",
+            "巻": [
+                "巻9"
+            ],
+            "通番": [
+                20
+            ]
+        }
+    },
+    {
+        "_id": "濁漳水",
+        "_index": "river",
+        "_source": {
+            "_label": "濁漳水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/濁漳水.json",
+            "巻": [
+                "巻10"
+            ],
+            "通番": [
+                21
+            ]
+        }
+    },
+    {
+        "_id": "清漳水",
+        "_index": "river",
+        "_source": {
+            "_label": "清漳水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/清漳水.json",
+            "巻": [
+                "巻10"
+            ],
+            "通番": [
+                22
+            ]
+        }
+    },
+    {
+        "_id": "易水",
+        "_index": "river",
+        "_source": {
+            "_label": "易水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/易水.json",
+            "巻": [
+                "巻11"
+            ],
+            "通番": [
+                23
+            ]
+        }
+    },
+    {
+        "_id": "滱水",
+        "_index": "river",
+        "_source": {
+            "_label": "滱水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滱水.json",
+            "巻": [
+                "巻11"
+            ],
+            "通番": [
+                24
+            ]
+        }
+    },
+    {
+        "_id": "聖水",
+        "_index": "river",
+        "_source": {
+            "_label": "聖水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/聖水.json",
+            "巻": [
+                "巻12"
+            ],
+            "通番": [
+                25
+            ]
+        }
+    },
+    {
+        "_id": "巨馬水",
+        "_index": "river",
+        "_source": {
+            "_label": "巨馬水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/巨馬水.json",
+            "巻": [
+                "巻12"
+            ],
+            "通番": [
+                26
+            ]
+        }
+    },
+    {
+        "_id": "㶟水",
+        "_index": "river",
+        "_source": {
+            "_label": "㶟水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/㶟水.json",
+            "巻": [
+                "巻13"
+            ],
+            "通番": [
+                27
+            ]
+        }
+    },
+    {
+        "_id": "㶟餘水",
+        "_index": "river",
+        "_source": {
+            "_label": "㶟餘水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/㶟餘水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                28
+            ]
+        }
+    },
+    {
+        "_id": "沽河",
+        "_index": "river",
+        "_source": {
+            "_label": "沽河",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沽河.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                29
+            ]
+        }
+    },
+    {
+        "_id": "鮑邱水",
+        "_index": "river",
+        "_source": {
+            "_label": "鮑邱水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/鮑邱水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                30
+            ]
+        }
+    },
+    {
+        "_id": "濡水",
+        "_index": "river",
+        "_source": {
+            "_label": "濡水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/濡水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                31
+            ]
+        }
+    },
+    {
+        "_id": "大遼水",
+        "_index": "river",
+        "_source": {
+            "_label": "大遼水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/大遼水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                32
+            ]
+        }
+    },
+    {
+        "_id": "小遼水",
+        "_index": "river",
+        "_source": {
+            "_label": "小遼水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/小遼水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                33
+            ]
+        }
+    },
+    {
+        "_id": "浿水",
+        "_index": "river",
+        "_source": {
+            "_label": "浿水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/浿水.json",
+            "巻": [
+                "巻14"
+            ],
+            "通番": [
+                34
+            ]
+        }
+    },
+    {
+        "_id": "洛水",
+        "_index": "river",
+        "_source": {
+            "_label": "洛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洛水.json",
+            "巻": [
+                "巻15"
+            ],
+            "通番": [
+                35
+            ]
+        }
+    },
+    {
+        "_id": "伊水",
+        "_index": "river",
+        "_source": {
+            "_label": "伊水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/伊水.json",
+            "巻": [
+                "巻15"
+            ],
+            "通番": [
+                36
+            ]
+        }
+    },
+    {
+        "_id": "瀍水",
+        "_index": "river",
+        "_source": {
+            "_label": "瀍水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/瀍水.json",
+            "巻": [
+                "巻15"
+            ],
+            "通番": [
+                37
+            ]
+        }
+    },
+    {
+        "_id": "澗水",
+        "_index": "river",
+        "_source": {
+            "_label": "澗水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/澗水.json",
+            "巻": [
+                "巻15"
+            ],
+            "通番": [
+                38
+            ]
+        }
+    },
+    {
+        "_id": "穀水",
+        "_index": "river",
+        "_source": {
+            "_label": "穀水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/穀水.json",
+            "巻": [
+                "巻16"
+            ],
+            "通番": [
+                39
+            ]
+        }
+    },
+    {
+        "_id": "甘水",
+        "_index": "river",
+        "_source": {
+            "_label": "甘水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/甘水.json",
+            "巻": [
+                "巻16"
+            ],
+            "通番": [
+                40
+            ]
+        }
+    },
+    {
+        "_id": "漆水",
+        "_index": "river",
+        "_source": {
+            "_label": "漆水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漆水.json",
+            "巻": [
+                "巻16"
+            ],
+            "通番": [
+                41
+            ]
+        }
+    },
+    {
+        "_id": "滻水",
+        "_index": "river",
+        "_source": {
+            "_label": "滻水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滻水.json",
+            "巻": [
+                "巻16"
+            ],
+            "通番": [
+                42
+            ]
+        }
+    },
+    {
+        "_id": "沮水",
+        "_index": "river",
+        "_source": {
+            "_label": "沮水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沮水.json",
+            "巻": [
+                "巻16"
+            ],
+            "通番": [
+                43
+            ]
+        }
+    },
+    {
+        "_id": "渭水1",
+        "_index": "river",
+        "_source": {
+            "_label": "渭水1",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/渭水1.json",
+            "巻": [
+                "巻17"
+            ],
+            "通番": [
+                44
+            ]
+        }
+    },
+    {
+        "_id": "渭水2",
+        "_index": "river",
+        "_source": {
+            "_label": "渭水2",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/渭水2.json",
+            "巻": [
+                "巻18"
+            ],
+            "通番": [
+                45
+            ]
+        }
+    },
+    {
+        "_id": "渭水3",
+        "_index": "river",
+        "_source": {
+            "_label": "渭水3",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/渭水3.json",
+            "巻": [
+                "巻19"
+            ],
+            "通番": [
+                46
+            ]
+        }
+    },
+    {
+        "_id": "漾水",
+        "_index": "river",
+        "_source": {
+            "_label": "漾水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漾水.json",
+            "巻": [
+                "巻20"
+            ],
+            "通番": [
+                47
+            ]
+        }
+    },
+    {
+        "_id": "丹水",
+        "_index": "river",
+        "_source": {
+            "_label": "丹水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/丹水.json",
+            "巻": [
+                "巻20"
+            ],
+            "通番": [
+                48
+            ]
+        }
+    },
+    {
+        "_id": "汝水",
+        "_index": "river",
+        "_source": {
+            "_label": "汝水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/汝水.json",
+            "巻": [
+                "巻21"
+            ],
+            "通番": [
+                49
+            ]
+        }
+    },
+    {
+        "_id": "潁水",
+        "_index": "river",
+        "_source": {
+            "_label": "潁水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/潁水.json",
+            "巻": [
+                "巻22"
+            ],
+            "通番": [
+                50
+            ]
+        }
+    },
+    {
+        "_id": "洧水",
+        "_index": "river",
+        "_source": {
+            "_label": "洧水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洧水.json",
+            "巻": [
+                "巻22"
+            ],
+            "通番": [
+                51
+            ]
+        }
+    },
+    {
+        "_id": "潩水",
+        "_index": "river",
+        "_source": {
+            "_label": "潩水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/潩水.json",
+            "巻": [
+                "巻22"
+            ],
+            "通番": [
+                52
+            ]
+        }
+    },
+    {
+        "_id": "潧水",
+        "_index": "river",
+        "_source": {
+            "_label": "潧水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/潧水.json",
+            "巻": [
+                "巻22"
+            ],
+            "通番": [
+                53
+            ]
+        }
+    },
+    {
+        "_id": "渠水",
+        "_index": "river",
+        "_source": {
+            "_label": "渠水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/渠水.json",
+            "巻": [
+                "巻22"
+            ],
+            "通番": [
+                54
+            ]
+        }
+    },
+    {
+        "_id": "陰溝水",
+        "_index": "river",
+        "_source": {
+            "_label": "陰溝水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/陰溝水.json",
+            "巻": [
+                "巻23"
+            ],
+            "通番": [
+                55
+            ]
+        }
+    },
+    {
+        "_id": "汳水",
+        "_index": "river",
+        "_source": {
+            "_label": "汳水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/汳水.json",
+            "巻": [
+                "巻23"
+            ],
+            "通番": [
+                56
+            ]
+        }
+    },
+    {
+        "_id": "獲水",
+        "_index": "river",
+        "_source": {
+            "_label": "獲水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/獲水.json",
+            "巻": [
+                "巻23"
+            ],
+            "通番": [
+                57
+            ]
+        }
+    },
+    {
+        "_id": "雎水",
+        "_index": "river",
+        "_source": {
+            "_label": "雎水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/雎水.json",
+            "巻": [
+                "巻24"
+            ],
+            "通番": [
+                58
+            ]
+        }
+    },
+    {
+        "_id": "瓠子河",
+        "_index": "river",
+        "_source": {
+            "_label": "瓠子河",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/瓠子河.json",
+            "巻": [
+                "巻24"
+            ],
+            "通番": [
+                59
+            ]
+        }
+    },
+    {
+        "_id": "汶水",
+        "_index": "river",
+        "_source": {
+            "_label": "汶水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/汶水.json",
+            "巻": [
+                "巻24"
+            ],
+            "通番": [
+                60
+            ]
+        }
+    },
+    {
+        "_id": "泗水",
+        "_index": "river",
+        "_source": {
+            "_label": "泗水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泗水.json",
+            "巻": [
+                "巻25"
+            ],
+            "通番": [
+                61
+            ]
+        }
+    },
+    {
+        "_id": "沂水",
+        "_index": "river",
+        "_source": {
+            "_label": "沂水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沂水.json",
+            "巻": [
+                "巻25"
+            ],
+            "通番": [
+                62
+            ]
+        }
+    },
+    {
+        "_id": "洙水",
+        "_index": "river",
+        "_source": {
+            "_label": "洙水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洙水.json",
+            "巻": [
+                "巻25"
+            ],
+            "通番": [
+                63
+            ]
+        }
+    },
+    {
+        "_id": "沭水",
+        "_index": "river",
+        "_source": {
+            "_label": "沭水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沭水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                64
+            ]
+        }
+    },
+    {
+        "_id": "巨洋水",
+        "_index": "river",
+        "_source": {
+            "_label": "巨洋水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/巨洋水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                65
+            ]
+        }
+    },
+    {
+        "_id": "淄水",
+        "_index": "river",
+        "_source": {
+            "_label": "淄水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/淄水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                66
+            ]
+        }
+    },
+    {
+        "_id": "汶水",
+        "_index": "river",
+        "_source": {
+            "_label": "汶水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/汶水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                67
+            ]
+        }
+    },
+    {
+        "_id": "濰水",
+        "_index": "river",
+        "_source": {
+            "_label": "濰水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/濰水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                68
+            ]
+        }
+    },
+    {
+        "_id": "膠水",
+        "_index": "river",
+        "_source": {
+            "_label": "膠水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/膠水.json",
+            "巻": [
+                "巻26"
+            ],
+            "通番": [
+                69
+            ]
+        }
+    },
+    {
+        "_id": "沔水1",
+        "_index": "river",
+        "_source": {
+            "_label": "沔水1",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沔水1.json",
+            "巻": [
+                "巻27"
+            ],
+            "通番": [
+                70
+            ]
+        }
+    },
+    {
+        "_id": "沔水2",
+        "_index": "river",
+        "_source": {
+            "_label": "沔水2",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沔水2.json",
+            "巻": [
+                "巻28"
+            ],
+            "通番": [
+                71
+            ]
+        }
+    },
+    {
+        "_id": "沔水3",
+        "_index": "river",
+        "_source": {
+            "_label": "沔水3",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沔水3.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                72
+            ]
+        }
+    },
+    {
+        "_id": "潛水",
+        "_index": "river",
+        "_source": {
+            "_label": "潛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/潛水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                73
+            ]
+        }
+    },
+    {
+        "_id": "湍水",
+        "_index": "river",
+        "_source": {
+            "_label": "湍水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/湍水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                74
+            ]
+        }
+    },
+    {
+        "_id": "均水",
+        "_index": "river",
+        "_source": {
+            "_label": "均水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/均水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                75
+            ]
+        }
+    },
+    {
+        "_id": "粉水",
+        "_index": "river",
+        "_source": {
+            "_label": "粉水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/粉水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                76
+            ]
+        }
+    },
+    {
+        "_id": "白水",
+        "_index": "river",
+        "_source": {
+            "_label": "白水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/白水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                77
+            ]
+        }
+    },
+    {
+        "_id": "泚水",
+        "_index": "river",
+        "_source": {
+            "_label": "泚水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泚水.json",
+            "巻": [
+                "巻29"
+            ],
+            "通番": [
+                78
+            ]
+        }
+    },
+    {
+        "_id": "淮水",
+        "_index": "river",
+        "_source": {
+            "_label": "淮水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/淮水.json",
+            "巻": [
+                "巻30"
+            ],
+            "通番": [
+                79
+            ]
+        }
+    },
+    {
+        "_id": "滍水",
+        "_index": "river",
+        "_source": {
+            "_label": "滍水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滍水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                80
+            ]
+        }
+    },
+    {
+        "_id": "淯水",
+        "_index": "river",
+        "_source": {
+            "_label": "淯水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/淯水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                81
+            ]
+        }
+    },
+    {
+        "_id": "㶏水",
+        "_index": "river",
+        "_source": {
+            "_label": "㶏水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/㶏水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                82
+            ]
+        }
+    },
+    {
+        "_id": "灈水",
+        "_index": "river",
+        "_source": {
+            "_label": "灈水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/灈水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                83
+            ]
+        }
+    },
+    {
+        "_id": "瀙水",
+        "_index": "river",
+        "_source": {
+            "_label": "瀙水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/瀙水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                84
+            ]
+        }
+    },
+    {
+        "_id": "㵲水",
+        "_index": "river",
+        "_source": {
+            "_label": "㵲水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/㵲水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                85
+            ]
+        }
+    },
+    {
+        "_id": "涓水",
+        "_index": "river",
+        "_source": {
+            "_label": "涓水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/涓水.json",
+            "巻": [
+                "巻31"
+            ],
+            "通番": [
+                86
+            ]
+        }
+    },
+    {
+        "_id": "漻水",
+        "_index": "river",
+        "_source": {
+            "_label": "漻水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漻水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                87
+            ]
+        }
+    },
+    {
+        "_id": "蘄水",
+        "_index": "river",
+        "_source": {
+            "_label": "蘄水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/蘄水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                88
+            ]
+        }
+    },
+    {
+        "_id": "決水",
+        "_index": "river",
+        "_source": {
+            "_label": "決水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/決水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                89
+            ]
+        }
+    },
+    {
+        "_id": "沘水",
+        "_index": "river",
+        "_source": {
+            "_label": "沘水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沘水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                90
+            ]
+        }
+    },
+    {
+        "_id": "泄水",
+        "_index": "river",
+        "_source": {
+            "_label": "泄水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泄水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                91
+            ]
+        }
+    },
+    {
+        "_id": "肥水",
+        "_index": "river",
+        "_source": {
+            "_label": "肥水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/肥水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                92
+            ]
+        }
+    },
+    {
+        "_id": "施水",
+        "_index": "river",
+        "_source": {
+            "_label": "施水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/施水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                93
+            ]
+        }
+    },
+    {
+        "_id": "沮水",
+        "_index": "river",
+        "_source": {
+            "_label": "沮水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沮水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                94
+            ]
+        }
+    },
+    {
+        "_id": "漳水",
+        "_index": "river",
+        "_source": {
+            "_label": "漳水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漳水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                95
+            ]
+        }
+    },
+    {
+        "_id": "夏水",
+        "_index": "river",
+        "_source": {
+            "_label": "夏水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/夏水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                96
+            ]
+        }
+    },
+    {
+        "_id": "羌水",
+        "_index": "river",
+        "_source": {
+            "_label": "羌水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/羌水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                97
+            ]
+        }
+    },
+    {
+        "_id": "涪水",
+        "_index": "river",
+        "_source": {
+            "_label": "涪水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/涪水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                98
+            ]
+        }
+    },
+    {
+        "_id": "梓橦水",
+        "_index": "river",
+        "_source": {
+            "_label": "梓橦水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/梓橦水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                99
+            ]
+        }
+    },
+    {
+        "_id": "涔水",
+        "_index": "river",
+        "_source": {
+            "_label": "涔水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/涔水.json",
+            "巻": [
+                "巻32"
+            ],
+            "通番": [
+                100
+            ]
+        }
+    },
+    {
+        "_id": "江水1",
+        "_index": "river",
+        "_source": {
+            "_label": "江水1",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/江水1.json",
+            "巻": [
+                "巻33"
+            ],
+            "通番": [
+                101
+            ]
+        }
+    },
+    {
+        "_id": "江水2",
+        "_index": "river",
+        "_source": {
+            "_label": "江水2",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/江水2.json",
+            "巻": [
+                "巻34"
+            ],
+            "通番": [
+                102
+            ]
+        }
+    },
+    {
+        "_id": "江水3",
+        "_index": "river",
+        "_source": {
+            "_label": "江水3",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/江水3.json",
+            "巻": [
+                "巻35"
+            ],
+            "通番": [
+                103
+            ]
+        }
+    },
+    {
+        "_id": "青衣水",
+        "_index": "river",
+        "_source": {
+            "_label": "青衣水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/青衣水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                104
+            ]
+        }
+    },
+    {
+        "_id": "桓水",
+        "_index": "river",
+        "_source": {
+            "_label": "桓水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/桓水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                105
+            ]
+        }
+    },
+    {
+        "_id": "若水",
+        "_index": "river",
+        "_source": {
+            "_label": "若水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/若水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                106
+            ]
+        }
+    },
+    {
+        "_id": "沫水",
+        "_index": "river",
+        "_source": {
+            "_label": "沫水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沫水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                107
+            ]
+        }
+    },
+    {
+        "_id": "延江水",
+        "_index": "river",
+        "_source": {
+            "_label": "延江水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/延江水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                108
+            ]
+        }
+    },
+    {
+        "_id": "存水",
+        "_index": "river",
+        "_source": {
+            "_label": "存水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/存水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                109
+            ]
+        }
+    },
+    {
+        "_id": "温水",
+        "_index": "river",
+        "_source": {
+            "_label": "温水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/温水.json",
+            "巻": [
+                "巻36"
+            ],
+            "通番": [
+                110
+            ]
+        }
+    },
+    {
+        "_id": "淹水",
+        "_index": "river",
+        "_source": {
+            "_label": "淹水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/淹水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                111
+            ]
+        }
+    },
+    {
+        "_id": "葉榆水",
+        "_index": "river",
+        "_source": {
+            "_label": "葉榆水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/葉榆水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                112
+            ]
+        }
+    },
+    {
+        "_id": "夷水",
+        "_index": "river",
+        "_source": {
+            "_label": "夷水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/夷水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                113
+            ]
+        }
+    },
+    {
+        "_id": "油水",
+        "_index": "river",
+        "_source": {
+            "_label": "油水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/油水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                114
+            ]
+        }
+    },
+    {
+        "_id": "澧水",
+        "_index": "river",
+        "_source": {
+            "_label": "澧水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/澧水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                115
+            ]
+        }
+    },
+    {
+        "_id": "沅水",
+        "_index": "river",
+        "_source": {
+            "_label": "沅水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沅水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                116
+            ]
+        }
+    },
+    {
+        "_id": "泿水",
+        "_index": "river",
+        "_source": {
+            "_label": "泿水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泿水.json",
+            "巻": [
+                "巻37"
+            ],
+            "通番": [
+                117
+            ]
+        }
+    },
+    {
+        "_id": "資水",
+        "_index": "river",
+        "_source": {
+            "_label": "資水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/資水.json",
+            "巻": [
+                "巻38"
+            ],
+            "通番": [
+                118
+            ]
+        }
+    },
+    {
+        "_id": "漣水",
+        "_index": "river",
+        "_source": {
+            "_label": "漣水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漣水.json",
+            "巻": [
+                "巻38"
+            ],
+            "通番": [
+                119
+            ]
+        }
+    },
+    {
+        "_id": "湘水",
+        "_index": "river",
+        "_source": {
+            "_label": "湘水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/湘水.json",
+            "巻": [
+                "巻38"
+            ],
+            "通番": [
+                120
+            ]
+        }
+    },
+    {
+        "_id": "灕水",
+        "_index": "river",
+        "_source": {
+            "_label": "灕水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/灕水.json",
+            "巻": [
+                "巻38"
+            ],
+            "通番": [
+                121
+            ]
+        }
+    },
+    {
+        "_id": "溱水",
+        "_index": "river",
+        "_source": {
+            "_label": "溱水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/溱水.json",
+            "巻": [
+                "巻38"
+            ],
+            "通番": [
+                122
+            ]
+        }
+    },
+    {
+        "_id": "洭水",
+        "_index": "river",
+        "_source": {
+            "_label": "洭水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洭水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                123
+            ]
+        }
+    },
+    {
+        "_id": "深水",
+        "_index": "river",
+        "_source": {
+            "_label": "深水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/深水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                124
+            ]
+        }
+    },
+    {
+        "_id": "鍾水",
+        "_index": "river",
+        "_source": {
+            "_label": "鍾水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/鍾水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                125
+            ]
+        }
+    },
+    {
+        "_id": "耒水",
+        "_index": "river",
+        "_source": {
+            "_label": "耒水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/耒水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                126
+            ]
+        }
+    },
+    {
+        "_id": "洣水",
+        "_index": "river",
+        "_source": {
+            "_label": "洣水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洣水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                127
+            ]
+        }
+    },
+    {
+        "_id": "漉水",
+        "_index": "river",
+        "_source": {
+            "_label": "漉水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漉水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                128
+            ]
+        }
+    },
+    {
+        "_id": "瀏水",
+        "_index": "river",
+        "_source": {
+            "_label": "瀏水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/瀏水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                129
+            ]
+        }
+    },
+    {
+        "_id": "㵋水",
+        "_index": "river",
+        "_source": {
+            "_label": "㵋水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/㵋水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                130
+            ]
+        }
+    },
+    {
+        "_id": "贛水",
+        "_index": "river",
+        "_source": {
+            "_label": "贛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/贛水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                131
+            ]
+        }
+    },
+    {
+        "_id": "廬江水",
+        "_index": "river",
+        "_source": {
+            "_label": "廬江水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/廬江水.json",
+            "巻": [
+                "巻39"
+            ],
+            "通番": [
+                132
+            ]
+        }
+    },
+    {
+        "_id": "漸江水",
+        "_index": "river",
+        "_source": {
+            "_label": "漸江水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/漸江水.json",
+            "巻": [
+                "巻40"
+            ],
+            "通番": [
+                133
+            ]
+        }
+    },
+    {
+        "_id": "斤江水",
+        "_index": "river",
+        "_source": {
+            "_label": "斤江水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/斤江水.json",
+            "巻": [
+                "巻40"
+            ],
+            "通番": [
+                134
+            ]
+        }
+    },
+    {
+        "_id": "侵離水",
+        "_index": "river",
+        "_source": {
+            "_label": "侵離水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/侵離水.json",
+            "巻": [
+                "巻40"
+            ],
+            "通番": [
+                135
+            ]
+        }
+    },
+    {
+        "_id": "滏水",
+        "_index": "river",
+        "_source": {
+            "_label": "滏水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滏水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                136
+            ]
+        }
+    },
+    {
+        "_id": "洺水",
+        "_index": "river",
+        "_source": {
+            "_label": "洺水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洺水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                137
+            ]
+        }
+    },
+    {
+        "_id": "湡水",
+        "_index": "river",
+        "_source": {
+            "_label": "湡水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/湡水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                138
+            ]
+        }
+    },
+    {
+        "_id": "泜水",
+        "_index": "river",
+        "_source": {
+            "_label": "泜水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泜水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                139
+            ]
+        }
+    },
+    {
+        "_id": "滹沱河",
+        "_index": "river",
+        "_source": {
+            "_label": "滹沱河",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滹沱河.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                140
+            ]
+        }
+    },
+    {
+        "_id": "泒水",
+        "_index": "river",
+        "_source": {
+            "_label": "泒水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/泒水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                141
+            ]
+        }
+    },
+    {
+        "_id": "滋水",
+        "_index": "river",
+        "_source": {
+            "_label": "滋水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滋水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                142
+            ]
+        }
+    },
+    {
+        "_id": "沛水",
+        "_index": "river",
+        "_source": {
+            "_label": "沛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/沛水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                143
+            ]
+        }
+    },
+    {
+        "_id": "南蘇水",
+        "_index": "river",
+        "_source": {
+            "_label": "南蘇水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/南蘇水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                144
+            ]
+        }
+    },
+    {
+        "_id": "馬訾水",
+        "_index": "river",
+        "_source": {
+            "_label": "馬訾水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/馬訾水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                145
+            ]
+        }
+    },
+    {
+        "_id": "鹽難水",
+        "_index": "river",
+        "_source": {
+            "_label": "鹽難水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/鹽難水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                146
+            ]
+        }
+    },
+    {
+        "_id": "列水",
+        "_index": "river",
+        "_source": {
+            "_label": "列水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/列水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                147
+            ]
+        }
+    },
+    {
+        "_id": "帶水",
+        "_index": "river",
+        "_source": {
+            "_label": "帶水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/帶水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                148
+            ]
+        }
+    },
+    {
+        "_id": "洛水",
+        "_index": "river",
+        "_source": {
+            "_label": "洛水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/洛水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                149
+            ]
+        }
+    },
+    {
+        "_id": "豐水",
+        "_index": "river",
+        "_source": {
+            "_label": "豐水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/豐水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                150
+            ]
+        }
+    },
+    {
+        "_id": "涇水",
+        "_index": "river",
+        "_source": {
+            "_label": "涇水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/涇水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                151
+            ]
+        }
+    },
+    {
+        "_id": "芮水",
+        "_index": "river",
+        "_source": {
+            "_label": "芮水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/芮水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                152
+            ]
+        }
+    },
+    {
+        "_id": "聲洋丹水",
+        "_index": "river",
+        "_source": {
+            "_label": "聲洋丹水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/聲洋丹水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                153
+            ]
+        }
+    },
+    {
+        "_id": "治水",
+        "_index": "river",
+        "_source": {
+            "_label": "治水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/治水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                154
+            ]
+        }
+    },
+    {
+        "_id": "滁水",
+        "_index": "river",
+        "_source": {
+            "_label": "滁水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/滁水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                155
+            ]
+        }
+    },
+    {
+        "_id": "弱水",
+        "_index": "river",
+        "_source": {
+            "_label": "弱水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/弱水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                156
+            ]
+        }
+    },
+    {
+        "_id": "黑水",
+        "_index": "river",
+        "_source": {
+            "_label": "黑水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/黑水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                157
+            ]
+        }
+    },
+    {
+        "_id": "谷水",
+        "_index": "river",
+        "_source": {
+            "_label": "谷水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/谷水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                158
+            ]
+        }
+    },
+    {
+        "_id": "柗陝水",
+        "_index": "river",
+        "_source": {
+            "_label": "柗陝水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/柗陝水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                159
+            ]
+        }
+    },
+    {
+        "_id": "呼蠶水",
+        "_index": "river",
+        "_source": {
+            "_label": "呼蠶水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/呼蠶水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                160
+            ]
+        }
+    },
+    {
+        "_id": "籍端水",
+        "_index": "river",
+        "_source": {
+            "_label": "籍端水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/籍端水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                161
+            ]
+        }
+    },
+    {
+        "_id": "氐置水",
+        "_index": "river",
+        "_source": {
+            "_label": "氐置水",
+            "curation": "https://nakamura196.github.io/suikeichuuzu/iiif-curation/氐置水.json",
+            "巻": [
+                "補"
+            ],
+            "通番": [
+                162
+            ]
+        }
+    }
+]

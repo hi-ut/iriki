@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <!-- <title>trans.tif</title> -->
+
+    <!-- Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      rel="stylesheet"
+    />
+
+    <script src="https://dayjournal.github.io/Leaflet.Control.Opacity/plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.js"></script>
+    <link
+      href="https://dayjournal.github.io/Leaflet.Control.Opacity/plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css"
+    />
+    <script src="https://leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://labs.easyblog.it/maps/leaflet-search/src/leaflet-search.css"
+    />
+    <script src="https://labs.easyblog.it/maps/leaflet-search/src/leaflet-search.js"></script>
+
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      body,
+      table,
+      tr,
+      td,
+      th,
+      div,
+      h1,
+      h2,
+      input {
+        font-family: 'Calibri', 'Trebuchet MS', 'Ubuntu', serif;
+        font-size: 11pt;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      } /* full size */
+      .ctl {
+        padding: 2px 10px 2px 10px;
+        background: white;
+        background: rgba(255, 255, 255, 0.9);
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        text-align: right;
+      }
+      .title {
+        font-size: 18pt;
+        font-weight: bold;
+      }
+      .src {
+        font-size: 10pt;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script>
+      /* **** Leaflet **** */
+
+      // Base layers
+
+      var opentopomap = L.tileLayer(
+        'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
+        {
+          attribution:
+            "<a href='https://maps.gsi.go.jp/development/ichiran.html' target='_blank'>地理院タイル</a>",
+          minZoom: 3,
+          maxZoom: 18,
+        }
+      )
+
+      //  .. OpenStreetMap
+      var osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution:
+          '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+        minZoom: 3,
+        maxZoom: 18,
+      })
+
+      //  .. CartoDB Positron
+      // var cartodb = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', minZoom: 3, maxZoom: 18});
+
+      //  .. OSM Toner
+      // var toner = L.tileLayer('http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png', {attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.', minZoom: 3, maxZoom: 18});
+
+      //  .. White background
+      var white = L.tileLayer(
+        'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEX///+nxBvIAAAAH0lEQVQYGe3BAQ0AAADCIPunfg43YAAAAAAAAAAA5wIhAAAB9aK9BAAAAABJRU5ErkJggg==',
+        { minZoom: 3, maxZoom: 18 }
+      )
+
+      // Overlay layers (TMS)
+      // var lyr = L.tileLayer('https://nakamura196.github.io/shoen/files/%E4%BB%81-108/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
+
+      // Overlay layers (TMS)
+      // var i328= L.tileLayer('https://nakamura196.github.io/shoen/files/以-328/{z}/{x}/{y}.png', {tms: 0, opacity: 1.0, attribution: "", minZoom: 3, maxZoom: 18});
+
+      var map2 = {
+        'shoho-0001': {
+          label: '正保琉球国絵図写',
+          area:
+            '[[25.797134657538017, 130.75158683634245], [28.711126845551576, 127.91400294292924]]',
+        },
+        /*
+            "仁-108" : {
+                label: "伯耆国河村郡東郷庄之図",
+                area: "[[35.37549779199775, 133.99629248877577], [35.53763257208167, 133.82242056367633]]"
+            },
+            "仁-124" : {
+                label: "但馬国神戸郷絵図" ///
+            },
+            "仁-126" : {
+                label: "大和国西大寺与秋篠寺堺相論絵図",
+                area : "[[34.67681788486549, 135.7910650373658], [34.73499803551114, 135.78225484499313]]"
+            },
+            "以-328" : {
+                label: "揖保川筋堰図",
+                area : "[[34.77956921592404, 134.608822789808], [34.93717897363611, 134.5162094811197]]"
+            },
+            "以-341-3" : {
+                label: "陸奥国骨寺絵図（簡略図）",
+                area: "[[38.92326866313592, 141.0056835947305], [39.00452942252907, 140.89290474759994]]"
+            },
+            "以-335" : {
+                label: "紀伊国井上本庄絵図", ////
+                area : "[[34.26519841234924, 135.40825109131626], [34.293035064875426, 135.37736242017414]]"
+            },
+            "保-162" : {
+                label: "神護寺領高雄山絵図",
+                area : "[[35.01648473720891, 135.6984232509302], [35.10734978552389, 135.64710369621207]]"
+            },
+            "保-167-1" : {
+                label: "長門二宮絵図1",
+                area: "[[33.964566209968176, 131.01179938266807], [34.01936793401684, 130.94573110339869]]"
+            }
+            */
+      }
+
+      var layers = [opentopomap]
+
+      var overlaymaps = {}
+
+      for (let key in map2) {
+        const lyr_each = L.tileLayer(
+          'https://hi-ut.github.io/ryukyu_data/files/' +
+            key +
+            '/{z}/{x}/{y}.png',
+          { tms: 0, opacity: 1.0, attribution: '', minZoom: 3, maxZoom: 18 }
+        )
+        layers.push(lyr_each)
+        map2[key].layer = lyr_each
+      }
+
+      // Map
+      var map = L.map('map', {
+        center: [28.261931, 129.184641],
+        zoom: 7,
+        minZoom: 3,
+        maxZoom: 18,
+        layers,
+      })
+
+      var basemaps = {
+        地理院タイル: opentopomap,
+        //"CartoDB Positron": cartodb, "Stamen Toner": toner,
+        'Without background': white,
+      }
+
+      //var label = "伯耆国河村郡東郷庄之図"
+      //overlaymaps[label] = lyr
+
+      for (let key in map2) {
+        const item = map2[key]
+        overlaymaps[item.label] = item.layer
+      }
+
+      // Title
+      var title = L.control()
+      title.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'ctl title')
+        this.update()
+        return this._div
+      }
+
+      title.update = function (props) {
+        //this._div.innerHTML = label;
+      }
+      title.addTo(map)
+
+      // Note
+      var src = '東京大学史料編纂所'
+      var title = L.control({ position: 'bottomleft' })
+      title.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'ctl src')
+        this.update()
+        return this._div
+      }
+      title.update = function (props) {
+        let lis = ''
+        for (let key in map2) {
+          let item = map2[key]
+          lis += `<li><a href=\"javascript:zoom(${item.area});\">${item.label}</a></li>`
+        }
+
+        let div =
+          "<div style='text-align: left;'><p>当該地図へフォーカス</p><ul>" +
+          lis +
+          '</ul></div>'
+
+        this._div.innerHTML = div //src;
+      }
+      title.addTo(map)
+
+      // Add base layers
+      L.control.layers(basemaps, overlaymaps, { collapsed: false }).addTo(map)
+
+      //OpacityControl
+      L.control
+        .opacity(overlaymaps, {
+          label: 'Layers Opacity',
+        })
+        .addTo(map)
+
+      // Fit to overlay bounds (SW and NE points with (lat, lon))
+      // map.fitBounds([[35.37549779199775, 133.99629248877577], [35.53763257208167, 133.82242056367633]]);
+
+      let xhr = new XMLHttpRequest()
+      xhr.open('GET', '../data/index.json')
+
+      xhr.onload = () => {
+        let responseJson = JSON.parse(xhr.response)
+
+        var markers = L.markerClusterGroup()
+
+        for (const item of responseJson) {
+          //if(item["図"][0] === label){
+          if (item.latitude[0] !== '') {
+            const marker = new L.marker(
+              [Number(item.latitude[0]), Number(item.longitude[0])],
+              { title: item.label }
+            ).bindPopup(
+              `<div><a target="_parent" href="../item/${item.objectID}">${item.label}</a></div>`
+            )
+            //.addTo(map);
+
+            markers.addLayer(marker)
+          }
+
+          //}
+        }
+
+        map.addLayer(markers)
+
+        var controlSearch = new L.Control.Search({
+          position: 'topleft',
+          layer: markers,
+          initial: false,
+          zoom: 15,
+          marker: L.circleMarker([0, 0], { radius: 30 }),
+        })
+
+        map.addControl(controlSearch)
+      }
+
+      xhr.send()
+
+      function zoom(area) {
+        map.fitBounds(area)
+      }
+    </script>
+  </body>
+</html>
