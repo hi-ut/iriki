@@ -47,23 +47,24 @@
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
 import axios from "axios"
-import { GChart } from 'vue-google-charts'
-const { Network } = require('vue-visjs')
+
+const { GChart } = require('vue-google-charts')
 
 @Component({
   components: {
-    Network,
-     GChart,
+    GChart,
   },
 })
 export default class Item extends Vue {
 
+  chartData: any[] = []
+
   chartOptions : any =  {
-      chart: {
-        title: 'Company Performance',
-        subtitle: 'Sales, Expenses, and Profit: 2014-2017',
-      },
-    }
+    chart: {
+      title: 'Company Performance',
+      subtitle: 'Sales, Expenses, and Profit: 2014-2017',
+    },
+  }
 
   nodes: any[] = [
     /*
@@ -114,12 +115,12 @@ export default class Item extends Vue {
   }
 
   created(){
-    const years = {}
+    const years: any = {}
     const items = (this as any).items
     let minYear = 2000
     let maxYear = 0
 
-    let map = {}
+    let map: any = {}
 
     for (const item of items) {
       if(!item.date){
@@ -148,7 +149,7 @@ export default class Item extends Vue {
       years[i] = {}
     }
 
-    const data = [['Year', 'Appearances']]
+    const data: any[] = [['Year', 'Appearances']]
 
     for (const year in years) {
       let freq = 0

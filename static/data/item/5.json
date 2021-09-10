@@ -1,0 +1,35 @@
+{
+    "_updated": "2021-09-11",
+    "agential": [
+        "入来院重門"
+    ],
+    "collection": [
+        "入来院家文書 一"
+    ],
+    "date": [
+        "1367-03-11"
+    ],
+    "jcdate": [
+        "正平22年2月10日"
+    ],
+    "label": "後村上天皇綸旨",
+    "no": [
+        "5"
+    ],
+    "objectID": "5",
+    "received": [
+        "入来院重門"
+    ],
+    "sent": [
+        "右衛門権佐"
+    ],
+    "vol": [
+        "1帖"
+    ],
+    "xml": [
+        "<body>\n<div>\n<p>\n<!-- <lb/> 　五　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（白紙、小切紙）-->\n<lb/> 致軍忠之由被聞食了、尤以神妙者、\n\t\t\t\t<lb/> 天気如此、悉之以状、\n\t\t\t\t<lb/> 　　　<date when=\"1367-03-11\">正平廿二年二月十日</date>　　右衛門権佐（花押）\n\t\t\t\t<lb/> 　<persName corresp=\"#入来院重門\">渋谷 弾正\n\t\t\t\t\t<note corresp=\"#少、下同ジ\">小</note> 弼</persName>館\n\t\t\t</p>\n</div>\n<div type=\"懸紙ウハ書\">\n<p>\n<lb/> 　 <note corresp=\"#懸紙ウハ書\">「</note>\n<persName corresp=\"#入来院重門\">渋谷<name corresp=\"#弾正少弼\" ref=\"https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058\" type=\"keyword\">弾正 <note corresp=\"#少\">小</note> 弼</name></persName>館　右衛門権佐（花押）」\n\t\t\t\t\t</p>\n</div>\n</body>"
+    ],
+    "外題": [
+        "御綸旨御下文御感状御教書　九通　九番"
+    ]
+}

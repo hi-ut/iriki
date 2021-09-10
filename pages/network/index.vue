@@ -19,7 +19,30 @@
       class="mt-10"
       :headers="headers"
       :items="items2"
-    ></v-data-table>
+    >
+    <template v-slot:item.sent="{ item }">
+       <nuxt-link :to="localePath({
+        name: 'people-id',
+        params: {
+          id: item.sent
+        }
+      })">
+      {{item.sent}}
+      </nuxt-link>
+    </template>
+    
+     <template v-slot:item.received="{ item }">
+       <nuxt-link :to="localePath({
+        name: 'people-id',
+        params: {
+          id: item.received
+        }
+      })">
+      {{item.received}}
+      </nuxt-link>
+    </template>
+    
+    </v-data-table>
      </v-container>
   </div>
 </template>

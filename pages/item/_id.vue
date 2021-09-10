@@ -375,7 +375,7 @@ export default class Item extends Vue {
     const vol = Number(spl[0])
     const leaf = Number(spl[1])
     const hash = `${vol}_${leaf}`
-    return "https://hi-ut.github.io/iriki-viewer/item/" + vol// + "#" + hash
+    return "https://hi-ut.github.io/iriki-viewer/item/" + 1 //vol// + "#" + hash
   }
 
   getQuery(key: string, value: string) {

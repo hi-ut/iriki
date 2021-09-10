@@ -37,6 +37,7 @@
 
     <template v-slot:item.url="{ item }">
       <a
+        v-if="item.url"
         target="_blank"
         :href="item.url"
       >
