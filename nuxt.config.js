@@ -64,7 +64,28 @@ env.hide = []
 env.isRdf = false
 
 env.list = [
-  "collection"
+  {
+    "id" : "collection",
+    "label" : "コレクション"
+  },
+  {
+    "id" : "text",
+    "label" : "本文",
+    "highlight" : true,
+    "text": true
+  },
+  /*
+  {
+    "id" : "xml",
+    "label" : "xml",
+    "highlight" : true,
+    "html" : true
+  }
+  */
+  /*
+  "collection",
+  "text"
+  */
 ]
 
 env.detail = [
@@ -161,7 +182,7 @@ env.advanced = [
   */
 ]
 
-env.viewer = "curation"
+env.viewer = "" //"curation"
 env.visualization = "https://nakamura196.github.io/dd2"
 
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))

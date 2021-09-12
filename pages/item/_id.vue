@@ -9,8 +9,8 @@
         </v-breadcrumbs>
       </v-container>
     </v-sheet>
-    <template v-if="iframeUrl">
-      <div style="background-color: #f5f5f5;">
+    <template>
+      <div style="background-color: #f5f5f5;" v-if="iframeUrl">
         <v-container class="py-0" style="height: 450px">
           <iframe
             :src="iframeUrl"
@@ -349,20 +349,26 @@ export default class Item extends Vue {
   get iframeUrl() {
     const manifest = (this as any).item.manifest
 
+    console.log({manifest})
+
     if(!manifest){
       return ""
     }
 
+    let value = ""
+
     if(process.env.viewer === "curation"){
       const memberId = (this as any).item.member
-      return this.baseUrl + '/curation/?manifest=' + manifest + '&canvas=' + (memberId.includes("#") ? encodeURIComponent(memberId) : 
+      value =  this.baseUrl + '/curation/?manifest=' + manifest + '&canvas=' + (memberId.includes("#") ? encodeURIComponent(memberId) : 
         memberId)
     } else {
-      return
+      value =
         'https://universalviewer.io/examples/uv/uv.html#?manifest=' +
         manifest +
         '&bottomPanel=true'
     }
+
+    return value
   }
 
   get rdfUrl() {
