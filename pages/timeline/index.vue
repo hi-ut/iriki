@@ -91,9 +91,14 @@ export default class Item extends Vue {
   }
 
   headers: any[] = [
-
+    {
+      text: 'ID', value: 'objectID'
+    },
     {
       text: 'label', value: 'label'
+    },
+    {
+      text: 'collection', value: 'collection'
     },
     {
       text: 'date', value: 'date'

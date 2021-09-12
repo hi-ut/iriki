@@ -17,6 +17,22 @@ env.aggs = {
     more: false,
     open:true
   },
+  spatial: {
+    key: "spatial",
+    sort: '',
+    label: 'spatial',
+    value: {},
+    more: false,
+    open:true
+  },
+  about: {
+    key: "about",
+    sort: '',
+    label: 'about',
+    value: {},
+    more: false,
+    open:true
+  },
   sent: {
     key: "sent",
     sort: '',
@@ -92,6 +108,14 @@ env.detail = [
   {
     label: "agential",
     value: "agential"
+  },
+  {
+    label: "spatial",
+    value: "spatial"
+  },
+  {
+    label: "about",
+    value: "about"
   },
   {
     label: "collection",

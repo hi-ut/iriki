@@ -1,0 +1,35 @@
+{
+    "_updated": "2021-09-12",
+    "agential": [
+        "渋谷平二五郎重勝",
+        "式部大丞"
+    ],
+    "collection": [
+        "入来院家文書 一"
+    ],
+    "date": [
+        "1333-12-16"
+    ],
+    "jcdate": [
+        "元弘3年11月9日"
+    ],
+    "label": "後醍醐天皇綸旨",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/2/manifest.json",
+    "no": [
+        "2"
+    ],
+    "objectID": "2",
+    "text": [
+        "\n\n\n 渋谷平二五郎重勝当知行地、不可有相違者、\n\t\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t\t 　　　元弘三年十一月九日　　　　　　　　　式部大丞（花押）\n\t\t\t\t\t\n\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000003.jpg",
+    "vol": [
+        "1帖"
+    ],
+    "xml": [
+        "<body>\n<div type=\"宿紙\">\n<p>\n<lb/> <persName corresp=\"#渋谷平二五郎重勝\">渋谷平二五郎重勝</persName>当知行地、不可有相違者、\n\t\t\t\t\t<lb/> 天気如此、悉之以状、\n\t\t\t\t\t<lb/> 　　　<date when=\"1333-12-16\">元弘三年十一月九日</date>　　　　　　　　　<persName corresp=\"#式部大丞\">式部大丞</persName>（花押）\n\t\t\t\t\t<lb/>\n</p>\n</div>\n</body>"
+    ],
+    "外題": [
+        "御綸旨御下文御感状御教書　九通　九番"
+    ]
+}
