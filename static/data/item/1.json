@@ -1,0 +1,39 @@
+{
+    "_updated": "2021-09-12",
+    "about": [
+        "https://www.wikidata.org/wiki/Q11487841",
+        "式部大丞"
+    ],
+    "agential": [
+        "入来院重基"
+    ],
+    "collection": [
+        "入来院家文書 一"
+    ],
+    "date": [
+        "1333-12-16",
+        "1333-12-16"
+    ],
+    "jcdate": [
+        "元弘三年十一月九日"
+    ],
+    "label": "後醍醐天皇綸旨",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/1/manifest.json",
+    "no": [
+        "1"
+    ],
+    "objectID": "1",
+    "text": [
+        "\n\n\n 渋谷新平二入道\n\t\t\t\t\t\n定円\n当知行地、不可\n\t\t\t\t\t有相違者、\n\t\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t\t 　　　元弘三年十一月九日　　　　　　　　　式部大丞（花押）\n\n\n\n\n\nTHE land in actual holding of Shibuya\n\t\t\t\t\tShin-hei-zhi nyu-do\nJo-Yen shall not be disturbed. The Imperial\n\t\t\t\t\tpleasure is hereby conveyed.\n\t\t\t\t\tGen-ko 3 y. 11 m. 9 d. [16 December 1333].\n\t\t\t\t\t\tShiki-bu dai-zho,\n\t\t\t\t\t\t(monogram).\nTo-chi-gyo chi, land in actual\n\t\t\t\t\tholding.\nThis is Shigemoto, the fourth\n\t\t\t\t\tlord of the Iriki-in.\nOne who bore the official title\n\t\t\t\t\tdai-zho in the shiki-bu department. He transmits the imperial decree.\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000002.jpg",
+    "vol": [
+        "1帖"
+    ],
+    "xml": [
+        "<body>\n<div type=\"original\">\n<p>\n<lb facs=\"#zone_tvt_kky_r2b\"/> 渋谷新平二入道\n\t\t\t\t\t<lb facs=\"#zone_qb2_lky_r2b\"/>\n<persName corresp=\"#入来院重基\">定円</persName>\n<name corresp=\"https://www.wikidata.org/wiki/Q11487841\" type=\"keyword\">当知行</name>地、不可\n\t\t\t\t\t<lb facs=\"#zone_mkn_lky_r2b\"/>有相違者、\n\t\t\t\t\t<lb facs=\"#zone_hnw_lky_r2b\"/> 天気如此、悉之以状、\n\t\t\t\t\t<lb/> 　　　<seg facs=\"#zone_rwf_mky_r2b\"><date when=\"1333-12-16\">元弘三年十一月九日</date></seg>　　　　　　　　　<seg facs=\"#zone_hmw_mky_r2b\"><name corresp=\"#式部大丞\" ref=\"http://www.wikidata.org/entity/Q3727885\" type=\"keyword\">式部大丞</name></seg><seg facs=\"#zone_nst_nky_r2b\">（花押）</seg>\n<lb/>\n</p>\n</div>\n<div type=\"english\">\n<p>\n<lb/><seg xml:id=\"noteEn1-1-1\">THE land in actual holding</seg> of Shibuya\n\t\t\t\t\tShin-hei-zhi <emph rend=\"italic\">nyu-do</emph>\n<persName corresp=\"#入来院重基\"><seg xml:id=\"noteEn1-1-2\">Jo-Yen</seg></persName> shall not be disturbed. The Imperial\n\t\t\t\t\tpleasure is hereby conveyed.\n\t\t\t\t\t<lb/><date when=\"1333-12-16\">Gen-ko 3 y. 11 m. 9 d. [16 December 1333]</date>.\n\t\t\t\t\t\t<emph rend=\"italic\"><seg xml:id=\"noteEn1-1-3\">Shiki-bu dai-zho</seg></emph>,\n\t\t\t\t\t\t<span facs=\"#zone_nst_nky_r2b\">(monogram)</span>.</p>\n<note target=\"#noteEn1-1-1\" type=\"translatorsNotes\">To-chi-gyo chi, land in actual\n\t\t\t\t\tholding.</note>\n<note target=\"#noteEn1-1-2\" type=\"translatorsNotes\">This is Shigemoto, the fourth\n\t\t\t\t\tlord of the Iriki-in.</note>\n<note target=\"#noteEn1-1-3\" type=\"translatorsNotes\">One who bore the official title\n\t\t\t\t\tdai-zho in the shiki-bu department. He transmits the imperial decree.</note>\n</div>\n</body>"
+    ],
+    "外題": [
+        "御綸旨御下文御感状御教書　九通　九番"
+    ]
+}

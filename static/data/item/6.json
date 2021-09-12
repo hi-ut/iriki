@@ -1,0 +1,42 @@
+{
+    "_updated": "2021-09-12",
+    "agential": [
+        "渋谷重門",
+        "池尻胤房",
+        "渋谷重頼"
+    ],
+    "collection": [
+        "入来院家文書 一"
+    ],
+    "date": [
+        "1373-01-11"
+    ],
+    "jcdate": [
+        "文中1年12月21日"
+    ],
+    "label": "征西将軍宮(懐良親王)令旨",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/6/manifest.json",
+    "no": [
+        "6"
+    ],
+    "objectID": "6",
+    "received": [
+        "渋谷重頼"
+    ],
+    "sent": [
+        "池尻胤房"
+    ],
+    "text": [
+        "\n\n\n\n 薩州峯城合戦之時、 親父 討死之条、所被感思食也、可有抽賞之状、依\n\t\t\t\t\t\t 仰執達如件、\n\t\t\t\t\t\t 　　　文中元年十二月廿一日　 左 少将（花押）\n\t\t\t\t\t\t 　　　渋谷 乕五郎 殿\n\t\t\t\t\t\t 　　　 「\n渋谷乕五郎殿」\n\t\t\t\t\t\t\n\n\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000007.jpg",
+    "vol": [
+        "1帖"
+    ],
+    "xml": [
+        "<body>\n<div type=\"original\">\n<div type=\"白紙_小切紙\">\n<p>\n<!--六　征西将軍宮懐良親王令旨（白紙、小切紙）--> 薩州峯城合戦之時、 <persName corresp=\"#渋谷重門\"><note corresp=\"#重門\">親父</note></persName> 討死之条、所被感思食也、可有抽賞之状、依\n\t\t\t\t\t\t<lb/> 仰執達如件、\n\t\t\t\t\t\t<lb/> 　　　<date when=\"1373-01-11\">文中元年十二月廿一日</date>　 <persName corresp=\"#池尻胤房\" ref=\"https://kotobank.jp/word/%E6%B1%A0%E5%B0%BB%E8%83%A4%E6%88%BF-1052425\"><note corresp=\"#池尻胤房\">左</note> 少将</persName>（花押）\n\t\t\t\t\t\t<lb/> 　　　<persName corresp=\"#渋谷重頼\" ref=\"https://kotobank.jp/word/%E6%B8%8B%E8%B0%B7%E9%87%8D%E9%A0%BC-1080705\">渋谷 <note corresp=\"#重頼\">乕五郎</note></persName> 殿\n\t\t\t\t\t\t<lb/> 　　　 <note corresp=\"#別紙\">「</note>\n<persName corresp=\"#渋谷重頼\" ref=\"https://kotobank.jp/word/%E6%B8%8B%E8%B0%B7%E9%87%8D%E9%A0%BC-1080705\">渋谷乕五郎</persName>殿」\n\t\t\t\t\t\t<lb/>\n</p>\n</div>\n</div>\n</body>"
+    ],
+    "外題": [
+        "御綸旨御下文御感状御教書　九通　九番"
+    ]
+}
