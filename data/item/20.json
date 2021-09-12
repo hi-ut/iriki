@@ -1,5 +1,5 @@
 {
-    "_updated": "2021-09-11",
+    "_updated": "2021-09-12",
     "agential": [
         "島津義弘",
         "入来院重高"
@@ -14,6 +14,7 @@
         "慶長5年10月10日"
     ],
     "label": "島津維新(義弘)知行充行状",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/20/manifest.json",
     "no": [
         "4"
     ],
@@ -24,6 +25,10 @@
     "sent": [
         "島津義弘"
     ],
+    "text": [
+        "\n\n 今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・\n\t\t\t\t 和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之\n\t\t\t\t 至、尤感入候、仍知行弐佰石遺之候也、\n\t\t\t\t 　　慶長五\n 　　　　拾月十日　　　　　　　　　　　　　　　維新　（墨印）\n\t\t\t\t 　　　　　　 頴娃弥市郎 殿\n\t\t\t\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000007.jpg",
     "vol": [
         "1巻"
     ],

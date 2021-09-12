@@ -1,5 +1,5 @@
 {
-    "_updated": "2021-09-11",
+    "_updated": "2021-09-12",
     "agential": [
         "西園寺実秀",
         "渋谷重門"
@@ -14,6 +14,7 @@
         "正平19年2月1日"
     ],
     "label": "後村上天皇綸旨",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/4/manifest.json",
     "no": [
         "4"
     ],
@@ -24,6 +25,10 @@
     "sent": [
         "西園寺実秀"
     ],
+    "text": [
+        "\n\n\n\n 参御方、相語一族、 至 軍忠者、於本領 可 有子細、 至 忠節者、恩賞之事\n\t\t\t\t 者、不可有子細也、\n\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t 　　　正平十九年二月一日　　　　　　　　　\n\t\t\t\t\t左 中将（花押）\n\t\t\t\t 　渋谷 能登 守舘\n\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000005.jpg",
     "vol": [
         "1帖"
     ],

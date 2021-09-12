@@ -1,5 +1,5 @@
 {
-    "_updated": "2021-09-11",
+    "_updated": "2021-09-12",
     "agential": [
         "入来院重門"
     ],
@@ -13,6 +13,7 @@
         "正平22年2月10日"
     ],
     "label": "後村上天皇綸旨",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/5/manifest.json",
     "no": [
         "5"
     ],
@@ -23,6 +24,10 @@
     "sent": [
         "右衛門権佐"
     ],
+    "text": [
+        "\n\n\n\n 致軍忠之由被聞食了、尤以神妙者、\n\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t 　　　正平廿二年二月十日　　右衛門権佐（花押）\n\t\t\t\t 　渋谷 弾正\n\t\t\t\t\t小 弼館\n\t\t\t\n\n\n\n 　 「\n渋谷弾正 小 弼館　右衛門権佐（花押）」\n\t\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000006.jpg",
     "vol": [
         "1帖"
     ],
