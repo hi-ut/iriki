@@ -1,19 +1,19 @@
 {
     "_updated": "2021-09-12",
-    "label": "式部大丞",
+    "label": "入来院重基",
     "list": [
         {
             "date": "1333-12-16",
             "label": "後醍醐天皇綸旨",
-            "name": "式部大丞",
-            "objectID": "2"
+            "name": "定円",
+            "objectID": "1"
         },
         {
             "date": "1333-12-16",
             "label": "後醍醐天皇綸旨",
-            "name": "式部大丞",
-            "objectID": "3"
+            "name": "Jo-Yen",
+            "objectID": "1"
         }
     ],
-    "objectID": "式部大丞"
+    "objectID": "入来院重基"
 }
