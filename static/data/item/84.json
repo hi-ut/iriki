@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
-        "渋谷惟重"
+        "渋谷惟重",
+        "平重広"
+    ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
     ],
     "date": [
         "1329-01-21"
@@ -9,9 +13,14 @@
     "label": "9　　嘉暦3年12月21日　　渋谷惟重遺領注進状案（＃８４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/84/manifest.json",
     "objectID": "84",
+    "sent": [
+        "平重広"
+    ],
     "spatial": [
         "相模国",
+        "寺尾村",
         "薩摩国",
+        "塔原",
         "筑前国",
         "筑後国",
         "伊勢国"
@@ -20,7 +29,13 @@
         "\n\n\n「\n\t\t\t\t所領注進　手文」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　注進\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　渋谷孫三郎惟重跡所領事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　合\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一相模国渋谷上庄寺尾村内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　田地肆段\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　在家弐宇内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　壱宇地頭屋敷　同山野立野壱町\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　在家伍宇　付山野在之、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　\n\t\t\t\t「\n\t\t\t\t恩」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　是者法音〃寺院主宗万房押妨之、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一薩摩国入来院内塔原郷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　公田拾捌町七段半内　付山河荒野\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　地頭屋敷壱所\n\t\t\t\t「\n\t\t\t\t赤崎宮内入道　永吉仲入道　五郎太郎入道」　了禅　　　観勝　　西念等居住之、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　樺目田三段有此内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　在家四拾弐宇\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ４５\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　城篭村　在家四宇　河縁入道　弥四郎入道　平四郎　彦三郎入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　淵脇ニ　　壱宇　　無作人\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　借屋崎ニ　弐宇内　山口二郎　刑部入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　有市庭\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　大薗ニ　　弐宇　　又二郎入道　一宇無作人\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　藤九郎入道跡　壱宇　無作人\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　中里ニ　　参宇　　六郎四郎　又二郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　古家薗　　参宇　　岡六是者宗万房一期知行　後藤六入道跡　皮作入道跡　土器作\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　加波目　　壱宇　　弥藤太入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　中塚　　　壱宇　　紀四郎入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　横枕　　　壱宇　　定使\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　久目方　　壱宇　　源大夫入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　宇津木浪　四宇　　平入道　平大夫入道　太郎大夫入道　西原無作人\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　塚原　　　壱宇　　藤三郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　皮屋　　　壱宇　　四郎入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　田代　　　参宇　　三郎大夫跡　道法跡　無作人\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　木葉　　　壱宇　　又五郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　金家　　　壱宇　　弥三郎大夫入道半\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　四分一藤次　四分一六郎二郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　橋口　　　弐宇　　九郎二郎　左近入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　樋脇　　　壱宇　　後藤大夫入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　村古田　　参宇　　二宇無作人　一宇五郎太郎入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　前土古　　弐宇　　師二郎入道　藤七入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　柿木原　　壱宇　　弥四郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　峯越　　　壱宇　　石王\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　松丸　　　壱宇　　皮細工又太郎入道\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　楡木田　　但、此内弐町者、名主押妨之間沙汰最中也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　当正作分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　玖段内井尻一段　桜木三段　月方二段　樺目三段　地頭屋敷付\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　口町　　壱町\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　頭田　　壱町\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一筑前国早良郡下長尾庄\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　田地拾町内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　弐町　　　当知行分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　畠弐段　　当知行分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　屋敷四ヶ所内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　当知行分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　一所　検校次郎\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一筑後国三奈木庄冨永名内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　及杖河原畠壱町　名主自\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一伊勢国大\n\t\t\t\t工\n\t\t\t\t田内在美田\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　田地壱町\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、注進如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ４６\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　嘉暦三年十二月廿一日　　　　　　　　　　　平重広判\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000023.jpg",
+    "type": [
+        "遺領注進状(調査報告書)案"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t所領注進　手文」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　注進\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<persName corresp=\"#渋谷惟重\">渋谷孫三郎惟重</persName>跡所領事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　合\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"相模国\">相模国</placeName>渋谷上庄<placeName>寺尾村</placeName>内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　田地肆段\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　在家弐宇内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　壱宇地頭屋敷　同山野立野壱町\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　在家伍宇　付山野在之、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　\n\t\t\t\t<note corresp=\"#異筆\">「</note>\n\t\t\t\t恩」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　是者法音〃寺院主宗万房押妨之、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内<placeName>塔原</placeName>郷\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　公田拾捌町七段半内　付山河荒野\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　地頭屋敷壱所\n\t\t\t\t<note corresp=\"#異筆\">「</note>\n\t\t\t\t赤崎宮内入道　永吉仲入道　五郎太郎入道」　了禅　　　観勝　　西念等居住之、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　樺目田三段有此内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　在家四拾弐宇\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ４５\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　城篭村　在家四宇　河縁入道　弥四郎入道　平四郎　彦三郎入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　淵脇ニ　　壱宇　　無作人\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　借屋崎ニ　弐宇内　山口二郎　刑部入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　有市庭\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　大薗ニ　　弐宇　　又二郎入道　一宇無作人\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　藤九郎入道跡　壱宇　無作人\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　中里ニ　　参宇　　六郎四郎　又二郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　古家薗　　参宇　　岡六是者宗万房一期知行　後藤六入道跡　皮作入道跡　土器作\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　加波目　　壱宇　　弥藤太入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　中塚　　　壱宇　　紀四郎入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　横枕　　　壱宇　　定使\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　久目方　　壱宇　　源大夫入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　宇津木浪　四宇　　平入道　平大夫入道　太郎大夫入道　西原無作人\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　塚原　　　壱宇　　藤三郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　皮屋　　　壱宇　　四郎入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　田代　　　参宇　　三郎大夫跡　道法跡　無作人\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　木葉　　　壱宇　　又五郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　金家　　　壱宇　　弥三郎大夫入道半\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　四分一藤次　四分一六郎二郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　橋口　　　弐宇　　九郎二郎　左近入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　樋脇　　　壱宇　　後藤大夫入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　村古田　　参宇　　二宇無作人　一宇五郎太郎入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　前土古　　弐宇　　師二郎入道　藤七入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　柿木原　　壱宇　　弥四郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　峯越　　　壱宇　　石王\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　松丸　　　壱宇　　皮細工又太郎入道\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　楡木田　　但、此内弐町者、名主押妨之間沙汰最中也、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　当正作分\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　玖段内井尻一段　桜木三段　月方二段　樺目三段　地頭屋敷付\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　口町　　壱町\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　頭田　　壱町\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"#筑前国\">筑前国</placeName>早良郡下長尾庄\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　田地拾町内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　弐町　　　当知行分\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　畠弐段　　当知行分\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　屋敷四ヶ所内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　当知行分\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　一所　検校次郎\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"#筑後国\">筑後国</placeName>三奈木庄冨永名内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　及杖河原畠壱町　名主自\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"#伊勢国\">伊勢国</placeName>大\n\t\t\t\t<note corresp=\"#功\">工</note>\n\t\t\t\t田内在美田\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　田地壱町\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、注進如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ４６\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　<date when=\"1329-01-21\">嘉暦三年十二月廿一日</date>　　　　　　　　　　　<persName>平重広</persName>判\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

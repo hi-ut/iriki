@@ -3,17 +3,29 @@
     "agential": [
         "武光兼氏"
     ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1374"
     ],
     "label": "14　　(年月日欠)　　　　_河縁殿知行分薗地目録（＃１１３）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/113/manifest.json",
     "objectID": "113",
+    "sent": [
+        "武光兼氏"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n河縁殿知行分薗\n\t\t\t\t\n\t\t\t\t\nすみとのゝ要害きハより五郎大郎かそのゝかきねまて一所、\n\t\t\t\t\n\t\t\t\t\nくほさこ〃〃のその、四にわけて中二きれ、かハヽたのふん、\n\t\t\t\t\n\t\t\t\t\nつたとのゝ屋しき、にしひかしにわけて、にしかハヽたのふん、\n\t\t\t\t\n\t\t\t\t\nゆあなの上さこのハりあまし、\n\t\t\t\t\n\t\t\t\t\n三郎五郎とのゝ小そのゝわりあまし、\n\t\t\t\t\n\t\t\t\t\nミやのうしろつたとのゝ下人の今のやしき、すみとのゝ\n\t\t\t\t用\n\t\t\t\t害下のそのゝわれ〃〃〃〃〃\n\t\t\t\t\n\t\t\t\t\nたふち計也〃〃、\n\t\t\t\t\n\t\t\t\t\nくほのそのつたとのゝまへ一所、\n\t\t\t\t\n\t\t\t\t\n以上河縁御分\n\t\t\t\t\n「\n心賢\n\t\t\t\t分　　応安七八両年分畢、\n\t\t\t\t\n\t\t\t\t\n西入道屋敷、又大郎入道屋敷道越に有之、了心屋敷、彦九郎殿作、宮の\n\t\t\t\t\n\t\t\t\t\n前、五郎大郎か屋敷、大郎か屋敷、津田屋敷東より半分、さこのその四\n\t\t\t\t\n\t\t\t\t\nにわりて上下二きれ、此外荒野有之未分、以上心賢分、　　　　　　」\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000024.jpg",
+    "type": [
+        "薗地目録"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n河縁殿知行分薗\n\t\t\t\t<lb/>\n\t\t\t\t\nすみとのゝ要害きハより五郎大郎かそのゝかきねまて一所、\n\t\t\t\t<lb/>\n\t\t\t\t\nくほさこ〃〃のその、四にわけて中二きれ、かハヽたのふん、\n\t\t\t\t<lb/>\n\t\t\t\t\nつたとのゝ屋しき、にしひかしにわけて、にしかハヽたのふん、\n\t\t\t\t<lb/>\n\t\t\t\t\nゆあなの上さこのハりあまし、\n\t\t\t\t<lb/>\n\t\t\t\t\n三郎五郎とのゝ小そのゝわりあまし、\n\t\t\t\t<lb/>\n\t\t\t\t\nミやのうしろつたとのゝ下人の今のやしき、すみとのゝ\n\t\t\t\t<note corresp=\"#要\">用</note>\n\t\t\t\t害下のそのゝわれ〃〃〃〃〃\n\t\t\t\t<lb/>\n\t\t\t\t\nたふち計也〃〃、\n\t\t\t\t<lb/>\n\t\t\t\t\nくほのそのつたとのゝまへ一所、\n\t\t\t\t<lb/>\n\t\t\t\t\n以上河縁御分\n\t\t\t\t<lb/>\n<note corresp=\"#裏書\">「</note>\n<persName corresp=\"#武光兼氏\">心賢</persName>\n\t\t\t\t分　　<date when=\"1374\">応安七</date>八両年分畢、\n\t\t\t\t<lb/>\n\t\t\t\t\n西入道屋敷、又大郎入道屋敷道越に有之、了心屋敷、彦九郎殿作、宮の\n\t\t\t\t<lb/>\n\t\t\t\t\n前、五郎大郎か屋敷、大郎か屋敷、津田屋敷東より半分、さこのその四\n\t\t\t\t<lb/>\n\t\t\t\t\nにわりて上下二きれ、此外荒野有之未分、以上心賢分、　　　　　　」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

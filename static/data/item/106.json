@@ -3,17 +3,32 @@
     "agential": [
         "重経"
     ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1481-04-30"
     ],
     "label": "7　　文明13年4月2日　　_薩摩入来院天福寺至林霊供田請取状（＃１０６）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/106/manifest.json",
     "objectID": "106",
+    "received": [
+        "山口（勘解由）"
+    ],
+    "sent": [
+        "至林"
+    ],
     "text": [
         "\n\n\n「\n\t\t\t\t　　　　　　　　　　　　　　天福寺\n\t\t\t\t\n\t\t\t\t\nＰ５６\n\t\t\t\t\n\t\t\t\t\n　　　山口\n\t\t\t\t勘解由\n\t\t\t\t殿　　　　　　　　　至林」\n\t\t\t\t\n\t\t\t\t\n古春毎日為御霊供田、七杖当寺天福寺御寄進、当住至林たしかに請取申\n\t\t\t\t\n\t\t\t\t\n候、八月より一食之事、少も不可有無沙汰之儀候、自然懈怠之由、旦那\n\t\t\t\t\n\t\t\t\t\n被聞召候する時者、可被召還候、其時違乱之儀、以後之住持も申ましく\n\t\t\t\t\n\t\t\t\t\n候、仍為後日状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　文明十三年辛丑四月二日　　　　　　　　　　至林（花押）\n\t\t\t\t\n\t\t\t\t\n　　　　山口勘解由殿\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000015.jpg",
+    "type": [
+        "請取状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏ウハ書\">「</note>\n\t\t\t\t　　　　　　　　　　　　　　天福寺\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ５６\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　山口\n\t\t\t\t<persName corresp=\"#重経\">勘解由</persName>\n\t\t\t\t殿　　　　　　　　　至林」\n\t\t\t\t<lb/>\n\t\t\t\t\n古春毎日為御霊供田、七杖当寺天福寺御寄進、当住至林たしかに請取申\n\t\t\t\t<lb/>\n\t\t\t\t\n候、八月より一食之事、少も不可有無沙汰之儀候、自然懈怠之由、旦那\n\t\t\t\t<lb/>\n\t\t\t\t\n被聞召候する時者、可被召還候、其時違乱之儀、以後之住持も申ましく\n\t\t\t\t<lb/>\n\t\t\t\t\n候、仍為後日状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1481-04-30\">文明十三年辛丑四月二日</date>　　　　　　　　　　至林（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　山口勘解由殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

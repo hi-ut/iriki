@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "島津家久",
         "徳川家康"
+    ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
     ],
     "date": [
         "1614"
@@ -15,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000003.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一七　<persName>島津家久</persName>条目\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　覚　　　　　　　　　　　　　　　\n\t\t\t\t<note corresp=\"#島津家久\">（花押）</note>\n<lb/>\n\t\t\t\t\n一大坂御謀叛之事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一世上いかやうに罷成候共、此方者、関東へ一筋之御奉公ニ相定候事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一数年　\n\t\t\t\t<note corresp=\"#家康\"><persName corresp=\"#徳川家康\">御所</persName></note>\n\t\t\t\t様御厚恩、至下〃迄不可致失念事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一大坂へ若御\n\t\t\t\t<note corresp=\"#陣\">陳</note>\n\t\t\t\t於相付者、不図可為上洛候間、内〃可致其覚悟事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一御弓箭之用意不可致油断事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一連〃不入処花麗可為停止事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一他国人拘間敷候、若不審之者於在之者、則可致披露事、付、境目ニ可入\n\t\t\t\t<lb/>\n\t\t\t\t\n　遠慮事、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1614\">慶長十九年</date>\n<lb/>\n\t\t\t\t\n　　　　　十月十六日\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

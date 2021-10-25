@@ -1,16 +1,31 @@
 {
     "_updated": "2021-10-25",
+    "agential": [
+        "住持惠棟"
+    ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1384-09-09"
     ],
     "label": "5　　至徳元年8月23日　　薩摩入来院最禅寺住持惠棟譲状（＃１０４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/104/manifest.json",
     "objectID": "104",
+    "sent": [
+        "住持惠棟"
+    ],
     "text": [
         "\n\n\n「\n\t\t\t\t譲状」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n薩州入来院南方本\n\t\t\t\t持\n\t\t\t\t萬寿山最禅寺住持職事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、此所者雖為寺領、重代相伝本領也、　然相\n\t\t\t\t制\n\t\t\t\t本文書、限永代譲与慧\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n瑞侍者也、仍譲状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　至徳元年甲子八月二十三日\n\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　住持惠棟（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000007.jpg",
+    "type": [
+        "譲状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t譲状」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n薩州入来院南方本\n\t\t\t\t<note corresp=\"#村カ\">持</note>\n\t\t\t\t萬寿山最禅寺住持職事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、此所者雖為寺領、重代相伝本領也、　然相\n\t\t\t\t<note corresp=\"#副\">制</note>\n\t\t\t\t本文書、限永代譲与慧\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n瑞侍者也、仍譲状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1384-09-09\">至徳元年甲子八月二十三日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　<persName>住持惠棟</persName>（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

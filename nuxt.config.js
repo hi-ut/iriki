@@ -6,73 +6,81 @@ const env = require(`./env/${environment}.ts`)
 
 env.bc = true
 
-env.index = "data/index.json"
+env.index = 'data/index.json'
 
 env.aggs = {
   agential: {
-    key: "agential",
+    key: 'agential',
     sort: '',
     label: 'agential',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   spatial: {
-    key: "spatial",
+    key: 'spatial',
     sort: '',
     label: 'spatial',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   about: {
-    key: "about",
+    key: 'about',
     sort: '',
     label: 'about',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   sent: {
-    key: "sent",
+    key: 'sent',
     sort: '',
     label: 'sent',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   received: {
-    key: "received",
+    key: 'received',
     sort: '',
     label: 'received',
     value: {},
     more: false,
-    open:true
+    open: true,
+  },
+  type: {
+    key: 'type',
+    sort: '',
+    label: 'タイプ',
+    value: {},
+    more: false,
+    open: true,
   },
   外題: {
-    key: "外題",
+    key: '外題',
     sort: '',
     label: '外題',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   collection: {
-    key: "collection",
+    key: 'collection',
     sort: '',
     label: 'collection',
     value: {},
     more: false,
-    open:true
+    open: true,
   },
   date: {
-    key: "date",
+    key: 'date',
     sort: '',
     label: 'date',
     value: {},
     more: false,
-    open:true
-  }
+    open: true,
+  },
 }
 
 env.hide = []
@@ -81,14 +89,14 @@ env.isRdf = false
 
 env.list = [
   {
-    "id" : "collection",
-    "label" : "コレクション"
+    id: 'collection',
+    label: 'コレクション',
   },
   {
-    "id" : "text",
-    "label" : "本文",
-    "highlight" : true,
-    "text": true
+    id: 'text',
+    label: '本文',
+    highlight: true,
+    text: true,
   },
   /*
   {
@@ -106,68 +114,70 @@ env.list = [
 
 env.detail = [
   {
-    label: "agential",
-    value: "agential"
+    label: 'agential',
+    value: 'agential',
   },
   {
-    label: "spatial",
-    value: "spatial"
+    label: 'spatial',
+    value: 'spatial',
   },
   {
-    label: "about",
-    value: "about"
+    label: 'about',
+    value: 'about',
   },
   {
-    label: "collection",
-    value: "collection"
+    label: 'type',
+    value: 'タイプ',
   },
   {
-    label: "date",
-    value: "date"
+    label: 'collection',
+    value: 'collection',
   },
   {
-    label: "sent",
-    value: "sent"
+    label: 'date',
+    value: 'date',
   },
   {
-    label: "received",
-    value: "received"
+    label: 'sent',
+    value: 'sent',
   },
   {
-    label: "外題",
-    value: "外題"
+    label: 'received',
+    value: 'received',
   },
   {
-    label: "xml",
-    value: "xml",
-    type: "html"
-  }
+    label: '外題',
+    value: '外題',
+  },
+  {
+    label: 'xml',
+    value: 'xml',
+    type: 'html',
+  },
 ]
 
-env.sort = [
-  {label: "適合度", value: "_score"},
-]
+env.sort = [{ label: '適合度', value: '_score' }]
 
-env.defaultSort = "_score:desc"
+env.defaultSort = '_score:desc'
 
 env.layout = [
   {
     label: 'list',
     value: 'list',
     icon: 'mdi-view-list',
-    component: "search-layout-list"
+    component: 'search-layout-list',
   },
   {
     label: 'grid',
     value: 'grid',
     icon: 'mdi-view-grid',
-    component: "search-layout-grid"
+    component: 'search-layout-grid',
   },
   {
     label: 'graph',
     value: 'graph',
     icon: 'mdi-chart-bar',
-    component: "search-layout-graph"
+    component: 'search-layout-graph',
   },
   /*
   
@@ -188,11 +198,10 @@ env.layout = [
   */
 ]
 
-env.defaultLayout = "list"
+env.defaultLayout = 'list'
 
 const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
 env.legend = legend
-
 
 env.advanced = [
   /*
@@ -206,22 +215,21 @@ env.advanced = [
   */
 ]
 
-env.viewer = "" //"curation"
-env.visualization = "https://nakamura196.github.io/dd2"
+env.viewer = '' //"curation"
+env.visualization = 'https://nakamura196.github.io/dd2'
 
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))
 env.settings = settings
 
 const norm = JSON.parse(fs.readFileSync('static/data/norm.json'))
-env.itaiji =norm
-
+env.itaiji = norm
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 const routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
     ? {
         router: {
-          base: "/iriki/"//'/ryukyu/',
+          base: '/iriki/', //'/ryukyu/',
         },
       }
     : {}
@@ -255,11 +263,11 @@ const shortName = '入来院'
 const manifestIcon = 'img/icons/icon-512.png'
 // const splashscreens = cdnPath + 'img/splashscreens/'
 
-env.DATA_URL = "https://hi-ut.github.io/ryukyu_data"
+env.DATA_URL = 'https://hi-ut.github.io/ryukyu_data'
 
 export default {
   server: {
-    port: 8003 // デフォルト: 3000
+    port: 8003, // デフォルト: 3000
   },
   // Target (https://go.nuxtjs.dev/config-target)
 
@@ -345,7 +353,7 @@ export default {
         rel: 'apple-touch-icon',
         sizes: '180x180',
         href: iconImages + 'apple-touch-icon.png',
-      }
+      },
       /*,
       {
         rel: 'stylesheet',
@@ -413,12 +421,12 @@ export default {
     // Simple usage
     // '@nuxtjs/amp',
     '@nuxt/content',
-    '@nuxtjs/google-gtag'
+    '@nuxtjs/google-gtag',
   ],
 
   'google-gtag': {
-    id: 'G-4HCHKW275B',  //サイトのID
-    debug: true,  // 開発環境でも表示したい場合
+    id: 'G-4HCHKW275B', //サイトのID
+    debug: true, // 開発環境でも表示したい場合
   },
 
   sitemap: {

@@ -5,6 +5,9 @@
         "池尻胤房",
         "渋谷重頼"
     ],
+    "collection": [
+        "1 入来院家文書 一     1帖"
+    ],
     "date": [
         "1373-01-11"
     ],
@@ -23,5 +26,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000007.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n\t\t\t\t\n　六　征西将軍宮懐良親王令旨（白紙、小切紙）\n\t\t\t\t<lb/>\n\t\t\t\t\n薩州峯城合戦之時、\n\t\t\t\t<persName corresp=\"#渋谷重門\"><note corresp=\"#重門\">親父</note></persName>\n\t\t\t\t討死之条、所被感思食也、可有抽賞之状、依\n\t\t\t\t<lb/>\n\t\t\t\t\n仰執達如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1373-01-11\">文中元年十二月廿一日</date>　\n\t\t\t\t<persName corresp=\"#池尻胤房\" ref=\"https://kotobank.jp/word/%E6%B1%A0%E5%B0%BB%E8%83%A4%E6%88%BF-1052425\"><note corresp=\"#池尻胤房\">左</note>\n\t\t\t\t少将</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<persName corresp=\"#渋谷重頼\" ref=\"https://kotobank.jp/word/%E6%B8%8B%E8%B0%B7%E9%87%8D%E9%A0%BC-1080705\">渋谷\n\t\t\t\t<note corresp=\"#重頼\">乕五郎</note></persName>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#別紙\">「</note>\n<persName corresp=\"#渋谷重頼\" ref=\"https://kotobank.jp/word/%E6%B8%8B%E8%B0%B7%E9%87%8D%E9%A0%BC-1080705\">渋谷乕五郎</persName>殿」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 御綸旨御下文御感状御教書 九通 九番"
     ]
 }

@@ -1,7 +1,15 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "種章",
+        "信明",
+        "信明",
+        "六大夫兼宗",
+        "冨山四郎大\n\t\t\t\t\n\t\t\t\t\n夫",
         "大蔵種章"
+    ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
     ],
     "date": [
         "1187-08"
@@ -9,14 +17,24 @@
     "label": "2　　文治3年7月　日　　_大蔵種章解状（＃１０１）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/101/manifest.json",
     "objectID": "101",
+    "sent": [
+        "大蔵種章"
+    ],
     "spatial": [
-        "薩摩国"
+        "薩摩国",
+        "内山"
     ],
     "text": [
         "\n\n\n\t\t\t\t\n　　　　　　　　\n\t\t\t\t「\n\t\t\t\t可依先例、又有子細者、可言上之状如件、\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　弾正忠三善（花押）」\n\t\t\t\t\n薩摩国住人大蔵種章解　申請　留守所裁事\n\t\t\t\t\n\t\t\t\t\n　請被殊任且解状之旨、且依先祖相伝之理御裁許、御庄御領薩摩郡内山\n\n\t\t\t\t\n　　　　田村者、故\n\t\t\t\t信\n\t\t\t\t明先祖相伝所領也、然種章妻依為信明嫡女、所領\n\t\t\t\t\n\t\t\t\t\n　　　田畠皆以所譲得、且証文明白之間、御外題被成賜之状、\n\t\t\t\t\n\t\t\t\t\n右、謹検案内、件所領者、故信明先祖相伝所領也、而代代領掌間、無他\n\t\t\t\t\n\t\t\t\t\n妨、随無異論人、且仁六大夫兼宗彼郡為弁済使職、有限地頭職暫之程、\n\t\t\t\t\n\t\t\t\t\n令押領之許歟、同高城郡内車内村弁済使御下文明鏡也、然宇冨山四郎大\n\t\t\t\t\n\t\t\t\t\n夫則忠カ近代無御下文令押領之条、言語道断者也者、任相伝之理、件\n\t\t\t\t\n\t\t\t\t\n職欲被御外題成賜者、将仰　憲法貴之\n\t\t\t\t貴之\n\t\t\t\t旨、仍勅在状、言上如件、以\n\t\t\t\t\n\t\t\t\t\n解、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　文治三年七月　日　　　　　　　　　　　　大蔵種章上\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000004.jpg",
+    "type": [
+        "解状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　　　\n\t\t\t\t<note corresp=\"#外題\">「</note>\n\t\t\t\t可依先例、又有子細者、可言上之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　弾正忠三善（花押）」\n\t\t\t\t<lb/>\n<placeName corresp=\"#薩摩国\">薩摩国</placeName>住人大蔵種章解　申請　留守所裁事\n\t\t\t\t<lb/>\n\t\t\t\t\n　請被殊任且解状之旨、且依先祖相伝之理御裁許、御庄御領薩摩郡<placeName>内山</placeName>\n<lb/>\n\t\t\t\t\n　　　　田村者、故\n\t\t\t\t<note corresp=\"#伴\">信</note>\n\t\t\t\t明先祖相伝所領也、然<persName>種章</persName>妻依為<persName>信明</persName>嫡女、所領\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　田畠皆以所譲得、且証文明白之間、御外題被成賜之状、\n\t\t\t\t<lb/>\n\t\t\t\t\n右、謹検案内、件所領者、故<persName>信明</persName>先祖相伝所領也、而代代領掌間、無他\n\t\t\t\t<lb/>\n\t\t\t\t\n妨、随無異論人、且仁<persName>六大夫兼宗</persName>彼郡為弁済使職、有限地頭職暫之程、\n\t\t\t\t<lb/>\n\t\t\t\t\n令押領之許歟、同高城郡内車内村弁済使御下文明鏡也、然宇<persName>冨山四郎大\n\t\t\t\t<lb/>\n\t\t\t\t\n夫</persName>則忠カ近代無御下文令押領之条、言語道断者也者、任相伝之理、件\n\t\t\t\t<lb/>\n\t\t\t\t\n職欲被御外題成賜者、将仰　憲法貴之\n\t\t\t\t<note corresp=\"#マヽ\">貴之</note>\n\t\t\t\t旨、仍勅在状、言上如件、以\n\t\t\t\t<lb/>\n\t\t\t\t\n解、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1187-08\">文治三年七月</date>　日　　　　　　　　　　　　<persName corresp=\"#大蔵種章\">大蔵種章</persName>上\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

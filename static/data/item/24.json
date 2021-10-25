@@ -4,6 +4,9 @@
         "島津義久",
         "入来院重時"
     ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
+    ],
     "label": "8　 (年未詳)10月3日　　島津義久書状礼紙書（＃２４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/24/manifest.json",
     "objectID": "24",
@@ -13,5 +16,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000016.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二四　<persName>島津義久</persName>書状礼紙書\n\t\t\t\t<lb/>\n\t\t\t\t\n不可過祝着之候、御浦山敷哉と存計候、此ハ一色おもて方を心かけ候へ\n\t\t\t\t<lb/>\n\t\t\t\t\n共、さらニ\n\t\t\t\t<note corresp=\"#数寄\">すき</note>\n\t\t\t\t御さなきニより、いたつらニ冬日暮事、口惜存候、謹\n\t\t\t\t<lb/>\n\t\t\t\t\n言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　神無月三日　　　　　　　　　<persName corresp=\"#島津義久\">義久</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#入来院重時\"><persName corresp=\"#入来院重時\">又六郎</persName>殿</note>\n\t\t\t\t　　　　　　義久」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

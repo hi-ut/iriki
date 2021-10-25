@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "渋谷三郎",
         "今川和元"
+    ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
     ],
     "date": [
         "1388-01-07"
@@ -9,11 +13,23 @@
     "label": "18　　嘉慶元年11月28日　_宮内大輔和元名字書出案（＃１３８）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/138/manifest.json",
     "objectID": "138",
+    "received": [
+        "渋谷三郎"
+    ],
+    "sent": [
+        "今川和元(宮内大輔和元)"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n　渋谷三郎\n\n\t\t\t\t\n　　　　　和重\n\t\t\t\t\n\t\t\t\t\n嘉慶元年十一月廿八日宮内大輔和元在判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　渋谷三郎殿\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　\n\t\t\t\t「\n\t\t\t\t渋谷三郎殿　　　　宮内大輔和元」\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000026.jpg",
+    "type": [
+        "名字書出案"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　<persName>渋谷三郎</persName>\n<lb/>\n\t\t\t\t\n　　　　　和重\n\t\t\t\t\n\t\t\t\t<lb/>\n<date when=\"1388-01-07\">嘉慶元年十一月廿八日</date><persName corresp=\"#今川和元\">宮内大輔和元</persName>在判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　渋谷三郎殿\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷三郎殿　　　　宮内大輔和元」\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

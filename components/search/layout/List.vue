@@ -36,15 +36,19 @@
         <div class="my-2">
           <small>
             <template v-for="(metadataValue, key) in metadataList">
-              <template v-if="!metadataValue.text && hasValue(item[metadataValue.id])">
+              <template
+                v-if="!metadataValue.text && hasValue(item[metadataValue.id])"
+              >
                 <template>
                   <span :key="key">
-                    <b>{{metadataValue.label}}: </b>
+                    <b>{{ metadataValue.label }}: </b>
                     <template v-if="metadataValue.highlight">
                       <span v-html="highlight(item[metadataValue.id])"></span>
                     </template>
                     <template v-else>
-                      <span>{{$utils.formatArrayValue(item[metadataValue.id])}}</span>
+                      <span>{{
+                        $utils.formatArrayValue(item[metadataValue.id])
+                      }}</span>
                     </template>
                   </span>
                 </template>
@@ -56,21 +60,21 @@
         <div>
           <template v-for="(metadataValue, key) in metadataList">
             <template v-if="metadataValue.text">
-              <span v-html="highlight(item[metadataValue.id])"></span>
+              <span v-html="trim(highlight(item[metadataValue.id]))"></span>
             </template>
           </template>
         </div>
 
         <div class="text-right">
           <ResultOption
-          :item="{
-            label: item.label,
-            url: localePath({
-              name: 'item-id',
-              params: { id: item.objectID },
-            }),
-          }"
-        />
+            :item="{
+              label: item.label,
+              url: localePath({
+                name: 'item-id',
+                params: { id: item.objectID },
+              }),
+            }"
+          />
         </div>
       </v-col>
     </v-row>
@@ -84,8 +88,8 @@ import ResultOption from '~/components/display/ResultOption.vue'
 
 @Component({
   components: {
-ResultOption
-}
+    ResultOption,
+  },
 })
 export default class FullTextSearch extends Vue {
   @Prop({})
@@ -96,15 +100,24 @@ export default class FullTextSearch extends Vue {
 
   metadataList: any = process.env.list
 
-  highlight(value: any){
+  highlight(value: any) {
     value = this.$utils.formatArrayValue(value)
-    const q: any = this.$route.query["main[query]"]
+    const q: any = this.$route.query['main[query]']
     value = this.$searchUtils.highlightRelation(value, q)
     return value
   }
 
-  hasValue(value: any){
+  hasValue(value: any) {
     return value && value.length > 0
+  }
+
+  trim(value: string) {
+    const thres = 200
+    if (value.length > thres) {
+      return value.substring(0, thres) + ' ...'
+    } else {
+      return value
+    }
   }
 }
 </script>

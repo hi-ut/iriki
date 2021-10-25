@@ -1,9 +1,12 @@
 {
     "_updated": "2021-10-25",
     "agential": [
-        "島津守久",
         "島津元久",
+        "島津守久",
         "渋谷重頼"
+    ],
+    "collection": [
+        "4 入来院家文書 四     1巻"
     ],
     "date": [
         "1403-01-25"
@@ -17,5 +20,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000014.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　三六　<persName>島津元久</persName>書状 <lb/> 　　　　　　○封紙ハ、モトコノ文書ノモノナリヤ疑ナキニアラズ、今成巻 <lb/>\n\t\t\t\t　　　　　　ノ順序ニ従ヒテコヽニ収ム、 <lb/> 今度之刻、依御志自 <note corresp=\"#島津守久播、下同ジ\"><persName corresp=\"#島津守久\">幡州方</persName></note> 、山門西方并荒河・羽嶋被進之候、其旨存知 <lb/> 仕候き、縦 <note corresp=\"#播\"><persName corresp=\"#島津守久\">幡</persName></note>\n\t\t\t\t州雖不慮之子細被申候、身之沙汰して、彼在所事共可申談 <lb/> 候、恐〃謹言、 <lb/> 　　　 <note corresp=\"#応永十年\"><date when=\"1403-01-25\">十二月十三日</date></note> 　　　　　　　　　　　<persName corresp=\"#島津元久\">陸奥守元久</persName>（花押） <lb/> 　　謹上　<persName corresp=\"#渋谷重頼\">渋谷 <note corresp=\"#重頼\">弾正</note>\n<note corresp=\"#少\">小</note> 弼</persName>殿 <lb/> 　　　　　　 <note corresp=\"#封紙切封\">「</note> 　　」 <lb/>\n<note corresp=\"#懸紙ウハ書\">「</note>\n<note corresp=\"#追筆\">やまとにしかた・あら川・はしま判きやう</note>\n<lb/> 　謹上　渋谷弾正 <note corresp=\"#少\">小</note> 弼殿　　　　陸奥守元久」 <lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番"
     ]
 }

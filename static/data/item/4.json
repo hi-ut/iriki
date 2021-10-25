@@ -5,6 +5,9 @@
         "西園寺実秀",
         "渋谷重門"
     ],
+    "collection": [
+        "1 入来院家文書 一     1帖"
+    ],
     "date": [
         "1365-03-05"
     ],
@@ -17,5 +20,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000005.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　四　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（宿紙） <lb/> 参御方、相語一族、 <note corresp=\"#致、下同ジ\">至</note> 軍忠者、於本領 <note corresp=\"#不脱カ\">可</note> 有子細、 <note corresp=\"#致\">至</note> 忠節者、恩賞之事 <lb/>\n\t\t\t\t者、不可有子細也、 <lb/> 天気如此、悉之以状、 <lb/> 　　　<date when=\"1365-03-05\">正平十九年二月一日</date>　　　　　　　　　<persName corresp=\"#西園寺実秀\"> <note corresp=\"#西園寺実秀\">左</note> 中将</persName>（花押） <lb/> 　<persName corresp=\"#渋谷重門\">渋谷 <note corresp=\"#重門\">能登</note> 守</persName>舘 <lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 御綸旨御下文御感状御教書 九通 九番"
     ]
 }

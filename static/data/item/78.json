@@ -4,12 +4,21 @@
         "渋谷有重",
         "渋谷明重"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1265-09-13"
     ],
     "label": "3　　文永2年8月3日　　　渋谷善心(明重)譲状（＃７８）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/78/manifest.json",
     "objectID": "78",
+    "received": [
+        "渋谷有重"
+    ],
+    "sent": [
+        "渋谷明重"
+    ],
     "spatial": [
         "美作国",
         "薩摩国"
@@ -18,7 +27,13 @@
         "\n\n\n\t\t\t\t\n　　　　　　○虫損部分ハ前号案文ヲ以テ傍註セリ、\n\t\t\t\t\n\t\t\t\t\n「\n\t\t\t\t平四郎譲状」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　譲与　　所領等事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　平四郎有重所\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ４１\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　吉田上庄内清太入道西在家壱宇\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　在四至東限屋中溝　南西北見古堺\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　同藤意内立野伍町堺見\n\t\t\t\t絵\n\t\t\t\t頭\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　美作国河会郷内下森自上山宮西\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　在四至東限草野谷西尾通自今路宮尾トヲリ大足ヘ　南限備前堺　西限佐備塔毛谷之流お切湯河へ　北限飯岡堺\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　薩摩国入来院内清色郷五分三\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右於所〃者、任譲状之旨、守先例可令知行之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　文永二年八月三日　　　　　　　　　　　　\n\t\t\t\t沙弥善心\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000005.jpg",
+    "type": [
+        "譲状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　○虫損部分ハ前号案文ヲ以テ傍註セリ、\n\t\t\t\t\n\t\t\t\t<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t平四郎譲状」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　譲与　　所領等事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<persName corresp=\"#渋谷有重\">平四郎有重</persName>所\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ４１\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　吉田上庄内清太入道西在家壱宇\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　在四至東限屋中溝　南西北見古堺\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　同藤意内立野伍町堺見\n\t\t\t\t<note corresp=\"#図\">絵</note>\n\t\t\t\t頭\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#美作国\">美作国</placeName>河会郷内下森自上山宮西\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　在四至東限草野谷西尾通自今路宮尾トヲリ大足ヘ　南限備前堺　西限佐備塔毛谷之流お切湯河へ　北限飯岡堺\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内清色郷五分三\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右於所〃者、任譲状之旨、守先例可令知行之状如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1265-09-13\">文永二年八月三日</date>　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#渋谷明重\">沙弥善心</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

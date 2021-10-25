@@ -1,64 +1,87 @@
 <template>
   <div>
-    <v-container>
-
+    <v-container class="my-5">
+      <h3 class="mb-5">{{ title }}</h3>
       <div ref="full" style="height: 500px">
-      <network
-        id="mynetwork"
-        ref="network"
-        style="height: 100%; background-color: white"
-        :nodes="nodes"
-        :edges="edges"
-        :options="options"
-      >
-      </network>
-    </div>
-    <!-- {{items}} -->
+        <network
+          id="mynetwork"
+          ref="network"
+          style="height: 100%; background-color: #f5f5f5"
+          :nodes="nodes"
+          :edges="edges"
+          :options="options"
+        >
+        </network>
+      </div>
+      <!-- {{items}} -->
 
-     <v-data-table
-      class="mt-10"
-      :headers="headers"
-      :items="items2"
-    >
-    <template v-slot:item.sent="{ item }">
-       <nuxt-link :to="localePath({
-        name: 'people-id',
-        params: {
-          id: item.sent
-        }
-      })">
-      {{item.sent}}
-      </nuxt-link>
-    </template>
-    
-     <template v-slot:item.received="{ item }">
-       <nuxt-link :to="localePath({
-        name: 'people-id',
-        params: {
-          id: item.received
-        }
-      })">
-      {{item.received}}
-      </nuxt-link>
-    </template>
-    
-    </v-data-table>
-     </v-container>
+      <v-data-table
+        class="mt-10"
+        :headers="headers"
+        :items="items2"
+        :search="search"
+      >
+        <template v-slot:top>
+          <v-text-field
+            v-model="search"
+            rounded
+            filled
+            :append-icon="'mdi-magnify'"
+            :clearable="true /*head ? false : true*/"
+            dense
+            class="mb-5"
+            hide-details
+          ></v-text-field>
+        </template>
+        <template v-slot:item.sent="{ item }">
+          <nuxt-link
+            :to="
+              localePath({
+                name: 'people-id',
+                params: {
+                  id: item.sent,
+                },
+              })
+            "
+          >
+            {{ item.sent }}
+          </nuxt-link>
+        </template>
+
+        <template v-slot:item.received="{ item }">
+          <nuxt-link
+            :to="
+              localePath({
+                name: 'people-id',
+                params: {
+                  id: item.received,
+                },
+              })
+            "
+          >
+            {{ item.received }}
+          </nuxt-link>
+        </template>
+      </v-data-table>
+    </v-container>
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
-import axios from "axios"
+import axios from 'axios'
 
 const { Network } = require('vue-visjs')
 
 @Component({
   components: {
-    Network
+    Network,
   },
 })
 export default class Item extends Vue {
+  title: string = 'ネットワーク'
+
+  search: string = ''
 
   nodes: any[] = [
     /*
@@ -88,14 +111,17 @@ export default class Item extends Vue {
 
   headers: any[] = [
     {
-      text: 'sent', value: 'sent'
+      text: 'sent',
+      value: 'sent',
     },
     {
-      text: 'received', value: 'received'
+      text: 'received',
+      value: 'received',
     },
     {
-      text: 'count', value: 'count'
-    }
+      text: 'count',
+      value: 'count',
+    },
   ]
 
   async asyncData({ payload, app, $axios }: any) {
@@ -109,33 +135,33 @@ export default class Item extends Vue {
       )
       const items = response
 
-      return { items/*, docs*/ }
+      return { items /*, docs*/ }
     }
   }
 
   baseUrl: any = process.env.BASE_URL
 
-  created(){
+  created() {
     const items = (this as any).items
     const map: any = {}
 
-    for(const item of items){
+    for (const item of items) {
       let sent = item.sent
       let received = item.received
 
-      if(!sent || !received){
+      if (!sent || !received) {
         continue
       }
 
       sent = sent[0]
       received = received[0]
 
-      if(!map[sent]){
+      if (!map[sent]) {
         map[sent] = {}
       }
 
       const tmp = map[sent]
-      if(!tmp[received]){
+      if (!tmp[received]) {
         tmp[received] = 0
       }
 
@@ -147,23 +173,23 @@ export default class Item extends Vue {
     const edges: any = []
 
     const items2 = []
-    for(let sent in map){
-      for(let received in map[sent]){
+    for (let sent in map) {
+      for (let received in map[sent]) {
         const item = {
           sent,
           received,
-          count: map[sent][received]
+          count: map[sent][received],
         }
         items2.push(item)
 
-        if(!nodesMap[sent]){
+        if (!nodesMap[sent]) {
           nodesMap[sent] = {
             id: sent,
             label: sent,
           }
         }
 
-        if(!nodesMap[received]){
+        if (!nodesMap[received]) {
           nodesMap[received] = {
             id: received,
             label: received,
@@ -173,14 +199,14 @@ export default class Item extends Vue {
         edges.push({
           from: sent,
           to: received,
-          count: item.count,
+          value: item.count,
           arrows: 'to',
         })
       }
     }
 
     const nodes = []
-    for(const key in nodesMap){
+    for (const key in nodesMap) {
       nodes.push(nodesMap[key])
     }
 
@@ -189,7 +215,5 @@ export default class Item extends Vue {
 
     this.items2 = items2
   }
-
-  
 }
 </script>

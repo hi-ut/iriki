@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "島津忠治",
         "渋谷重聡"
+    ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
     ],
     "label": "7　 (年未詳)8月24日　　島津忠治書状（＃２３）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/23/manifest.json",
@@ -12,5 +16,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000013.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二三　<persName>島津忠治</persName>書状\n\t\t\t\t<lb/>\n\t\t\t\t\n其後不申承候之条、雖無差事候、令啓候、仍　正八幡宮へ久参詣不申候\n\t\t\t\t<lb/>\n\t\t\t\t\n之間、来廿七日彼堺へ罷越候以次、曾於郡へ一両日可致逗留当概候、然\n\t\t\t\t<lb/>\n\t\t\t\t\n処我之鷹初鴈取候、当時精進之事候之条、其方へ進候、御賞翫候者、可\n\t\t\t\t<lb/>\n\t\t\t\t\n為喜悦候、将又、諸方雑説」申散候、中〃至于今者、待久様に候、笑敷\n\t\t\t\t<lb/>\n\t\t\t\t\n候、就其世間之時宜、以面申承度事海山候、帰宅之時分、不図御来臨候\n\t\t\t\t<lb/>\n\t\t\t\t\n者、旁参会申度候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　八月廿四日　　　　　　　　　忠治（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　　<persName corresp=\"#渋谷重聡\">渋谷\n\t\t\t\t<note corresp=\"#重聡\">弾正</note>\n\t\t\t\t少弼入道</persName>殿　　　忠治」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

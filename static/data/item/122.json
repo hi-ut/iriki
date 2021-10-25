@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
-        "渋谷重経"
+        "渋谷重経",
+        "大介藤原朝臣"
+    ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
     ],
     "date": [
         "1258-10"
@@ -9,11 +13,27 @@
     "label": "1　　正嘉2年9月　日　　_薩摩国司庁宣（＃１２２）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/122/manifest.json",
     "objectID": "122",
+    "sent": [
+        "大介藤原朝臣"
+    ],
+    "spatial": [
+        "荅\n\t\t\t\t原",
+        "中村",
+        "庄篭",
+        "下副田",
+        "柏嶋"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n　　　　（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n庁宣　　　留守所\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　可早以地頭\n\t\t\t\t平重経\n\t\t\t\t・同重賢・字\n\t\t\t\t荒六\n\t\t\t\t等、沙汰進入来院半分所当米事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　国定肆拾七石壱斗肆舛伍合　加軽物半分肆石　陸斗参舛定\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　除楽校宮立用田二町五段所当米十石国定\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右郷半分内、\n\t\t\t\t荅\n\t\t\t\t原重経、中村・庄篭・下副田等重賢、柏嶋水田半分荒六、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n為請所、有限仏神事、管府役例立用田外、不論旱水不熟損亡、任請文員\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n数、可沙汰進、若背請文状、致未進対捍者、可停止請所之状、所宣如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n留守所宜承知、不可違失、　以宣、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　正嘉二年九月　日\n\n大介藤原朝臣\n\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000003.jpg",
+    "type": [
+        "司庁宣"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n庁宣　　　留守所\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　可早以地頭\n\t\t\t\t<persName corresp=\"#渋谷重経\">平重経</persName>\n\t\t\t\t・同重賢・字\n\t\t\t\t<note corresp=\"#範〓\">荒六</note>\n\t\t\t\t等、沙汰進入来院半分所当米事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　国定肆拾七石壱斗肆舛伍合　加軽物半分肆石　陸斗参舛定\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　除楽校宮立用田二町五段所当米十石国定\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右郷半分内、\n\t\t\t\t<placeName><note corresp=\"#塔\">荅</note>\n\t\t\t\t原</placeName>重経、<placeName>中村</placeName>・<placeName>庄篭</placeName>・<placeName>下副田</placeName>等重賢、<placeName>柏嶋</placeName>水田半分荒六、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n為請所、有限仏神事、管府役例立用田外、不論旱水不熟損亡、任請文員\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n数、可沙汰進、若背請文状、致未進対捍者、可停止請所之状、所宣如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n留守所宜承知、不可違失、　以宣、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1258-10\">正嘉二年九月　日</date>\n<lb/>\n<persName>大介藤原朝臣</persName>\n<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

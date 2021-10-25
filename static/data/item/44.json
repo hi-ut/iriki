@@ -4,6 +4,9 @@
         "島津貴久",
         "入来院重嗣"
     ],
+    "collection": [
+        "4 入来院家文書 四     1巻"
+    ],
     "date": [
         "1560-01-09"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000030.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　四四　<persName>島津貴久</persName>知行充行状 <lb/> 薩摩国鹿児嶋之内犬迫名之事、依奉公所宛行也、早任此旨、可被知行之\n\t\t\t\t<lb/> 状如件、 <lb/>\n<date when=\"1560-01-09\">永禄弐年己未十弐月廿三日</date>　　　　　　　　　　　　<persName corresp=\"#島津貴久\">貴久</persName>（花押） <lb/> 　　　　<persName corresp=\"#入来院重嗣\">入来院 <note corresp=\"#重嗣\">加賀</note> 守</persName>殿 <lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番"
     ]
 }

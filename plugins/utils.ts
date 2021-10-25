@@ -1,7 +1,7 @@
 // /plugins/logger.ts
 export class Utils {
   formatArrayValue(arr: string[], delimiter: string = ', '): any {
-    if (typeof arr !== "object"){
+    if (typeof arr !== 'object') {
       arr = [arr]
     }
     if (arr == null) {
@@ -41,6 +41,19 @@ export class Utils {
     }
     str = String(str)
     return str.length <= length ? str : str.substring(0, length) + '...'
+  }
+
+  convTei2Html(value: string) {
+    value = value.split('<lb/>').join('<br/>')
+    value = value
+      .split('placeName')
+      .join("placeName style='background-color: #c8e6c9;' ")
+    value = value
+      .split('persName')
+      .join("persName style='background-color: #ffccbc;' ")
+    value = value.split('date').join("date style='background-color: #bbdefb' ")
+    value = value.split('note').join("note style='background-color: #fff9c4;' ")
+    return value
   }
 }
 

@@ -1,13 +1,28 @@
 {
     "_updated": "2021-10-25",
+    "collection": [
+        "9 入来院家文書 九      1巻"
+    ],
+    "date": [
+        "1329-05"
+    ],
     "label": "7　　嘉暦4年5月99日　　_渋谷惟重遺領等注進状案（＃９９）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/99/manifest.json",
     "objectID": "99",
+    "sent": [
+        "渋谷惟重"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n　　　　　　○コノ文書、端裏書・合点・裏判ヲ欠クノ外、前号文書ト同ジ\n\t\t\t\t\n\t\t\t\t\n　　　　　　キヲ以テ本文省略ニ従フ、但シ文字ノ異同ハ、便宜前号ニ傍\n\t\t\t\t\n\t\t\t\t\n　　　　　　註セリ、\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/9/00000015.jpg",
+    "type": [
+        "注進状案"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　○コノ文書、端裏書・合点・裏判ヲ欠クノ外、前号文書ト同ジ\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　キヲ以テ本文省略ニ従フ、但シ文字ノ異同ハ、便宜前号ニ傍\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　註セリ、\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "沙弥在判ヨリ平重名勘進迄 三通 十七番"
     ]
 }

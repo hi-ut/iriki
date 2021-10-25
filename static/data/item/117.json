@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "宮内大輔守政",
         "渋谷重光"
+    ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
     ],
     "date": [
         "1386-06-19"
@@ -9,6 +13,12 @@
     "label": "18　　至徳3年5月22日　　_宮内大輔守政奉書（＃１１７）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/117/manifest.json",
     "objectID": "117",
+    "received": [
+        "渋谷重光"
+    ],
+    "sent": [
+        "宮内大輔守政"
+    ],
     "spatial": [
         "薩摩国"
     ],
@@ -16,7 +26,13 @@
         "\n\n\n薩摩国嶋津伊集院\n\t\t\t\t大隅\n\t\t\t\t入道跡当知行参分壱事、為闕所上者、知行不可有相違之\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n状、依　仰執達如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　至徳三年五月廿二日　　　　　　　　　宮内大輔守政（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t渋谷左馬\n\t\t\t\t佐殿\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000030.jpg",
+    "type": [
+        "奉書"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<placeName corresp=\"#薩摩国\">薩摩国</placeName>嶋津伊集院\n\t\t\t\t<note corresp=\"#久氏\">大隅</note>\n\t\t\t\t入道跡当知行参分壱事、為闕所上者、知行不可有相違之\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n状、依　仰執達如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　<date when=\"1386-06-19\">至徳三年五月廿二日</date>　　　　　　　　　<persName>宮内大輔守政</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<persName corresp=\"#渋谷重光\">渋谷左馬</persName>\n\t\t\t\t佐殿\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

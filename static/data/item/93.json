@@ -5,20 +5,36 @@
         "佐々木貞綱",
         "渋谷惟重"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1320-02-04"
     ],
     "label": "18　　元応元年12月25日　_薩摩守護代源貞綱遵行状（＃９３）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/93/manifest.json",
     "objectID": "93",
+    "received": [
+        "渋谷惟重"
+    ],
+    "sent": [
+        "源(佐々木)貞綱"
+    ],
     "spatial": [
-        "相模国"
+        "相模国",
+        "寺尾村"
     ],
     "text": [
         "\n\n\n渋谷余一\n\t\t\t\t入道善阿申、相模国寺尾村内田畠在家以下之事、御教書案并相\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n副訴状令進候、任被仰下旨、御請文給可令進覧候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　元応元年十二月廿五日　　　　　　　　　　源貞綱（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　謹上渋谷孫三郎\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000038.jpg",
+    "type": [
+        "遵行状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<persName corresp=\"#渋谷為重\">渋谷余一</persName>\n\t\t\t\t入道善阿申、<placeName corresp=\"#相模国\">相模国</placeName><placeName>寺尾村</placeName>内田畠在家以下之事、御教書案并相\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n副訴状令進候、任被仰下旨、御請文給可令進覧候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1320-02-04\">元応元年十二月廿五日</date>　　　　　　　　　　<persName corresp=\"#佐々木貞綱\">源貞綱</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　謹上<persName corresp=\"#渋谷惟重\">渋谷孫三郎</persName>\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

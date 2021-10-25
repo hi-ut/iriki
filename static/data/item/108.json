@@ -3,17 +3,36 @@
     "agential": [
         "渋谷重茂"
     ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1401-01-05"
     ],
     "label": "9　　応永7年12月21日　　渋谷重茂避状（＃１０８）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/108/manifest.json",
     "objectID": "108",
+    "received": [
+        "清敷"
+    ],
+    "sent": [
+        "渋谷重茂"
+    ],
+    "spatial": [
+        "中津川",
+        "黒木村"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n祁答院内中津川名并黒木村事者、　重茂雖為由緒、依申談子細候、避進\n\t\t\t\t\n\t\t\t\t\n所実也、仍為後日之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　応永七年十二月廿一日　　　　　　　　　　　重茂（花押）\n\t\t\t\t\n\t\t\t\t\n　　清敷殿\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000019.jpg",
+    "type": [
+        "避状(去状)"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n祁答院内<placeName>中津川</placeName>名并<placeName>黒木村</placeName>事者、　<persName corresp=\"#渋谷重茂\">重茂</persName>雖為由緒、依申談子細候、避進\n\t\t\t\t<lb/>\n\t\t\t\t\n所実也、仍為後日之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　<date when=\"1401-01-05\">応永七年十二月廿一日</date>　　　　　　　　　　　<persName corresp=\"#渋谷重茂\">重茂</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　清敷殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

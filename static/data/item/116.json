@@ -1,5 +1,11 @@
 {
     "_updated": "2021-10-25",
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
+    "date": [
+        "年月日欠"
+    ],
     "label": "17　　(年月日欠)　　　　_某手日記（＃１１６）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/116/manifest.json",
     "objectID": "116",
@@ -7,7 +13,13 @@
         "\n\n\n\t\t\t\t\n一御酒筒二つゐ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　とうかう二十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一けつり物篭二\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一へき篭二\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一かわらけ篭二\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一やき串篭二\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一山のいも篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一ところ篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一くわ篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一串柿篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一あつかわ篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一もちい篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一雲州橘篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一いも篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一大こん篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一かふ篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一和布篭十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一猪子五まる\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一鹿ゑた二十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一雉　二十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一鴈　六\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一うほ三十\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　以上\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000029.jpg",
+    "type": [
+        "某手日記"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n一御酒筒二つゐ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　とうかう二十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一けつり物篭二\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一へき篭二\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一かわらけ篭二\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一やき串篭二\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一山のいも篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一ところ篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一くわ篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一串柿篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一あつかわ篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一もちい篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一雲州橘篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一いも篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一大こん篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一かふ篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一和布篭十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一猪子五まる\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一鹿ゑた二十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一雉　二十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一鴈　六\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一うほ三十\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　以上\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

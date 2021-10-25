@@ -4,14 +4,33 @@
         "渋谷重長",
         "渋谷重頼"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1406-12-25"
     ],
     "label": "11　　応永13年11月15日　_渋谷重頼譲状（＃８６）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/86/manifest.json",
     "objectID": "86",
+    "received": [
+        "渋谷重長"
+    ],
+    "sent": [
+        "渋谷重頼"
+    ],
     "spatial": [
         "薩摩国",
+        "清色",
+        "副田村",
+        "市比野村",
+        "清色村",
+        "塔原村",
+        "中村",
+        "楠本村",
+        "倉野村",
+        "久住村",
+        "柏嶋村",
         "筑前国",
         "筑後国",
         "甲斐国",
@@ -22,7 +41,13 @@
         "\n\n\n\t\t\t\t\n　譲与\n\t\t\t\t\n\t\t\t\t\n　　所　子息\n\t\t\t\t菊五郎\n\t\t\t\t丸\n\t\t\t\t\n\t\t\t\t\n一所　薩摩国入来院内清色北方\n\t\t\t\t\n\t\t\t\t\n一所　北方内上副田村\n\n\t\t\t\t\n一所　市比野村半分地頭職并下地\n\t\t\t\t\n\t\t\t\t\n一所　南方内清色村\n\n\t\t\t\t\n一所　塔原村\n\n\t\t\t\t\n一所　中村\n\n\t\t\t\t\n一所　楠本村\n\n\t\t\t\t\n一所　倉野村\n\n\t\t\t\t\n一所　久住村\n\n\t\t\t\t\n一所　柏嶋村\n\n\t\t\t\t\n\t\t\t\t一所　筑前国柏原水田屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　筑後国永淵屋敷、同国みな木の屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　甲\n\t\t\t\t双\n\t\t\t\t国西嶋内葦入在家田畠\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　美作国河\n\t\t\t\t絵\n\t\t\t\t庄内下森上山大足\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　相模国渋谷曾司郷内ふちこゝろの屋敷立野等事\n\t\t\t\t\n\t\t\t\t\nＰ４７\n\t\t\t\t\n\t\t\t\t\n右、於所領等者、重頼重代相伝所領也、仍菊五郎丸仁相副次\n\t\t\t\t弟\n\t\t\t\t調\n\t\t\t\t渡\n\t\t\t\t手継\n\t\t\t\t\n\t\t\t\t\n証文等、限永代所譲与也、於御公事者、任先例可致支配者也、次重頼以\n\t\t\t\t\n\t\t\t\t\n後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ不残可譲与\n\t\t\t\t\n\t\t\t\t\n之也、若背此旨、所領ヲ於分与数子輩之者、不可有重頼之子孫云云、如\n\t\t\t\t\n\t\t\t\t\n此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一人之計、\n\t\t\t\t\n\t\t\t\t\n押而可令知行者也、且為後証、所書載置文之趣也、仍譲状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　応永十三年十一月十五日　　　　　　　　　重頼（花押）\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000029.jpg",
+    "type": [
+        "譲状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　譲与\n\t\t\t\t<lb/>\n\t\t\t\t\n　　所　子息\n\t\t\t\t<persName corresp=\"#渋谷重長\">菊五郎</persName>\n\t\t\t\t丸\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内<placeName>清色</placeName>北方\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　北方内上<placeName>副田村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>市比野村</placeName>半分地頭職并下地\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　南方内<placeName>清色村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>塔原村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>中村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>楠本村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>倉野村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>久住村</placeName>\n<lb/>\n\t\t\t\t\n一所　<placeName>柏嶋村</placeName>\n<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#筑前国\">筑前国</placeName>柏原水田屋敷\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#筑後国\">筑後国</placeName>永淵屋敷、同国みな木の屋敷\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#甲斐国\">甲\n\t\t\t\t<note corresp=\"#斐\">双</note>\n\t\t\t\t国</placeName>西嶋内葦入在家田畠\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#美作国\">美作国</placeName>河\n\t\t\t\t<note corresp=\"#会\">絵</note>\n\t\t\t\t庄内下森上山大足\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#相模国\">相模国</placeName>渋谷曾司郷内ふちこゝろの屋敷立野等事\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ４７\n\t\t\t\t<lb/>\n\t\t\t\t\n右、於所領等者、重頼重代相伝所領也、仍菊五郎丸仁相副次\n\t\t\t\t<note corresp=\"#第\">弟</note>\n\t\t\t\t調\n\t\t\t\t<note corresp=\"#度\">渡</note>\n\t\t\t\t手継\n\t\t\t\t<lb/>\n\t\t\t\t\n証文等、限永代所譲与也、於御公事者、任先例可致支配者也、次重頼以\n\t\t\t\t<lb/>\n\t\t\t\t\n後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ不残可譲与\n\t\t\t\t<lb/>\n\t\t\t\t\n之也、若背此旨、所領ヲ於分与数子輩之者、不可有重頼之子孫云云、如\n\t\t\t\t<lb/>\n\t\t\t\t\n此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一人之計、\n\t\t\t\t<lb/>\n\t\t\t\t\n押而可令知行者也、且為後証、所書載置文之趣也、仍譲状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1406-12-25\">応永十三年十一月十五日</date>　　　　　　　　　<persName corresp=\"#渋谷重頼\">重頼</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

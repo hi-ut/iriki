@@ -3,12 +3,21 @@
     "agential": [
         "渋谷重門"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1372-01-08"
     ],
     "label": "17　　建徳2年12月2日　　_渋谷重門（？）譲状案（＃９２）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/92/manifest.json",
     "objectID": "92",
+    "received": [
+        "養子松乗丸"
+    ],
+    "sent": [
+        "渋谷重門"
+    ],
     "spatial": [
         "薩摩国"
     ],
@@ -16,7 +25,13 @@
         "\n\n\n\t\t\t\t\n譲与　所\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　所養子松乗丸〃〃〃〃〃〃\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　薩广国入来市比野村内鳥原跡地頭職事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右件所領者所務之事〃〃〃〃、重門重代相伝私領也、而依有其志候、限永代所譲与也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n但、於于諸事、惣領之支配ヲ令違背之時者、不可有知行彼所務者也、且\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n為後証之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　建徳二年十二月二日\n\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000037.jpg",
+    "type": [
+        "譲状案"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n譲与　所\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　所養子松乗丸〃〃〃〃〃〃\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<placeName corresp=\"#薩摩国\">薩广国</placeName>入来市比野村内鳥原跡地頭職事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右件所領者所務之事〃〃〃〃、<persName corresp=\"#渋谷重門\">重門</persName>重代相伝私領也、而依有其志候、限永代所譲与也、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n但、於于諸事、惣領之支配ヲ令違背之時者、不可有知行彼所務者也、且\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n為後証之状如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1372-01-08\">建徳二年十二月二日</date>\n<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }
