@@ -1,0 +1,22 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重勝",
+        "足利直冬"
+    ],
+    "date": [
+        "1344-04-29",
+        "1346-12-28",
+        "1351-08-22"
+    ],
+    "label": "9　 観応2年7月30日　　_足利直冬下文（＃９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/9/manifest.json",
+    "objectID": "9",
+    "text": [
+        "\n\n\n\t\t\t\t\n　九　足利直冬下文\n\t\t\t\t\n\t\t\t\t\n　下　渋谷平次五郎重勝\n\n\t\t\t\t\n　　可令早領知美作国河曾郷下村、薩摩国入来院清色郷五分弐参、筑前\n\t\t\t\t\n\t\t\t\t\n　　国下長尾田畠屋敷地頭職事\n\t\t\t\t\n\t\t\t\t\n右、任亡母尼顕心康永三年三月十八日、亡父重基法師法名定円、貞和二年十\n\t\t\t\t\n\t\t\t\t\n一月廿六日譲状等、可令領掌之状如件、\n\t\t\t\t\n\t\t\t\t\n　　　観応二年七月卅日\n\n\t\t\t\t\n源\n\t\t\t\t朝臣\n\t\t\t\t（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000010.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　九　<persName>足利直冬</persName>下文\n\t\t\t\t<lb/>\n\t\t\t\t\n　下　<persName corresp=\"#渋谷重勝\">渋谷平次五郎重勝</persName>\n<lb/>\n\t\t\t\t\n　　可令早領知美作国河曾郷下村、薩摩国入来院清色郷五分弐参、筑前\n\t\t\t\t<lb/>\n\t\t\t\t\n　　国下長尾田畠屋敷地頭職事\n\t\t\t\t<lb/>\n\t\t\t\t\n右、任亡母尼顕心<date when=\"1344-04-29\">康永三年三月十八日</date>、亡父重基法師法名定円、<date when=\"1346-12-28\">貞和二年十\n\t\t\t\t<lb/>\n\t\t\t\t\n一月廿六日</date>譲状等、可令領掌之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1351-08-22\">観応二年七月卅日</date>\n<lb/>\n\t\t\t\t\n源\n\t\t\t\t<note corresp=\"#直冬\"><persName corresp=\"#足利直冬\">朝臣</persName></note>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重勝",
+        "渋谷重基"
+    ],
+    "date": [
+        "1343-03-04"
+    ],
+    "label": "14　　康永2年2月8日　　　渋谷定円(重基)譲状（＃６９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/69/manifest.json",
+    "objectID": "69",
+    "spatial": [
+        "相模国",
+        "薩摩国",
+        "筑前国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n譲与　所領等事\n\t\t\t\t\n\t\t\t\t\n　　　所　子息平次五郎重勝\n\n\t\t\t\t\n一所　相模国吉田庄内藤意村藤次在家、同屋敷付田畠荒野自道西仁立野在之、副南、\n\t\t\t\t\n\t\t\t\t\n一所　薩摩国入来院内清色北方\n\t\t\t\t\n\t\t\t\t\n一所　筑前国柏原内惣検校屋敷田畠\n\t\t\t\t\n\t\t\t\t\n一所　筑後国長淵屋敷地頭職\n\t\t\t\t\n\t\t\t\t\n右、於彼所領等者、為定円重代相伝所領之間、子息平次五郎重勝仁相副\n\t\t\t\t\n\t\t\t\t\n手継証文安堵御下文、所譲与也、於諸御公事等者、任先例可令勤仕、至\n\t\t\t\t\n\t\t\t\t\n子〃孫〃、不可有違乱妨之、\n\t\t\t\t仍\n\t\t\t\t譲状如件、\n\t\t\t\t\n\t\t\t\t\n　　　康永弐年二月八日　　　　　　　　　　　　沙弥\n\t\t\t\t定円\n\t\t\t\t（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000021.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n譲与　所領等事\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　所　子息<persName corresp=\"#渋谷重勝\">平次五郎重勝</persName>\n<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#相模国\">相模国</placeName>吉田庄内<placeName>藤意村</placeName>藤次在家、同屋敷付田畠荒野自道西仁立野在之、副南、\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内<placeName>清色</placeName>北方\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#筑前国\">筑前国</placeName><placeName>柏原</placeName>内惣検校屋敷田畠\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#筑前国\">筑後国</placeName>長淵屋敷地頭職\n\t\t\t\t<lb/>\n\t\t\t\t\n右、於彼所領等者、為<persName corresp=\"#渋谷重基\">定円</persName>重代相伝所領之間、子息<persName corresp=\"#渋谷重勝\">平次五郎重勝</persName>仁相副\n\t\t\t\t<lb/>\n\t\t\t\t\n手継証文安堵御下文、所譲与也、於諸御公事等者、任先例可令勤仕、至\n\t\t\t\t<lb/>\n\t\t\t\t\n子〃孫〃、不可有違乱妨之、\n\t\t\t\t<note corresp=\"#×状\">仍</note>\n\t\t\t\t譲状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1343-03-04\">康永弐年二月八日</date>　　　　　　　　　　　　沙弥\n\t\t\t\t<persName corresp=\"#渋谷重基\">定円</persName>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

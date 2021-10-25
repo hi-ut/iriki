@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重棟",
+        "渋谷重継"
+    ],
+    "date": [
+        "1349-08-07"
+    ],
+    "label": "6　　貞和5年閏6月23日　_渋谷重勝譲状案（＃４８−１）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/48−1/manifest.json",
+    "objectID": "48−1",
+    "text": [
+        "\n\n 　　１　渋谷重勝譲状案  一所ひせんの国佐加下御領よしまつのありしけ内 \n\t\t\t\t　田地弐町并屋敷一所ときりかそのゝかハり  　同国さかの下御領中よたかり一丁廿六つほ  　かのへおほたかり八反十二つほ等事 \n\t\t\t\t右所領等者、祖父 宗真\n\t\t\t\t并母堂尼宗女か永代相伝ノ所領也、而重勝か譲得  之間、仍 乕一 丸ゆつりあたふところ也、為後日譲状如件、 \n\t\t\t\t　　貞和五閏六月廿三日　　　　　　　　　　　　平重勝在判 \n\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000009.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　　１　<persName>渋谷重勝</persName>譲状案 <lb/> 一所ひせんの国佐加下御領よしまつのありしけ内 <lb/>\n\t\t\t\t　田地弐町并屋敷一所ときりかそのゝかハり <lb/> 　同国さかの下御領中よたかり一丁廿六つほ <lb/> 　かのへおほたかり八反十二つほ等事 <lb/>\n\t\t\t\t右所領等者、祖父 <note corresp=\"#渋谷重棟\"><persName corresp=\"#渋谷重棟\">宗真</persName></note>\n\t\t\t\t并母堂尼宗女か永代相伝ノ所領也、而重勝か譲得 <lb/> 之間、仍 <note corresp=\"#重継\"><persName corresp=\"#渋谷重継\">乕一</persName></note> 丸ゆつりあたふところ也、為後日譲状如件、 <lb/>\n\t\t\t\t　　<date when=\"1349-08-07\">貞和五閏六月廿三日</date>　　　　　　　　　　　　平重勝在判 <lb/>\n<lb/>\n</p>\n</body>"
+    ]
+}

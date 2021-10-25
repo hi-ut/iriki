@@ -1,0 +1,16 @@
+{
+    "_updated": "2021-10-25",
+    "date": [
+        "1614"
+    ],
+    "label": "2　 慶長19年10月16日　_島津家久条目案（＃１８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/18/manifest.json",
+    "objectID": "18",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一八　島津家久条目案　慶長十九年十月十六日\n\t\t\t\t\n\t\t\t\t\n　　　　　　○コノ文書、ソノ正文ヲ前号ニ収メタルヲ以テ、本文省略ニ\n\t\t\t\t\n\t\t\t\t\n　　　　　　従フ、\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000004.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一八　<placeName>島津家久</placeName>条目案　<date when=\"1614\">慶長十九年</date>十月十六日\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　○コノ文書、ソノ正文ヲ前号ニ収メタルヲ以テ、本文省略ニ\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　従フ、\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

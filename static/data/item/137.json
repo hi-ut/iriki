@@ -1,0 +1,23 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "今川了俊貞世",
+        "渋谷重継カ"
+    ],
+    "date": [
+        "1394-05-25"
+    ],
+    "label": "17　　明徳5年4月25日　　_今川了俊(貞世)感状（＃１３７）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/137/manifest.json",
+    "objectID": "137",
+    "spatial": [
+        "薩摩"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n去月五日於\n\t\t\t\t山門\n\t\t\t\t城、自身太刀打\n\t\t\t\t凶徒\n\t\t\t\t打取云〃、殊感悦之至也、上洛之上\n\t\t\t\t\n\t\t\t\t\n者、此趣可注進之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　明徳五年四月廿五日\n\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t沙弥\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t清色美濃\n\t\t\t\t守殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000025.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n去月五日於\n\t\t\t\t<placeName corresp=\"#薩摩\" ref=\"https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD\">山門</placeName>\n\t\t\t\t城、自身太刀打\n\t\t\t\t<note corresp=\"#×敵方\">凶徒</note>\n\t\t\t\t打取云〃、殊感悦之至也、上洛之上\n\t\t\t\t<lb/>\n\t\t\t\t\n者、此趣可注進之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1394-05-25\">明徳五年四月廿五日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#今川了俊貞世\" ref=\"https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E8%B2%9E%E4%B8%96\">沙弥</persName>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<persName corresp=\"#渋谷重継カ\">清色美濃</persName>\n\t\t\t\t守殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

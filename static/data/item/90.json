@@ -1,0 +1,25 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重基",
+        "渋谷有重"
+    ],
+    "date": [
+        "1280-06-06"
+    ],
+    "label": "15　　弘安3年5月8日　　　渋谷正善(有重)譲状（＃９０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/90/manifest.json",
+    "objectID": "90",
+    "spatial": [
+        "国",
+        "美作国",
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n　譲与　　所領等事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t初童\n\t\t\t\t丸所\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　相模国吉田上庄渋谷内清太入道西在家壱宇、同藤意内立野伍\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　町但、四至堺者見本証文、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　美作国河会郷内下森自上山宮西　但、四至堺者見本証文、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t一所　薩摩国入来院内清色郷五分三北方\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、於所〃者、正善重代相伝所領也、雖為甥依有志、初童丸相副御下文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n并次第手継所永代譲与也、於諸御公事者、守先例可致其沙汰也、仍譲状\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　弘安三年五月八日　　　　　　　　　　　沙弥\n\t\t\t\t正善\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000035.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　譲与　　所領等事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#渋谷重基\">初童</persName>\n\t\t\t\t丸所\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#国\">相模国</placeName>吉田上庄渋谷内清太入道西在家壱宇、同藤意内立野伍\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　町但、四至堺者見本証文、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#美作国\">美作国</placeName>河会郷内下森自上山宮西　但、四至堺者見本証文、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内<placeName>清色郷</placeName>五分三北方\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、於所〃者、正善重代相伝所領也、雖為甥依有志、初童丸相副御下文\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n并次第手継所永代譲与也、於諸御公事者、守先例可致其沙汰也、仍譲状\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1280-06-06\">弘安三年五月八日</date>　　　　　　　　　　　沙弥\n\t\t\t\t<persName corresp=\"#渋谷有重\">正善</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "今川貞世",
+        "渋谷重次",
+        "名和慈冬",
+        "渋谷重頼"
+    ],
+    "date": [
+        "1385-09-13"
+    ],
+    "label": "5　　(至徳2年カ)8月9日　名和慈冬書状（＃１４８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/148/manifest.json",
+    "objectID": "148",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t\n　　　　委細者、此僧可被申候間留候、尚〃、両人の御中へ状の事、同事に申て\n\t\t\t\t\n\t\t\t\t\n　　　候、\n\t\t\t\t\n\t\t\t\t\n御申事、中村殿と相共に連〃申候て、京都へ委細の御吹挙めいめいに調\n\t\t\t\t\n\t\t\t\t\n進候、\n\t\t\t\t探題\n\t\t\t\tよりの御書とりそへて進之候、三か国御勢遣、急〃沙汰ある\n\t\t\t\t\n\t\t\t\t\nへきよし仰候、いかにいかに御悦喜候すらんと令存候、下村殿・\n\t\t\t\t江河\n\t\t\t\t殿へ\n\t\t\t\t\n\t\t\t\t\nも状を進したく候へ共、同事にて候ほとに不進候、御心得あるへく候、\n\t\t\t\t\n\t\t\t\t\n御悦入候、尚〃御勢遣の事、急\n\t\t\t\t束\n\t\t\t\tなるへく候、御心へのために令申候、\n\t\t\t\t\n\t\t\t\t\n又中村殿御中さまの事、いかゝと被存候事、御類の事にて候へ共、あり\n\t\t\t\t\n\t\t\t\t\nかたく存候、御心へのために申入候、諸事重〃申候へく候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t八月九日\n\t\t\t\t　　　　慈冬（花押）\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t渋谷清式五郎\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\t\t\t\t渋谷清式五郎殿　　慈冬」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000007.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t　　」\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　委細者、此僧可被申候間留候、尚〃、両人の御中へ状の事、同事に申て\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　候、\n\t\t\t\t<lb/>\n\t\t\t\t\n御申事、中村殿と相共に連〃申候て、京都へ委細の御吹挙めいめいに調\n\t\t\t\t<lb/>\n\t\t\t\t\n進候、\n\t\t\t\t<persName corresp=\"#今川貞世\" ref=\"https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E8%B2%9E%E4%B8%96\">探題</persName>\n\t\t\t\tよりの御書とりそへて進之候、三か国御勢遣、急〃沙汰ある\n\t\t\t\t<lb/>\n\t\t\t\t\nへきよし仰候、いかにいかに御悦喜候すらんと令存候、<persName>下村</persName>殿・\n\t\t\t\t<persName corresp=\"#渋谷重次\">江河</persName>\n\t\t\t\t殿へ\n\t\t\t\t<lb/>\n\t\t\t\t\nも状を進したく候へ共、同事にて候ほとに不進候、御心得あるへく候、\n\t\t\t\t<lb/>\n\t\t\t\t\n御悦入候、尚〃御勢遣の事、急\n\t\t\t\t<note corresp=\"#速\">束</note>\n\t\t\t\tなるへく候、御心へのために令申候、\n\t\t\t\t<lb/>\n\t\t\t\t\n又<persName>中村</persName>殿御中さまの事、いかゝと被存候事、御類の事にて候へ共、あり\n\t\t\t\t<lb/>\n\t\t\t\t\nかたく存候、御心へのために申入候、諸事重〃申候へく候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<date when=\"1385-09-13\"><note corresp=\"#至徳二年カ\">八月九日</note></date>\n\t\t\t\t　　　　<persName corresp=\"#名和慈冬\">慈冬</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#渋谷重頼\" ref=\"https://kotobank.jp/word/%E6%B8%8B%E8%B0%B7%E9%87%8D%E9%A0%BC-1080705\">渋谷清式五郎</persName>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷清式五郎殿　　慈冬」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

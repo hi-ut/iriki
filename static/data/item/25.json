@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "入来院重高",
+        "島津家久",
+        "入来院重時"
+    ],
+    "date": [
+        "1605-05-18"
+    ],
+    "label": "9　 (慶長10年カ)4月1日_島津維新(義弘)書状（＃２５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/25/manifest.json",
+    "objectID": "25",
+    "text": [
+        "\n\n\n\t\t\t\t\n　二五　島津維新義弘書状\n\t\t\t\t\n\t\t\t\t\n　　なをなを、此中御内存ともうけ給候ハヽ、此方ニてあひとゝのへ申へきも\n\t\t\t\t\n\t\t\t\t\n　のをと、のこりおほく存はかりに候、\n\t\t\t\t\n\t\t\t\t\nかさねての御ふミくハしく見とゝけ申候、しかれハ御世つきの事、\n\t\t\t\t弥一郎\n\n\t\t\t\t\n殿を御のそミにおほしめし候由、せんとおほせをかれ候や、其由うけ\n\t\t\t\t\n\t\t\t\t\n給らす候て、とかく御返事申さす候、まことにこれハよきにあひの儀と\n\t\t\t\t\n\t\t\t\t\nそんし候事に候、此ころ藤二郎とのいもうとに、ゑんちう申あわせへき\n\t\t\t\t\n\t\t\t\t\nＰ７\n\t\t\t\t\n\t\t\t\t\n由、\n\t\t\t\t少将殿\n\t\t\t\tよりうけ給候て、あひさたまる分に候、さりなから、ひら松\n\t\t\t\t\n\t\t\t\t\nへは我らいまた申さす候、弥一郎殿へハ少将殿よりおほせわたさるへき由\n\t\t\t\t\n\t\t\t\t\n候つる、\n\t\t\t\t又六殿\n\t\t\t\t世つきにハよきにあひの儀と存候間、少将殿舟もとに、\n\t\t\t\t\n\t\t\t\t\nいまたしゆつ船なく御逗りう候ハヽ、まつ御内儀を申上られ候て、しか\n\t\t\t\t\n\t\t\t\t\nるへく候、さ候はヽ、我らへ内儀を申候へハ、少将殿御分へつに参り候\n\t\t\t\t\n\t\t\t\t\nハヽ、よき仕合の儀に候、此ころ藤二郎とのいもうとにゑんちうあひ定\n\t\t\t\t\n\t\t\t\t\n候へとも、ひら松へハいまた申さす候あひた、はやはや少将とのへ御内\n\t\t\t\t\n\t\t\t\t\n儀を得られへきよし、我ら返事申たる由、御申あるへく候、さやうに候\n\t\t\t\t\n\t\t\t\t\nて、御ないぎしだいくう儀へひろうあるへき儀ハ、かさねて事たるへ\n\t\t\t\t\n\t\t\t\t\nきと存候、めてたくめてたく、かしこ、\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\n\t\t\t\t\n　　　　\n\t\t\t\t卯月一日\n\t\t\t\t　　　　　　　より\n\t\t\t\t\n\t\t\t\t\n　　　　遊の尾　御返事　　　　　　　　　　　　　　　惟しん」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000017.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二五　島津維新義弘書状\n\t\t\t\t<lb/>\n\t\t\t\t\n　　なをなを、此中御内存ともうけ給候ハヽ、此方ニてあひとゝのへ申へきも\n\t\t\t\t<lb/>\n\t\t\t\t\n　のをと、のこりおほく存はかりに候、\n\t\t\t\t<lb/>\n\t\t\t\t\nかさねての御ふミくハしく見とゝけ申候、しかれハ御世つきの事、\n\t\t\t\t<note corresp=\"#入来院重高\"><persName corresp=\"#入来院重高\">弥一郎</persName></note>\n<lb/>\n\t\t\t\t\n殿を御のそミにおほしめし候由、せんとおほせをかれ候や、其由うけ\n\t\t\t\t<lb/>\n\t\t\t\t\n給らす候て、とかく御返事申さす候、まことにこれハよきにあひの儀と\n\t\t\t\t<lb/>\n\t\t\t\t\nそんし候事に候、此ころ藤二郎とのいもうとに、ゑんちう申あわせへき\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ７\n\t\t\t\t<lb/>\n\t\t\t\t\n由、\n\t\t\t\t<note corresp=\"#島津家久\"><persName corresp=\"#島津家久\">少将殿</persName></note>\n\t\t\t\tよりうけ給候て、あひさたまる分に候、さりなから、ひら松\n\t\t\t\t<lb/>\n\t\t\t\t\nへは我らいまた申さす候、弥一郎殿へハ少将殿よりおほせわたさるへき由\n\t\t\t\t<lb/>\n\t\t\t\t\n候つる、\n\t\t\t\t<note corresp=\"#入来院重時\"><persName corresp=\"#入来院重時\">又六殿</persName></note>\n\t\t\t\t世つきにハよきにあひの儀と存候間、少将殿舟もとに、\n\t\t\t\t<lb/>\n\t\t\t\t\nいまたしゆつ船なく御逗りう候ハヽ、まつ御内儀を申上られ候て、しか\n\t\t\t\t<lb/>\n\t\t\t\t\nるへく候、さ候はヽ、我らへ内儀を申候へハ、少将殿御分へつに参り候\n\t\t\t\t<lb/>\n\t\t\t\t\nハヽ、よき仕合の儀に候、此ころ藤二郎とのいもうとにゑんちうあひ定\n\t\t\t\t<lb/>\n\t\t\t\t\n候へとも、ひら松へハいまた申さす候あひた、はやはや少将とのへ御内\n\t\t\t\t<lb/>\n\t\t\t\t\n儀を得られへきよし、我ら返事申たる由、御申あるへく候、さやうに候\n\t\t\t\t<lb/>\n\t\t\t\t\nて、御ないぎしだいくう儀へひろうあるへき儀ハ、かさねて事たるへ\n\t\t\t\t<lb/>\n\t\t\t\t\nきと存候、めてたくめてたく、かしこ、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<date when=\"1605-05-18\"><note corresp=\"#慶長十年カ\">卯月一日</note></date>\n\t\t\t\t　　　　　　　より\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　遊の尾　御返事　　　　　　　　　　　　　　　惟しん」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

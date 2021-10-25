@@ -1,0 +1,22 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重門"
+    ],
+    "date": [
+        "1360-05-04"
+    ],
+    "label": "13　　延文5年4月19日　　_渋谷重門寄進状（＃１１２）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/112/manifest.json",
+    "objectID": "112",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n「\n\t\t\t\t楠本寄進状正文　庚子歳」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n奉　寄進\n\t\t\t\t\n\t\t\t\t\n薩摩国入来院楠本内坂口在家田畠之事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、彼於在家田畠者、寿昌寺之方丈通法和尚、限永代所令進候也、若於\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t有彼所違乱之輩者、重門跡お不可知行、仍為後日寄進之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　延文五年卯月十九日　　　　　　　　　　　　平重門（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000023.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t楠本寄進状正文　庚子歳」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n奉　寄進\n\t\t\t\t\n\t\t\t\t<lb/>\n<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院楠本内坂口在家田畠之事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、彼於在家田畠者、寿昌寺之方丈通法和尚、限永代所令進候也、若於\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t有彼所違乱之輩者、<persName corresp=\"#渋谷重門\">重門</persName>跡お不可知行、仍為後日寄進之状如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1360-05-04\">延文五年卯月十九日</date>　　　　　　　　　　　　<persName corresp=\"#渋谷重門\">平重門</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

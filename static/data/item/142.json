@@ -1,0 +1,23 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "伊集院頼久",
+        "渋谷重長"
+    ],
+    "date": [
+        "1417-10-29"
+    ],
+    "label": "22　　応永24年9月20日　　伊集院道応(頼久)知行充行状（＃１４２）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/142/manifest.json",
+    "objectID": "142",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n\t\t\t\t奉宛行、薩摩国満家院内中俣同西俣、谷山郡内山田村坪付別帋在之、然者、\n\t\t\t\t\n\t\t\t\t\n早任先規、知行不可有相違状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　応永廿四年九月廿日　　　　　　　　　　\n\t\t\t\t道応\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t清色\n\t\t\t\t殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000035.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n\t\t\t\t奉宛行、<placeName corresp=\"#薩摩国\" ref=\"https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD\">薩摩国</placeName>満家院内中俣同西俣、谷山郡内<placeName>山田村</placeName>坪付別帋在之、然者、\n\t\t\t\t<lb/>\n\t\t\t\t\n早任先規、知行不可有相違状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1417-10-29\">応永廿四年九月廿日</date>　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#伊集院頼久\" ref=\"https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E9%A0%BC%E4%B9%85\">道応</persName>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#渋谷重長\">清色</persName>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

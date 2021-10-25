@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津勝久",
+        "入来院重聡"
+    ],
+    "date": [
+        "1536-08-09"
+    ],
+    "label": "20　 天文5年7月23日　　_島津勝久知行充行状（＃４６）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/46/manifest.json",
+    "objectID": "46",
+    "text": [
+        "\n\n 　四六　島津勝久知行充行状  薩摩国千臺郡之内百次城所領之事、為忠節之賞、宛行処也、早任此旨、  Ｐ１２  可被知行之状如件、\n\t\t\t\t 天文五年七月廿三日　　　　　　　　　　　　　　勝久（花押）  　　　　 入来 院殿\n\t\t\t\t 　　　 「 入来院殿　　勝久」 \n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000032.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　四六　<persName>島津勝久</persName>知行充行状 <lb/> 薩摩国千臺郡之内百次城所領之事、為忠節之賞、宛行処也、早任此旨、 <lb/> Ｐ１２ <lb/> 可被知行之状如件、\n\t\t\t\t<lb/> <date when=\"1536-08-09\">天文五年七月廿三日</date>　　　　　　　　　　　　　　<persName corresp=\"#島津勝久\">勝久</persName>（花押） <lb/> 　　　　<persName corresp=\"#入来院重聡\"> <note corresp=\"#重聡\">入来</note> 院</persName>殿\n\t\t\t\t<lb/> 　　　 <note corresp=\"#懸紙ウハ書\">「</note> 入来院殿　　勝久」 <lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津伊久",
+        "渋谷重頼"
+    ],
+    "date": [
+        "1400-12-28"
+    ],
+    "label": "9　 応永7年12月13日　　島津久哲(伊久)預ケ状（＃３５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/35/manifest.json",
+    "objectID": "35",
+    "text": [
+        "\n\n\n\t\t\t\t\n　三五　島津久哲伊久預ヶ状\n\t\t\t\t\n\t\t\t\t\n薩摩国之内谷山郡同国給黎院半分事\n\t\t\t\t\n\t\t\t\t\n右、為料所〃預申也、任先例可被沙汰之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　応永七年十二月十三日　　　　　　　　　　\n\t\t\t\t久哲\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n　　　渋谷\n\t\t\t\t弾正\n\t\t\t\t少弼殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000013.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　三五　<persName corresp=\"#島津伊久\">島津久哲伊久</persName>預ヶ状\n\t\t\t\t<lb/>\n\t\t\t\t\n薩摩国之内谷山郡同国給黎院半分事\n\t\t\t\t<lb/>\n\t\t\t\t\n右、為料所〃預申也、任先例可被沙汰之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1400-12-28\">応永七年十二月十三日</date>　　　　　　　　　　\n\t\t\t\t<note corresp=\"#伊久\"><persName corresp=\"#島津伊久\">久哲</persName></note>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<persName corresp=\"#渋谷重頼\">　渋谷\n\t\t\t\t<note corresp=\"#重頼\">弾正</note>\n\t\t\t\t少弼</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

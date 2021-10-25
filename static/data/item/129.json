@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "date": [
+        "1319-12-26"
+    ],
+    "label": "8　　元応元年11月14日　_薩摩入来院塔原領家方夏物年貢請取状（＃１２９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/129/manifest.json",
+    "objectID": "129",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n「\n\t\t\t\tりやうけの御うけとり」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　納　薩摩国入来院塔原領家方元応元年夏物御年貢色〃事\n\t\t\t\t\n\t\t\t\t\n　　合\n\t\t\t\t\n\t\t\t\t\n一綿伍拾四両壱分之内当進肆拾陸両弐分者、未進七両参分歟、\n\t\t\t\t\n\t\t\t\t\n一太糸拾肆両之内当進陸両云〃、未進捌両、但請合糸未進、\n\t\t\t\t\n\t\t\t\t\n一花紙伍帖之内当進弐帖、未進参帖、\n\t\t\t\t\n\t\t\t\t\n一苧伍拾両全未進、\n\t\t\t\t\n\t\t\t\t\n一麦代\n\t\t\t\t少\n\t\t\t\t袖絹壱全未進、\n\t\t\t\t\n\t\t\t\t\n一白布壱切全未進、\n\t\t\t\t\n\t\t\t\t\n右、且所納之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　元応元年十一月十四日　　　　　　　　　尼真理（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000013.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\tりやうけの御うけとり」\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　納　<placeName corresp=\"#薩摩国\" ref=\"https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%9B%BD\">薩摩国</placeName>入来院<placeName>塔原</placeName>領家方元応元年夏物御年貢色〃事\n\t\t\t\t<lb/>\n\t\t\t\t\n　　合\n\t\t\t\t<lb/>\n\t\t\t\t\n一綿伍拾四両壱分之内当進肆拾陸両弐分者、未進七両参分歟、\n\t\t\t\t<lb/>\n\t\t\t\t\n一太糸拾肆両之内当進陸両云〃、未進捌両、但請合糸未進、\n\t\t\t\t<lb/>\n\t\t\t\t\n一花紙伍帖之内当進弐帖、未進参帖、\n\t\t\t\t<lb/>\n\t\t\t\t\n一苧伍拾両全未進、\n\t\t\t\t<lb/>\n\t\t\t\t\n一麦代\n\t\t\t\t<note corresp=\"#小\">少</note>\n\t\t\t\t袖絹壱全未進、\n\t\t\t\t<lb/>\n\t\t\t\t\n一白布壱切全未進、\n\t\t\t\t<lb/>\n\t\t\t\t\n右、且所納之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1319-12-26\">元応元年十一月十四日</date>　　　　　　　　　<persName>尼真理</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重聡"
+    ],
+    "label": "6　 (年未詳)正月20日　_島津忠治書状（＃１６）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/16/manifest.json",
+    "objectID": "16",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一六　島津忠治書状（切紙？）\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t」\n\t\t\t\t\n\t\t\t\t\n改年之御慶、千吉万祥、雖事旧候、猶更不可有尽期候、珎重ゝ、抑\n\t\t\t\t\n\t\t\t\t\n今度之弓箭之事、別而憑入之由申候之処、被励懇志候、歓抃之至候、然\n\t\t\t\t\n\t\t\t\t\n者、為忠節之賞、隅城之事可進候也、仍証状萬幸之賀事、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　正月廿日　　　　忠治（花押）\n\t\t\t\t\n\t\t\t\t\n　　　渋谷\n\t\t\t\t弾正\n\t\t\t\t少弼入道殿\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\t\t\t\t渋谷弾正少弼入道殿　忠治」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000008.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一六　<persName>島津忠治</persName>書状（切紙？）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t」\n\t\t\t\t<lb/>\n\t\t\t\t\n改年之御慶、千吉万祥、雖事旧候、猶更不可有尽期候、珎重ゝ、抑\n\t\t\t\t<lb/>\n\t\t\t\t\n今度之弓箭之事、別而憑入之由申候之処、被励懇志候、歓抃之至候、然\n\t\t\t\t<lb/>\n\t\t\t\t\n者、為忠節之賞、隅城之事可進候也、仍証状萬幸之賀事、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　正月廿日　　　　忠治（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<persName corresp=\"#渋谷重聡\">渋谷\n\t\t\t\t<note corresp=\"#重聡\">弾正</note>\n\t\t\t\t少弼入道</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷弾正少弼入道殿　忠治」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

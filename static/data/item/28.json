@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "北条時政",
+        "島津忠久"
+    ],
+    "date": [
+        "1218-11-16"
+    ],
+    "label": "2　 (慶保6年)10月27日　関東御教書案（＃２８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/28/manifest.json",
+    "objectID": "28",
+    "text": [
+        "\n\n\n\t\t\t\t\n　二八　関東御教書案\n\t\t\t\t\n\t\t\t\t\n薩摩郡内山田村本領主大蔵氏所進折帋献之、如状者、右近将監友久狼藉\n\t\t\t\t\n\t\t\t\t\n無遁方歟、早相尋子細、所行若実者、可令召進開東給候、仍執達如件、\n\t\t\t\t\n\t\t\t\t\n　　　十月廿七日　　　　　　　　　　　　\n\t\t\t\t右\n\t\t\t\t京\n\t\t\t\t権\n\t\t\t\t大夫在判\n\t\t\t\t\n\t\t\t\t\nＰ８\n\t\t\t\t\n嶋津\n\t\t\t\t左\n\t\t\t\t衛門尉殿\n\t\t\t\t\n\t\t\t\t\n　　建保六年十月廿七日給了\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000005.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二八　関東御教書案\n\t\t\t\t<lb/>\n\t\t\t\t\n薩摩郡内山田村本領主大蔵氏所進折帋献之、如状者、右近将監友久狼藉\n\t\t\t\t<lb/>\n\t\t\t\t\n無遁方歟、早相尋子細、所行若実者、可令召進開東給候、仍執達如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　十月廿七日　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#北条時政\"><note corresp=\"#左カ\">右</note>\n\t\t\t\t京\n\t\t\t\t<note corresp=\"#時政\">権</note>\n\t\t\t\t大夫</persName>在判\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ８\n\t\t\t\t<lb/>\n<persName corresp=\"#島津忠久\">嶋津\n\t\t\t\t<note corresp=\"#忠久\">左</note>\n\t\t\t\t衛門尉</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<date when=\"1218-11-16\">建保六年十月廿七日</date>給了\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

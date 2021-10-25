@@ -1,0 +1,24 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "北条英時",
+        "渋谷重幸",
+        "渋谷為重"
+    ],
+    "date": [
+        "1327-10-13"
+    ],
+    "label": "10　　嘉暦2年9月28日　　_鎮西御教書（＃１０９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/109/manifest.json",
+    "objectID": "109",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n永利如性与山田八郎二郎道−能字有憚相論、薩摩国石上村堺打越事、被裁許\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n如性訖、守下知状可打渡由、被仰之処、不事行云〃、太無謂、任先度催\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n促之旨、不日致沙汰、可被注申候、仍執達如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　嘉暦二年閏九月廿八日　　　　　　　　　　\n\t\t\t\t修理\n\t\t\t\t亮（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t渋谷又二郎\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t渋谷弥平三\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000020.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n永利如性与山田八郎二郎道−能字有憚相論、<placeName corresp=\"#薩摩国\">薩摩国</placeName><placeName>石上村</placeName>堺打越事、被裁許\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n如性訖、守下知状可打渡由、被仰之処、不事行云〃、太無謂、任先度催\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n促之旨、不日致沙汰、可被注申候、仍執達如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1327-10-13\">嘉暦二年閏九月廿八日</date>　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#北条英時\">修理</persName>\n\t\t\t\t亮（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<persName corresp=\"#渋谷重幸\">渋谷又二郎</persName>\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<persName corresp=\"#渋谷為重\">渋谷弥平三</persName>\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

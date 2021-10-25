@@ -1,0 +1,16 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重門"
+    ],
+    "label": "20　　(年月日欠)　　　　_渋谷重門遺状（＃１１９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/119/manifest.json",
+    "objectID": "119",
+    "text": [
+        "\n\n\n\t\t\t\t\nおもひのほかに\n\t\t\t\tたつちう\n\t\t\t\tをたて候て、かく\n\t\t\t\tしよき\n\t\t\t\tを人わらハしくなさせ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n給候御事、むねんにおほえて候、返〃もむねんに候、\n\t\t\t\tとら\n\t\t\t\t五郎かはゝを\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nそむけん、うちの物ハをんたすけ給候へく候、たゝわれと御いて候て、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nかくしよきをひらにたのミ申候て、みかたつちうおとりたて候て、身か\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nこせをとふらハせ候て給候へく候、もしこれをそむかん人をハ、\n\t\t\t\tすハ\n\t\t\t\tも\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n御しようらん候へ、七月のうちに\n\t\t\t\tはつを\n\t\t\t\tあたえ候へく候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nとら五郎かことを大事とおほしめされ候て、うちの物を御いたし候て、七\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n月よりうちにしよりやうを御すハ・たつちうに御きしんあるへく候、又\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nうちの物にをちさせ給候て、なに事もおほせ候ハん事、むねんにおほ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nえ候、ことにことに七月のうち、すハにしよりやうをきしんあるへく候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nによしやうのみにて候とも、なにとてかやうにきハわたらせ給候やらん、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nむねんこの事に候、又みかつミハ一日きやうをさんとかゝせ給候て、う\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nか\n\t\t\t\tふ\n\t\t\t\t候へく候、尚〃すハたつちうに七月のうちに、しよりやうをきしん\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nあるへく候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　しけかと（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000033.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\nおもひのほかに\n\t\t\t\t<note corresp=\"#塔頭\">たつちう</note>\n\t\t\t\tをたて候て、かく\n\t\t\t\t<note corresp=\"#書記\">しよき</note>\n\t\t\t\tを人わらハしくなさせ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n給候御事、むねんにおほえて候、返〃もむねんに候、\n\t\t\t\t<note corresp=\"#重頼\">とら</note>\n\t\t\t\t五郎かはゝを\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nそむけん、うちの物ハをんたすけ給候へく候、たゝわれと御いて候て、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nかくしよきをひらにたのミ申候て、みかたつちうおとりたて候て、身か\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nこせをとふらハせ候て給候へく候、もしこれをそむかん人をハ、\n\t\t\t\t<note corresp=\"#諏訪\">すハ</note>\n\t\t\t\tも\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n御しようらん候へ、七月のうちに\n\t\t\t\t<note corresp=\"#初穂\">はつを</note>\n\t\t\t\tあたえ候へく候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nとら五郎かことを大事とおほしめされ候て、うちの物を御いたし候て、七\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n月よりうちにしよりやうを御すハ・たつちうに御きしんあるへく候、又\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nうちの物にをちさせ給候て、なに事もおほせ候ハん事、むねんにおほ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nえ候、ことにことに七月のうち、すハにしよりやうをきしんあるへく候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nによしやうのみにて候とも、なにとてかやうにきハわたらせ給候やらん、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nむねんこの事に候、又みかつミハ一日きやうをさんとかゝせ給候て、う\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nか\n\t\t\t\t<note corresp=\"#ひカ\">ふ</note>\n\t\t\t\t候へく候、尚〃すハたつちうに七月のうちに、しよりやうをきしん\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nあるへく候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　<persName corresp=\"#渋谷重門\">しけかと</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

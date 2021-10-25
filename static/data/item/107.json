@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "大前則道"
+    ],
+    "date": [
+        "1303-09-21"
+    ],
+    "label": "8　　乾元2年8月10日　　_大前則道和与状（＃１０７）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/107/manifest.json",
+    "objectID": "107",
+    "text": [
+        "\n\n\n「\n\t\t\t\t入来院書生和与状」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n入来院書生得分事、背先例抑留之由、雖及上訴、於塔原分者、以和与之\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n儀、毎年弐石伍斗、可被致沙汰之由、治定候畢、此上者、不可依自余村\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n〃沙汰之是非候、仍和与状如件\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　乾元弐年八月十日　　　　　　　　　　　　大前則道（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000017.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t入来院書生和与状」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n入来院書生得分事、背先例抑留之由、雖及上訴、於塔原分者、以和与之\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n儀、毎年弐石伍斗、可被致沙汰之由、治定候畢、此上者、不可依自余村\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n〃沙汰之是非候、仍和与状如件\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1303-09-21\">乾元弐年八月十日</date>　　　　　　　　　　　　<persName corresp=\"大前則道\">大前則道</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

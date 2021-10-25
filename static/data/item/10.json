@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "足利直義"
+    ],
+    "date": [
+        "1343"
+    ],
+    "label": "10　 康永2年4月12日　　_足利直義軍勢催促状（＃１０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/10/manifest.json",
+    "objectID": "10",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一〇　足利直義軍勢催促状\n\t\t\t\t\n\t\t\t\t\n参御方、可致軍忠之状如件、\n\t\t\t\t\n\t\t\t\t\n　　　康永二年四月十二日　　　　　　　　　　\n\t\t\t\t（花押）\n\n\t\t\t\t\n　　渋谷孫次郎（重広）殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000011.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一〇　<persName>足利直義</persName>軍勢催促状\n\t\t\t\t<lb/>\n\t\t\t\t\n参御方、可致軍忠之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1343\">康永二年</date>四月十二日　　　　　　　　　　\n\t\t\t\t<note corresp=\"#直義\"><persName corresp=\"#足利直義\">（花押）</persName></note>\n<lb/>\n\t\t\t\t\n　　<persName>渋谷孫次郎（重広）</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

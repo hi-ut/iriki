@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "入来院重勝"
+    ],
+    "date": [
+        "1357-02-09"
+    ],
+    "label": "13　　延文2年正月20日　　渋谷重勝寄進状（＃１３３）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/133/manifest.json",
+    "objectID": "133",
+    "text": [
+        "\n\n\n\t\t\t\t\n　\n\t\t\t\t「\n\t\t\t\t馬渡瀬寄進状正文\n\t\t\t\t『\n\t\t\t\t乙酉歳也』」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n今日衣鉢御布施之事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n清色北方馬渡瀬竹下記名四郎作壱段、手作弐段、寿昌寺方丈令進候、聊\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n違乱妨不可有申仁候、仍為後証状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　延文二年正月廿日　　　　　　　　　　美濃守重勝（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000021.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　\n\t\t\t\t<note corresp=\"#端裏書\">「</note>\n\t\t\t\t馬渡瀬寄進状正文\n\t\t\t\t<note corresp=\"#追筆\">『</note>\n\t\t\t\t乙酉歳也』」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n今日衣鉢御布施之事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n清色北方馬渡瀬竹下記名四郎作壱段、手作弐段、寿昌寺方丈令進候、聊\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n違乱妨不可有申仁候、仍為後証状如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1357-02-09\">延文二年正月廿日</date>　　　　　　　　　　<persName corresp=\"#入来院重勝\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E6%B0%8F\">美濃守重勝</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

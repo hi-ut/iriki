@@ -1,0 +1,17 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "畠山直顕",
+        "渋谷重基"
+    ],
+    "label": "11　　(年未詳)9月5日　　_畠山直顕書下（＃１１０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/110/manifest.json",
+    "objectID": "110",
+    "text": [
+        "\n\n\n\t\t\t\t\n去月廿八日注進状、今月五日到来候了、抑薩州凶徒等参御方候之条、目\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n出度覚候、御所望御教書二通進候、疲労御事奉察候哉、仍執達如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　九月五日　　　　　　　　　　　　　　　　\n\t\t\t\t源\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t渋谷新平次\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000021.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n去月廿八日注進状、今月五日到来候了、抑薩州凶徒等参御方候之条、目\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n出度覚候、御所望御教書二通進候、疲労御事奉察候哉、仍執達如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　九月五日　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#畠山直顕\">源</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<persName corresp=\"#渋谷重基\">渋谷新平次</persName>\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

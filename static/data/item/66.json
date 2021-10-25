@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重純"
+    ],
+    "date": [
+        "1251-04"
+    ],
+    "label": "11　　建長3年3月　日　　_藤原光平外三名連署入来院堺注文案（＃６６）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/66/manifest.json",
+    "objectID": "66",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　　　　　　　　　　　有御判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n入来院\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　ちうしん　建長三年のきむたちの御方ニ村わけさかいのしるし文\n\t\t\t\t\n\t\t\t\t\n二郎\n\t\t\t\t三郎殿御りやう、北ハかきる大河、西ハかきる一てうの江口、同か\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nらす山の、同きせのお、同うつきれ山のたうけ、うハとこのひたをか\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nきる、同せうの石桝口を中村ニいけて如さかい、入道ミねから東郷のひ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nなたひらのえほうしかたにあてゝきる、あいにハはうしあり、入道かミ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nねから東ニきる松板田ハ中村也、ふちの上の大門のついちよりはんたの山\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nの上のはためかきる、同ふち山のはためをかきる、同しゝの河内の口、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n南ハかきるしゝの河内、同ほるをせうの石きる、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　くん文僧有判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　建長参年庚亥三月日　　　　　　　　　　　　　僧　内慶在判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ２４\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　藤原光貞在判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　藤原光平在判\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000017.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　有御判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n入来院\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　ちうしん　建長三年のきむたちの御方ニ村わけさかいのしるし文\n\t\t\t\t\n\t\t\t\t<lb/>\n<persName corresp=\"#渋谷重純\">二郎</persName>\n\t\t\t\t三郎殿御りやう、北ハかきる大河、西ハかきる一てうの江口、同か\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nらす山の、同きせのお、同うつきれ山のたうけ、うハとこのひたをか\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nきる、同せうの石桝口を中村ニいけて如さかい、入道ミねから東郷のひ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nなたひらのえほうしかたにあてゝきる、あいにハはうしあり、入道かミ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nねから東ニきる松板田ハ中村也、ふちの上の大門のついちよりはんたの山\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nの上のはためかきる、同ふち山のはためをかきる、同しゝの河内の口、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n南ハかきるしゝの河内、同ほるをせうの石きる、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　<persName>くん文僧</persName>有判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1251-04\">建長参年庚亥三月日</date>　　　　　　　　　　　　　僧　<persName>内慶</persName>在判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ２４\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　<persName>藤原光貞</persName>在判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　<persName>藤原光平</persName>在判\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

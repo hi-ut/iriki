@@ -1,0 +1,16 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重長"
+    ],
+    "label": "20　　(年未詳)正月　日　_渋谷重長請文案（＃１４０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/140/manifest.json",
+    "objectID": "140",
+    "text": [
+        "\n\n\n\t\t\t\t\n去年十一月　日御教書、今年正月　日到来、謹拝見仕候畢、\n\t\t\t\t\n\t\t\t\t\n抑如被仰下者、凶徒勤〃退治事、相共守護人共大将誰共、可致忠節云〃、仍任　上意\n\t\t\t\t\n\t\t\t\t\n申談、馳向凶徒在所、何共可抽忠貞候、以此旨可有御披露候、恐惶謹言、\n\t\t\t\t\n\t\t\t\t\n　　　正月　日\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　宮内少輔\n\t\t\t\t請\n\t\t\t\t文\n\t\t\t\t重長\n「\n\t\t\t\t判」\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t「\n\t\t\t\t　　　　　宮内少輔重長請文」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000030.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n去年十一月　日御教書、今年正月　日到来、謹拝見仕候畢、\n\t\t\t\t<lb/>\n\t\t\t\t\n抑如被仰下者、凶徒勤〃退治事、相共守護人共大将誰共、可致忠節云〃、仍任　上意\n\t\t\t\t<lb/>\n\t\t\t\t\n申談、馳向凶徒在所、何共可抽忠貞候、以此旨可有御披露候、恐惶謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　正月　日\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　　宮内少輔\n\t\t\t\t<note corresp=\"#×謹\">請</note>\n\t\t\t\t文\n\t\t\t\t<note corresp=\"#×御判\">重長</note>\n<note corresp=\"#裏\">「</note>\n\t\t\t\t判」\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<note corresp=\"#別紙\">「</note>\n\t\t\t\t　　　　　<persName corresp=\"#渋谷重長\">宮内少輔重長</persName>請文」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}
