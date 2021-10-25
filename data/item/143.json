@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重頼",
+        "渋谷周頼"
+    ],
+    "date": [
+        "1420-08-08"
+    ],
+    "label": "23　　応永27年6月29日　　周頼名字書出（＃１４３）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/143/manifest.json",
+    "objectID": "143",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　名字\n\t\t\t\t\n\t\t\t\t\n　　　渋谷三郎五郎\n\n\t\t\t\t\n\t\t\t\t　　　　　　　　重頼\n\n\t\t\t\t\n\t\t\t\t　　応永廿七年六月廿九日\n\n\t\t\t\t\n　　　　　　　　周頼（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000036.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　名字\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<persName>渋谷三郎五郎</persName>\n<lb/>\n\t\t\t\t\n\t\t\t\t　　　　　　　　<persName corresp=\"#渋谷重頼\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E9%A0%BC\">重頼</persName>\n<lb/>\n\t\t\t\t\n\t\t\t\t　　<date when=\"1420-08-08\">応永廿七年六月廿九日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　<persName corresp=\"#渋谷周頼\">周頼</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

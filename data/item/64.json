@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷公重",
+        "渋谷重経(定仏)"
+    ],
+    "date": [
+        "1270-11-29"
+    ],
+    "label": "9　　文永7年10月15日　　渋谷定仏(重経)同公重連署和与状案（＃６４）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/64/manifest.json",
+    "objectID": "64",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　　○同文ノ案文、第八九号ニ収メタリ、宜シク彼此参看スベシ、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　た□□□□□□□候へく候、\n\t\t\t\t\n\t\t\t\t\nたうのはら\n\t\t\t\tと\n\t\t\t\tいちゐの\n\t\t\t\tゝさかいわよの事、へんひの□□□□けふミのこと\n\t\t\t\t\n\t\t\t\t\n□\n\t\t\t\tゆひらのひたをへきる、同ゆのこたにのミつかきたのたにのなかれ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nを、いちゐのかわへきる、\n\t\t\t\tにれきた\n\t\t\t\tにをいてハたうのは\n\t\t\t\t□\n\t\t\t\tなり、\n\t\t\t\tきんしけ\n\n\t\t\t\t\nかいろいあるましく候、同くきのゝとをうむれとのあいのこたにを\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nのほりニ、やはすの\n\t\t\t\tやけはら\n\t\t\t\tのさかいをきる、やはすのくまのゝにおい\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nてハ、いかういちゐのなり、\n\t\t\t\tちやうふつ\n\t\t\t\tかいろいあるへからす、よての\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nちのせうもんのために、わよのしやうくたんのことし、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　ふんえい七ねん十月十五日　　　　　　　　きんしけ在判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nたうのハらの兵衛入道殿　　　　　　　　　　　　しやうふつ在判\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n市比野四郎三郎所中\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000015.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　○同文ノ案文、第八九号ニ収メタリ、宜シク彼此参看スベシ、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　た□□□□□□□候へく候、\n\t\t\t\t\n\t\t\t\t<lb/>\n<note corresp=\"#塔原\"><placeName>たうのはら</placeName></note>\n\t\t\t\tと\n\t\t\t\t<note corresp=\"#市比野\"><placeName>いちゐの</placeName></note>\n\t\t\t\tゝさかいわよの事、へんひの□□□□けふミのこと\n\t\t\t\t\n\t\t\t\t<lb/>\n<note corresp=\"#く\">□</note>\n\t\t\t\tゆひらのひたをへきる、同ゆのこたにのミつかきたのたにのなかれ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nを、いちゐのかわへきる、\n\t\t\t\t<note corresp=\"#楡木田\"><placeName>にれきた</placeName></note>\n\t\t\t\tにをいてハたうのは\n\t\t\t\t<note corresp=\"#ら\">□</note>\n\t\t\t\tなり、\n\t\t\t\t<persName corresp=\"#渋谷公重\">きんしけ</persName>\n<lb/>\n\t\t\t\t\nかいろいあるましく候、同くきのゝとをうむれとのあいのこたにを\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nのほりニ、やはすの\n\t\t\t\t<note corresp=\"#弥毛原\">やけはら</note>\n\t\t\t\tのさかいをきる、やはすのくまのゝにおい\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nてハ、いかういちゐのなり、\n\t\t\t\t<persName corresp=\"#渋谷重経(定仏)\">ちやうふつ</persName>\n\t\t\t\tかいろいあるへからす、よての\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nちのせうもんのために、わよのしやうくたんのことし、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1270-11-29\">ふんえい七ねん十月十五日</date>　　　　　　　　きんしけ在判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nたうのハらの<persName>兵衛入道</persName>殿　　　　　　　　　　　　しやうふつ在判\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n市比野四郎三郎所中\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

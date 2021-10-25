@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "国分友重",
+        "島津師久",
+        "渋谷重継"
+    ],
+    "date": [
+        "1358-09-15"
+    ],
+    "label": "7　 (年未詳)2月19日　　島津師久去状（＃３３）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/33/manifest.json",
+    "objectID": "33",
+    "text": [
+        "\n\n 　三三　島津師久去状  凶徒国分平次郎友重・同永利又太郎入道祖性両人跡田薗事、善悪共令中 \n\t\t\t\t分、半分所去申候也、迄于御子〃孫〃、聊不可成違乱之煩候、此上者、  於公方可挙申候、恐〃謹言、  Ｐ９ \n\t\t\t\t　　　二月十九日　　　　　　　　　　　　左衛門少尉師久（花押）  　謹上　渋谷 美濃 五郎左衛門尉殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000011.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　三三　<persName>島津師久</persName>去状 <lb/> 凶徒<persName corresp=\"#国分友重\">国分平次郎友重</persName>・同永利又太郎入道祖性両人跡田薗事、善悪共令中 <lb/>\n\t\t\t\t分、半分所去申候也、迄于御子〃孫〃、聊不可成違乱之煩候、此上者、 <lb/> 於公方可挙申候、恐〃謹言、 <lb/> Ｐ９ <lb/>\n\t\t\t\t　　　<date when=\"1358-09-15\">二月十九日</date>　　　　　　　　　　　　<persName corresp=\"#島津師久\">左衛門少尉師久</persName>（花押） <lb/> 　謹上　<persName corresp=\"#渋谷重継\">渋谷 <note corresp=\"#重継\">美濃</note> 五郎左衛門尉</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

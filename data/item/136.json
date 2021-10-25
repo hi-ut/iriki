@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重茂"
+    ],
+    "date": [
+        "1392-12-28"
+    ],
+    "label": "16　　明徳3年11月15日　　渋谷重茂名字書出案（＃１３６）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/136/manifest.json",
+    "objectID": "136",
+    "text": [
+        "\n\n\n渋谷平太三郎平重見\n\t\t\t\t\n明徳三年十一月十五日\n\n\t\t\t\t\n　　　　　　出羽守重茂在判\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000024.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<persName>渋谷平太三郎</persName>平重見\n\t\t\t\t<lb/>\n<date when=\"1392-12-28\">明徳三年十一月十五日</date>\n<lb/>\n\t\t\t\t\n　　　　　　<persName corresp=\"#渋谷重茂\">出羽守重茂</persName>在判\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

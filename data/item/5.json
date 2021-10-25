@@ -1,43 +1,23 @@
 {
-    "_updated": "2021-09-12",
+    "_updated": "2021-10-25",
     "about": [
         "弾正少弼"
     ],
     "agential": [
+        "後村上天皇",
         "入来院重門"
-    ],
-    "collection": [
-        "入来院家文書 一"
     ],
     "date": [
         "1367-03-11"
     ],
-    "jcdate": [
-        "正平22年2月10日"
-    ],
-    "label": "後村上天皇綸旨",
+    "label": "5　 正平22年2月10日　　後村上天皇綸旨（＃５）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/5/manifest.json",
-    "no": [
-        "5"
-    ],
     "objectID": "5",
-    "received": [
-        "入来院重門"
-    ],
-    "sent": [
-        "右衛門権佐"
-    ],
     "text": [
-        "\n\n\n\n 致軍忠之由被聞食了、尤以神妙者、\n\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t 　　　正平廿二年二月十日　　右衛門権佐（花押）\n\t\t\t\t 　渋谷 弾正\n\t\t\t\t\t小 弼館\n\t\t\t\n\n\n\n 　 「\n渋谷弾正 小 弼館　右衛門権佐（花押）」\n\t\t\t\t\t\n\n"
+        "\n\n 　五　後村上天皇綸旨（白紙、小切紙）  致軍忠之由被聞食了、尤以神妙者、  天気如此、悉之以状、 \n\t\t\t\t　　　正平廿二年二月十日　　右衛門権佐（花押）  　渋谷 弾正\n小 弼館  　 「 渋谷弾正 小 弼館　右衛門権佐（花押）」 \n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000006.jpg",
-    "vol": [
-        "1帖"
-    ],
     "xml": [
-        "<body>\n<div>\n<p>\n<!-- <lb/> 　五　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（白紙、小切紙）-->\n<lb/> 致軍忠之由被聞食了、尤以神妙者、\n\t\t\t\t<lb/> 天気如此、悉之以状、\n\t\t\t\t<lb/> 　　　<date when=\"1367-03-11\">正平廿二年二月十日</date>　　右衛門権佐（花押）\n\t\t\t\t<lb/> 　<persName corresp=\"#入来院重門\">渋谷 弾正\n\t\t\t\t\t<note corresp=\"#少、下同ジ\">小</note> 弼</persName>館\n\t\t\t</p>\n</div>\n<div type=\"懸紙ウハ書\">\n<p>\n<lb/> 　 <note corresp=\"#懸紙ウハ書\">「</note>\n<persName corresp=\"#入来院重門\">渋谷<name corresp=\"#弾正少弼\" ref=\"https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058\" type=\"keyword\">弾正 <note corresp=\"#少\">小</note> 弼</name></persName>館　右衛門権佐（花押）」\n\t\t\t\t\t</p>\n</div>\n</body>"
-    ],
-    "外題": [
-        "御綸旨御下文御感状御教書　九通　九番"
+        "<body>\n<p>\n<lb/> 　五　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（白紙、小切紙） <lb/> 致軍忠之由被聞食了、尤以神妙者、 <lb/> 天気如此、悉之以状、 <lb/>\n\t\t\t\t　　　<date when=\"1367-03-11\">正平廿二年二月十日</date>　　右衛門権佐（花押） <lb/> 　<persName corresp=\"#入来院重門\">渋谷 <note corresp=\"#重門\">弾正</note>\n<note corresp=\"#少、下同ジ\">小</note> 弼</persName>館 <lb/> 　 <note corresp=\"#懸紙ウハ書\">「</note> <persName corresp=\"#入来院重門\">渋谷<name corresp=\"#弾正少弼\" ref=\"https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058\" type=\"keyword\">弾正 <note corresp=\"#少\">小</note> 弼</name></persName>館　右衛門権佐（花押）」 <lb/>\n</p>\n</body>"
     ]
 }

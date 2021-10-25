@@ -1,41 +1,21 @@
 {
-    "_updated": "2021-09-12",
+    "_updated": "2021-10-25",
     "agential": [
+        "後村上天皇",
         "西園寺実秀",
         "渋谷重門"
-    ],
-    "collection": [
-        "入来院家文書 一"
     ],
     "date": [
         "1365-03-05"
     ],
-    "jcdate": [
-        "正平19年2月1日"
-    ],
-    "label": "後村上天皇綸旨",
+    "label": "4　 正平19年2月1日　　_後村上天皇綸旨（＃４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/4/manifest.json",
-    "no": [
-        "4"
-    ],
     "objectID": "4",
-    "received": [
-        "渋谷重門"
-    ],
-    "sent": [
-        "西園寺実秀"
-    ],
     "text": [
-        "\n\n\n\n 参御方、相語一族、 至 軍忠者、於本領 可 有子細、 至 忠節者、恩賞之事\n\t\t\t\t 者、不可有子細也、\n\t\t\t\t 天気如此、悉之以状、\n\t\t\t\t 　　　正平十九年二月一日　　　　　　　　　\n\t\t\t\t\t左 中将（花押）\n\t\t\t\t 　渋谷 能登 守舘\n\t\t\t\n\n"
+        "\n\n 　四　後村上天皇綸旨（宿紙）  参御方、相語一族、 至 軍忠者、於本領 可 有子細、 至 忠節者、恩賞之事 \n\t\t\t\t者、不可有子細也、  天気如此、悉之以状、  　　　正平十九年二月一日　　　　　　　　　 左 中将（花押）  　渋谷 能登 守舘 \n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000005.jpg",
-    "vol": [
-        "1帖"
-    ],
     "xml": [
-        "<body>\n<div type=\"宿紙\">\n<p>\n<!-- <lb/> 　四　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（宿紙）-->\n<lb/> 参御方、相語一族、 <note corresp=\"#致、下同ジ\">至</note> 軍忠者、於本領 <note corresp=\"#不脱カ\">可</note> 有子細、 <note corresp=\"#致\">至</note> 忠節者、恩賞之事\n\t\t\t\t<lb/> 者、不可有子細也、\n\t\t\t\t<lb/> 天気如此、悉之以状、\n\t\t\t\t<lb/> 　　　<date when=\"1365-03-05\">正平十九年二月一日</date>　　　　　　　　　<persName corresp=\"#西園寺実秀\">\n\t\t\t\t\t左 中将</persName>（花押）\n\t\t\t\t<lb/> 　<persName corresp=\"#渋谷重門\">渋谷 能登 守</persName>舘\n\t\t\t</p>\n</div>\n</body>"
-    ],
-    "外題": [
-        "御綸旨御下文御感状御教書　九通　九番"
+        "<body>\n<p>\n<lb/> 　四　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（宿紙） <lb/> 参御方、相語一族、 <note corresp=\"#致、下同ジ\">至</note> 軍忠者、於本領 <note corresp=\"#不脱カ\">可</note> 有子細、 <note corresp=\"#致\">至</note> 忠節者、恩賞之事 <lb/>\n\t\t\t\t者、不可有子細也、 <lb/> 天気如此、悉之以状、 <lb/> 　　　<date when=\"1365-03-05\">正平十九年二月一日</date>　　　　　　　　　<persName corresp=\"#西園寺実秀\"> <note corresp=\"#西園寺実秀\">左</note> 中将</persName>（花押） <lb/> 　<persName corresp=\"#渋谷重門\">渋谷 <note corresp=\"#重門\">能登</note> 守</persName>舘 <lb/>\n</p>\n</body>"
     ]
 }

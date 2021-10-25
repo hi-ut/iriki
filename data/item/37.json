@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津元久",
+        "渋谷重頼"
+    ],
+    "date": [
+        "1404-01-11"
+    ],
+    "label": "11　 応永10年11月29日　_島津元久知行充行状（＃３７）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/37/manifest.json",
+    "objectID": "37",
+    "text": [
+        "\n\n 　三七　島津元久知行充行状  薩摩国鹿児嶋郡武之村并指宿之内成河村事、依有御志所進置也、雖然、申\n\t\t\t\t 談候山北所領御知行之時者、可返給候、仍状如件、  　　　応永十年十一月廿九日　　　　　　　　　　元久（花押） \n\t\t\t\t　　　渋谷 弾正\n小 弼殿 \n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000017.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　三七　<persName>島津元久</persName>知行充行状 <lb/> 薩摩国鹿児嶋郡武之村并指宿之内成河村事、依有御志所進置也、雖然、申\n\t\t\t\t<lb/> 談候山北所領御知行之時者、可返給候、仍状如件、 <lb/> 　　　<date when=\"1404-01-11\">応永十年十一月廿九日</date>　　　　　　　　　　<persName corresp=\"#島津元久\">元久</persName>（花押） <lb/>\n\t\t\t\t　　　<persName corresp=\"#渋谷重頼\">渋谷 <note corresp=\"#重頼\">弾正</note>\n<note corresp=\"#少\">小</note> 弼</persName>殿 <lb/>\n</p>\n</body>"
+    ]
+}

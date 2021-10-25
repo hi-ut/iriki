@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "畠山直顕",
+        "伊藤祐氏",
+        "渋谷重門"
+    ],
+    "date": [
+        "1353"
+    ],
+    "label": "8　 文和2年10月9日　　_足利義詮御判御教書案（＃８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/8/manifest.json",
+    "objectID": "8",
+    "text": [
+        "\n\n\n\t\t\t\t\n将軍家御臺所御領日向国穆佐院并嶋津院事〃度〃被仰之処、畠山\n\t\t\t\t修理\n\t\t\t\t亮・\n\t\t\t\t\n伊東\n\t\t\t\t下野\n\t\t\t\t守等、不承引之間、加退治、可沙汰付下地於給主代若林弾正忠\n\t\t\t\t\n\t\t\t\t\n年秀之旨、所被仰守護人也、早馳向、可合力之状如件、\n\t\t\t\t\n\t\t\t\t\n　　　文和二年十月九日　　　　　　　　　　　\n\t\t\t\t御判\n\n\t\t\t\t\n　　渋谷\n\t\t\t\t石見\n\t\t\t\t権守殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000009.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n将軍家御臺所御領日向国穆佐院并嶋津院事〃度〃被仰之処、<persName corresp=\"畠山直顕\">畠山\n\t\t\t\t<note corresp=\"#直顕\">修理</note>\n\t\t\t\t亮</persName>・\n\t\t\t\t<lb/>\n<persName corresp=\"伊藤祐氏\">伊東\n\t\t\t\t<note corresp=\"#祐氏\">下野</note>\n\t\t\t\t守</persName>等、不承引之間、加退治、可沙汰付下地於給主代若林弾正忠\n\t\t\t\t<lb/>\n\t\t\t\t\n年秀之旨、所被仰守護人也、早馳向、可合力之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1353\">文和二年十月九日</date>　　　　　　　　　　　\n\t\t\t\t<note corresp=\"#義詮\">御判</note>\n<lb/>\n\t\t\t\t\n　　<persName corresp=\"渋谷重門\">渋谷\n\t\t\t\t<note corresp=\"#重門\">石見</note>\n\t\t\t\t権守</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

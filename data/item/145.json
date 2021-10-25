@@ -1,0 +1,23 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "大内義興",
+        "渋谷重聡"
+    ],
+    "date": [
+        "1500-09-26"
+    ],
+    "label": "2　　(明応9年カ)9月3日　大内義興書状（＃１４５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/145/manifest.json",
+    "objectID": "145",
+    "spatial": [
+        "肥後"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t\n求麻\n\t\t\t\t之儀、無御等閑之由承及候、彼方之事、別而申通候之間、弥無二被\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n仰合候者、可為喜悦候、於已後、猶一味可申談候、遠路之事候之間、令\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n省略候、何様連〃可申承候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t九月三日\n\t\t\t\t　　　　義興（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t入木院\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ６８\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\t\t\t\t入木院殿　義興」\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000004.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t<lb/>\n<placeName corresp=\"#肥後\">求麻</placeName>\n\t\t\t\t之儀、無御等閑之由承及候、彼方之事、別而申通候之間、弥無二被\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n仰合候者、可為喜悦候、於已後、猶一味可申談候、遠路之事候之間、令\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n省略候、何様連〃可申承候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<date when=\"1500-09-26\"><note corresp=\"#明応九年カ\">九月三日</note></date>\n\t\t\t\t　　　　<persName corresp=\"#大内義興\" ref=\"https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%86%85%E7%BE%A9%E8%88%88\">義興</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<persName corresp=\"#渋谷重聡\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E8%81%A1\">入木院</persName>\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ６８\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t入木院殿　義興」\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

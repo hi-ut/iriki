@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷定仏重経",
+        "渋谷公重"
+    ],
+    "date": [
+        "1270-11-19"
+    ],
+    "label": "14　　文永7年10月5日　　_渋谷公重和与状案（＃８９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/89/manifest.json",
+    "objectID": "89",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　○同文ノ案文、前出第六四号ニ収メタリ、宜シク彼此参看スベシ、\n\t\t\t\t\n□□\n\t\t\t\tのハらといちゐのとのさかひわよの事\n\t\t\t\t\n\t\t\t\t\nへんひのゝよりかんわけふミのことく、ゆひらのひたをへきる、同ゆの\n\t\t\t\t\n\t\t\t\t\nこたにの三つかきたのたにのなかれをいちゐのかハへきる、にれきたに\n\t\t\t\t\n\t\t\t\t\nをいてハたうのはらなり、\n\t\t\t\tきんしけ\n\t\t\t\tかいろいあるましく候、同くきのゝ\n\t\t\t\t\n\t\t\t\t\nとをうむれとのあいのこたにをのほりに、やはすのやけはらのさかひを\n\t\t\t\t\n\t\t\t\t\nきる、やはすのくまのゝにおきてハ、いかういちゐのなり、\n\t\t\t\tちやうふつ\n\n\t\t\t\t\nかいろいあるへからす候、よてのちのせうもんのために、わよのしやう\n\t\t\t\t\n\t\t\t\t\nくたんのことし、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　ふんえい七ねん十月十五日　　　　　　　　公重在判\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000034.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　○同文ノ案文、前出第六四号ニ収メタリ、宜シク彼此参看スベシ、\n\t\t\t\t<lb/>\n<note corresp=\"#たうカ\">□□</note>\n\t\t\t\tのハらといちゐのとのさかひわよの事\n\t\t\t\t<lb/>\n\t\t\t\t\nへんひのゝよりかんわけふミのことく、ゆひらのひたをへきる、同ゆの\n\t\t\t\t<lb/>\n\t\t\t\t\nこたにの三つかきたのたにのなかれをいちゐのかハへきる、にれきたに\n\t\t\t\t<lb/>\n\t\t\t\t\nをいてハたうのはらなり、\n\t\t\t\t<note corresp=\"#公重\">きんしけ</note>\n\t\t\t\tかいろいあるましく候、同くきのゝ\n\t\t\t\t<lb/>\n\t\t\t\t\nとをうむれとのあいのこたにをのほりに、やはすのやけはらのさかひを\n\t\t\t\t<lb/>\n\t\t\t\t\nきる、やはすのくまのゝにおきてハ、いかういちゐのなり、\n\t\t\t\t<persName corresp=\"#渋谷定仏重経\">ちやうふつ</persName>\n<lb/>\n\t\t\t\t\nかいろいあるへからす候、よてのちのせうもんのために、わよのしやう\n\t\t\t\t<lb/>\n\t\t\t\t\nくたんのことし、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1270-11-19\">ふんえい七ねん十月十五日</date>　　　　　　　　<persName corresp=\"#渋谷公重\">公重</persName>在判\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

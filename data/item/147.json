@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "相良為続",
+        "渋谷重聡"
+    ],
+    "label": "4　　(年未詳)7月18日　　相良為続書状（＃１４７）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/147/manifest.json",
+    "objectID": "147",
+    "spatial": [
+        "肥後"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t\n其以後者、路次不輙候て不申通候、心外候、今度\n\t\t\t\t八代\n\t\t\t\t所〃捨候事、御心底恥入存候、但古今弓矢習候歟、今者隠居分候之間、諸事不存候、過半\n\t\t\t\t\n当国\n\t\t\t\t無為之様共申合候而候、彼客僧薩广一見之由、被申候間、好便之条\n\t\t\t\t\n\t\t\t\t\n一筆令啓候、当時三ヶ国何事共候哉、異不審之時者、可承候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　七月十八日　　　　為続（花押）\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t入来院\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　進之候\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\n\t\t\t\t\n　　　　入来院殿進之候　　　　　相良為続」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/12/00000006.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t　　」\n\t\t\t\t<lb/>\n\t\t\t\t\n其以後者、路次不輙候て不申通候、心外候、今度\n\t\t\t\t<placeName corresp=\"#肥後\">八代</placeName>\n\t\t\t\t所〃捨候事、御心底恥入存候、但古今弓矢習候歟、今者隠居分候之間、諸事不存候、過半\n\t\t\t\t<lb/>\n<placeName corresp=\"#肥後\">当国</placeName>\n\t\t\t\t無為之様共申合候而候、彼客僧薩广一見之由、被申候間、好便之条\n\t\t\t\t<lb/>\n\t\t\t\t\n一筆令啓候、当時三ヶ国何事共候哉、異不審之時者、可承候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date>七月十八日</date>　　　　<persName corresp=\"#相良為続\" ref=\"https://ja.wikipedia.org/wiki/%E7%9B%B8%E8%89%AF%E7%82%BA%E7%B6%9A\">為続</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#渋谷重聡\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E8%81%A1\">入来院</persName>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　進之候\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　　入来院殿進之候　　　　　相良為続」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

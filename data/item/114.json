@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重光"
+    ],
+    "date": [
+        "1386-06-20"
+    ],
+    "label": "15　　(至徳3年カ)5月23日_宮内大輔守政書状（＃１１４）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/114/manifest.json",
+    "objectID": "114",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　下村殿伺申候、可有御物語候哉\n\t\t\t\t\n\t\t\t\t\n去比、柏原方使者僧帰参之時、自入道方状等令進候、定参着候哉、就其\n\t\t\t\t\n\t\t\t\t\n去十八日夜、前山城同桜崎城二ヶ書落候云〃、目出候、未定説なく候間、\n\t\t\t\t\n\t\t\t\t\n態不申候、方〃より治定之由、承及候間、喜存候、定御同心哉、彼境対\n\t\t\t\t\n\t\t\t\t\n治、近日之由承候間、目出度存候、将又承候間事、入道方よりしたゝめ\n\t\t\t\t\n\t\t\t\t\n進之候由承候、返〃目出候、仍愚身も一通したゝめ進之候、又すたか給\n\t\t\t\t\n\t\t\t\t\n候へく候、方〃より所望候間、如此申候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t五月廿三日\n\t\t\t\t　　　　　　　　　　　　　　　　守政（花押）\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\n\t\t\t\t\n　　　　　\n\t\t\t\t左馬佐\n\t\t\t\t殿　　　　」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000026.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　下村殿伺申候、可有御物語候哉\n\t\t\t\t<lb/>\n\t\t\t\t\n去比、柏原方使者僧帰参之時、自入道方状等令進候、定参着候哉、就其\n\t\t\t\t<lb/>\n\t\t\t\t\n去十八日夜、前山城同桜崎城二ヶ書落候云〃、目出候、未定説なく候間、\n\t\t\t\t<lb/>\n\t\t\t\t\n態不申候、方〃より治定之由、承及候間、喜存候、定御同心哉、彼境対\n\t\t\t\t<lb/>\n\t\t\t\t\n治、近日之由承候間、目出度存候、将又承候間事、入道方よりしたゝめ\n\t\t\t\t<lb/>\n\t\t\t\t\n進之候由承候、返〃目出候、仍愚身も一通したゝめ進之候、又すたか給\n\t\t\t\t<lb/>\n\t\t\t\t\n候へく候、方〃より所望候間、如此申候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#至徳三年カ\"><date when=\"1386-06-20\">五月廿三日</date></note>\n\t\t\t\t　　　　　　　　　　　　　　　　<persName>守政</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#礼紙切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　　　\n\t\t\t\t<persName corresp=\"#渋谷重光\">左馬佐</persName>\n\t\t\t\t殿　　　　」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重利"
+    ],
+    "date": [
+        "1333-12-17"
+    ],
+    "label": "15　　元弘3年11月10日　　渋谷重利証状（＃７０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/70/manifest.json",
+    "objectID": "70",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\nさつまのくに\nけたうゐん\n\t\t\t\tと\n\t\t\t\tいりきのゐん\n\t\t\t\tのさかひ\n\t\t\t\t一のゝ\n\t\t\t\t・\n\t\t\t\tかはとこ\n\t\t\t\tの御\n\t\t\t\t\nけち\nつくし\n\t\t\t\tに候、とりよせてまいらせ候へく候、かのむらむら、御ほん\n\t\t\t\t\n\t\t\t\t\nちきやうのことくにさりわたしまいらせ候うへハ、しさいあるへからす\n\t\t\t\t\n\t\t\t\t\n候、御けちをまいらせ候ハんほと、このしやうを進候也、仍状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　元弘三年十一月十日　　　　　　　　　　　重利（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000022.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<placeName corresp=\"#薩摩国\">さつまのくに</placeName>\n<note corresp=\"#祁答院\">けたうゐん</note>\n\t\t\t\tと\n\t\t\t\t<note corresp=\"#入来院\">いりきのゐん</note>\n\t\t\t\tのさかひ\n\t\t\t\t<note corresp=\"#一野\">一のゝ</note>\n\t\t\t\t・\n\t\t\t\t<note corresp=\"#河床\">かはとこ</note>\n\t\t\t\tの御\n\t\t\t\t<lb/>\n<note corresp=\"#下知\">けち</note>\n<note corresp=\"#筑紫\">つくし</note>\n\t\t\t\tに候、とりよせてまいらせ候へく候、かのむらむら、御ほん\n\t\t\t\t<lb/>\n\t\t\t\t\nちきやうのことくにさりわたしまいらせ候うへハ、しさいあるへからす\n\t\t\t\t<lb/>\n\t\t\t\t\n候、御けちをまいらせ候ハんほと、このしやうを進候也、仍状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1333-12-17\">元弘三年十一月十日</date>　　　　　　　　　　　<persName corresp=\"#渋谷重利\">重利</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

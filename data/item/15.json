@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "入来院重朝"
+    ],
+    "date": [
+        "1539"
+    ],
+    "label": "5　 (天文8年カ)10月3日_島津勝久書状（＃１５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/15/manifest.json",
+    "objectID": "15",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一五　島津勝久書状（切紙）\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t」\n\t\t\t\t\n\t\t\t\t\n　　　又此方へ、今明日衆遣之由、其聞候、為搦手、市来\n\t\t\t\t宇良\n\t\t\t\t之事、可被仕誥\n\t\t\t\t\n\t\t\t\t\n　　武略肝要候、此方へ衆遣候者、彼境可為無人衆候哉と存候、\n\t\t\t\t\n\t\t\t\t\n今度者、被励忠懃、一味合力、感悦之至候、為其忠賞者、郡山・隅城両\n\t\t\t\t\n\t\t\t\t\n所之内、御所望之地可進候、於弥頼存候外無他候、尤以使節雖可申候、\n\t\t\t\t\n\t\t\t\t\n好便候間、先以顕心底候、今後開運事候者、報厚恩度計候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t十月三日\n\t\t\t\t　　　　勝久（花押）\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t入来\n\t\t\t\t院殿\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t「\n\t\t\t\t入来院殿　勝久」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000007.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一五　<persName>島津勝久</persName>書状（切紙）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t」\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　又此方へ、今明日衆遣之由、其聞候、為搦手、市来\n\t\t\t\t<note corresp=\"#浦\">宇良</note>\n\t\t\t\t之事、可被仕誥\n\t\t\t\t<lb/>\n\t\t\t\t\n　　武略肝要候、此方へ衆遣候者、彼境可為無人衆候哉と存候、\n\t\t\t\t<lb/>\n\t\t\t\t\n今度者、被励忠懃、一味合力、感悦之至候、為其忠賞者、郡山・隅城両\n\t\t\t\t<lb/>\n\t\t\t\t\n所之内、御所望之地可進候、於弥頼存候外無他候、尤以使節雖可申候、\n\t\t\t\t<lb/>\n\t\t\t\t\n好便候間、先以顕心底候、今後開運事候者、報厚恩度計候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<date when=\"1539\"><note corresp=\"#天文八年カ\">十月三日</note></date>\n\t\t\t\t　　　　勝久（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#入来院重朝\"><note corresp=\"#重朝\">入来</note>\n\t\t\t\t院</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t入来院殿　勝久」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

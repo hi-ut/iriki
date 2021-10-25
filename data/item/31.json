@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津立久",
+        "入来院重豊"
+    ],
+    "date": [
+        "1462-04-23"
+    ],
+    "label": "5　 寛正3年3月24日　　_島津立久契状（＃３１）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/31/manifest.json",
+    "objectID": "31",
+    "text": [
+        "\n\n 　三一　島津立久契状  　　　契状  右、世上如何様雖為転変、無二可立用之由、承候之間、自是も於于子〃 \n\t\t\t\t孫〃、偏可憑入候、於此中自然和讒凶害之人出来時者、不残心底可申承  事、  　　此条偽申候者、  伊勢天照太神宮、熊野三所大権現、\n\t\t\t\t 新田八幡大菩薩、天満大自在天神、  諏方上下大明神之御罰可罷蒙候、  　　　寛正三年三月廿四日　　　　　立久（花押） \n\t\t\t\t　　　　　　　 入来 院殿 \n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000009.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　三一　<persName>島津立久</persName>契状 <lb/> 　　　契状 <lb/> 右、世上如何様雖為転変、無二可立用之由、承候之間、自是も於于子〃 <lb/>\n\t\t\t\t孫〃、偏可憑入候、於此中自然和讒凶害之人出来時者、不残心底可申承 <lb/> 事、 <lb/> 　　此条偽申候者、 <lb/> 伊勢天照太神宮、熊野三所大権現、\n\t\t\t\t<lb/> 新田八幡大菩薩、天満大自在天神、 <lb/> 諏方上下大明神之御罰可罷蒙候、 <lb/> 　　　<date when=\"1462-04-23\">寛正三年三月廿四日</date>　　　　　<persName corresp=\"#島津立久\">立久</persName>（花押） <lb/>\n\t\t\t\t　　　　　　　<persName corresp=\"#入来院重豊\"> <note corresp=\"#重豊\">入来</note> 院</persName>殿 <lb/>\n</p>\n</body>"
+    ]
+}

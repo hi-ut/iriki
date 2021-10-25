@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "伊集院久氏",
+        "今川貞世",
+        "渋谷重頼"
+    ],
+    "date": [
+        "1390-12-20"
+    ],
+    "label": "14　　明徳元年11月14日　_今川了俊(貞世)知行充行状（＃１３４）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/134/manifest.json",
+    "objectID": "134",
+    "text": [
+        "\n\n\n伊集入道\n\t\t\t\t\n\t\t\t\t跡地頭職事、任先立預置旨、可令知行之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　明徳元年十一月十四日　　　　　　　　　\n\t\t\t\t沙弥\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n　　渋谷\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t清色\n\t\t\t\tとのへ\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000022.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<persName corresp=\"#伊集院久氏\" ref=\"https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E4%B9%85%E6%B0%8F\"><note corresp=\"#院脱\">伊集入道</note></persName>\n\t\t\t\t\n\t\t\t\t跡地頭職事、任先立預置旨、可令知行之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1390-12-20\">明徳元年十一月十四日</date>　　　　　　　　　\n\t\t\t\t<persName corresp=\"#今川貞世\" ref=\"https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E8%B2%9E%E4%B8%96\">沙弥</persName>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　渋谷\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<persName corresp=\"#渋谷重頼\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E9%A0%BC\">清色</persName>\n\t\t\t\tとのへ\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

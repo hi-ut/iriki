@@ -1,16 +1,12 @@
 {
-    "_updated": "2021-09-12",
-    "description": "島津 義弘（しまづ よしひろ）は、戦国時代から安土桃山時代にかけての薩摩国の武将、大名。戦国大名の島津義久の弟で、島津氏の第17代当主（）。島津氏18代当主・島津忠恒（のち家久に改名）の父。後に剃髪して惟新斎と号したため、惟新公（いしんこう）との敬称でも呼ばれた。武勇の誉れ高く「鬼島津」の異名で知られ、戦国（安土桃山）時代でも屈指の猛将として当時から有名であった。日本では「鬼島津」の名で呼ばれ親しまれている。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Shimazu_Yoshihiro.jpg/250px-Shimazu_Yoshihiro.jpg",
+    "_updated": "2021-10-25",
     "label": "島津義弘",
     "list": [
         {
-            "date": "1600",
-            "label": "島津維新(義弘)知行充行状",
-            "name": "維新",
+            "label": "4　 慶長5年10月10日　　島津維新(義弘)知行充行状（＃２０）",
+            "name": "島津維新義弘",
             "objectID": "20"
         }
     ],
-    "objectID": "島津義弘",
-    "url": "https://ja.wikipedia.org/wiki/島津義弘"
+    "objectID": "島津義弘"
 }

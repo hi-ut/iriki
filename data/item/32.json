@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津立久",
+        "入来院重豊"
+    ],
+    "date": [
+        "1462-04-23"
+    ],
+    "label": "6　 寛正3年3月24日　　_島津立久知行充行状（＃３２）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/32/manifest.json",
+    "objectID": "32",
+    "text": [
+        "\n\n 　三二　島津立久知行充行状  嶋津御庄薩摩方火同・永利・山田城之事、宛行処也、早任先例、領掌不  可有相違之状如件、 \n\t\t\t\t　　　寛正三年三月廿四日  　　　　　　　　　　　　　　　　　立久（花押）  　　　　　　　 入来 院殿 \n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000010.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　三二　<persName>島津立久</persName>知行充行状 <lb/> 嶋津御庄薩摩方火同・永利・山田城之事、宛行処也、早任先例、領掌不 <lb/> 可有相違之状如件、 <lb/>\n\t\t\t\t　　　<date when=\"1462-04-23\">寛正三年三月廿四日</date> <lb/> 　　　　　　　　　　　　　　　　　<persName corresp=\"#島津立久\">立久</persName>（花押） <lb/> 　　　　　　　 <persName corresp=\"#入来院重豊\"><note corresp=\"#重豊\">入来</note> 院</persName>殿 <lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重門"
+    ],
+    "date": [
+        "1371-11-22"
+    ],
+    "label": "7　　建徳2年10月15日　　渋谷重門置文（＃６２）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/62/manifest.json",
+    "objectID": "62",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　置文事\n\t\t\t\t\n\t\t\t\t\n右、重門以後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ\n\t\t\t\t\n\t\t\t\t\n不残可譲与之也、若背此旨、所領ヲ於分与数子之輩者、不可有重門之子\n\t\t\t\t\n\t\t\t\t\n孫云云、如此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一\n\t\t\t\t\n\t\t\t\t\n人之計、押而可令知行之者也、仍為後証置文之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　建徳二年十月十五日　　　　　　　　　弾正少弼重門（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000013.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　置文事\n\t\t\t\t<lb/>\n\t\t\t\t\n右、<persName corresp=\"#渋谷重門\">重門</persName>以後所領事、雖有数輩之兄弟、守其器用、惣領一人仁一所ヲモ\n\t\t\t\t<lb/>\n\t\t\t\t\n不残可譲与之也、若背此旨、所領ヲ於分与数子之輩者、不可有重門之子\n\t\t\t\t<lb/>\n\t\t\t\t\n孫云云、如此定置上者、若万一ニモ所領ヲ雖分譲、任此状之旨、於惣領一\n\t\t\t\t<lb/>\n\t\t\t\t\n人之計、押而可令知行之者也、仍為後証置文之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1371-11-22\">建徳二年十月十五日</date>　　　　　　　　　弾正少弼<persName corresp=\"#渋谷重門\">重門</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

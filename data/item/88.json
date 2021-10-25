@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重継カ",
+        "渋谷重頼",
+        "渋谷重門"
+    ],
+    "date": [
+        "1371-11-22"
+    ],
+    "label": "13　　建徳2年10月15日　　渋谷重門置文（＃８８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/88/manifest.json",
+    "objectID": "88",
+    "text": [
+        "\n\n\n「\n\t\t\t\tをきふみ」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　置文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一後家并\n\t\t\t\t帯刀左衛門\n\t\t\t\t尉事、於\n\t\t\t\t乕五郎\n\t\t\t\t丸之計、可加扶持也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一かつしきの当知行、蔵野・内山二ヶ村之事、是又於乕五郎丸之志、一\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n期之分可有知行也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一女子長王ハ、塔原内なへの村を可知行也、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一同女子乕王にハ、上副田内沙た柄を可有知行也、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一同女子くり犬ハ、市比野内平野を可知行也、此内除自作分、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一上副田内浜田左衛太郎給分之事、為副田湯接待料足可寄進也、限永代、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ４８\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、此条〃、為後日所定如件\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　建徳二年十月十五日　　　　　　　　　　重門（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000033.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\tをきふみ」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　置文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一後家并\n\t\t\t\t<persName corresp=\"#渋谷重継カ\">帯刀左衛門</persName>\n\t\t\t\t尉事、於\n\t\t\t\t<persName corresp=\"#渋谷重頼\">乕五郎</persName>\n\t\t\t\t丸之計、可加扶持也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一かつしきの当知行、<placeName>蔵野</placeName>・<placeName>内山</placeName>二ヶ村之事、是又於乕五郎丸之志、一\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n期之分可有知行也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一女子長王ハ、<placeName>塔原</placeName>内なへの村を可知行也、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一同女子乕王にハ、上<placeName>副田</placeName>内沙た柄を可有知行也、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一同女子くり犬ハ、<placeName>市比野</placeName>内平野を可知行也、此内除自作分、同一期分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一上副田内浜田左衛太郎給分之事、為副田湯接待料足可寄進也、限永代、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ４８\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、此条〃、為後日所定如件\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1371-11-22\">建徳二年十月十五日</date>　　　　　　　　　　<persName corresp=\"#渋谷重門\">重門</persName>（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津貴久",
+        "入来院重嗣"
+    ],
+    "date": [
+        "1560-01-09"
+    ],
+    "label": "18　 永禄2年12月23日　　島津貴久知行充行状（＃４４）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/44/manifest.json",
+    "objectID": "44",
+    "text": [
+        "\n\n 　四四　島津貴久知行充行状  薩摩国鹿児嶋之内犬迫名之事、依奉公所宛行也、早任此旨、可被知行之\n\t\t\t\t 状如件、 \n永禄弐年己未十弐月廿三日　　　　　　　　　　　　貴久（花押）  　　　　入来院 加賀 守殿 \n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000030.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　四四　<persName>島津貴久</persName>知行充行状 <lb/> 薩摩国鹿児嶋之内犬迫名之事、依奉公所宛行也、早任此旨、可被知行之\n\t\t\t\t<lb/> 状如件、 <lb/>\n<date when=\"1560-01-09\">永禄弐年己未十弐月廿三日</date>　　　　　　　　　　　　<persName corresp=\"#島津貴久\">貴久</persName>（花押） <lb/> 　　　　<persName corresp=\"#入来院重嗣\">入来院 <note corresp=\"#重嗣\">加賀</note> 守</persName>殿 <lb/>\n</p>\n</body>"
+    ]
+}

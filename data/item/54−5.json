@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "朝臣"
+    ],
+    "date": [
+        "1329-11-11"
+    ],
+    "label": "21　　元徳元年10月20日　_関東下知状案（＃５４−５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/54−5/manifest.json",
+    "objectID": "54−5",
+    "text": [
+        "\n\n 　　　１　関東下知状案  　 「 二」 \n\t\t\t\t　可令早別当二郎丸領知薩摩国入来院内塔原郷田弐町玖段、在家玖宇  　坪付見配分　事 \n\t\t\t\t右、以亡父渋谷孫三郎惟重跡、所被配分也者、早守先例可令領掌之状、  依仰下知如件、  　　　元徳元年十月廿日 \n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　相模守平 守時\n\n\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000026.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　　　１　関東下知状案 <lb/> 　 <note corresp=\"#端書\">「</note> 二」 <lb/>\n\t\t\t\t　可令早別当二郎丸領知薩摩国入来院内塔原郷田弐町玖段、在家玖宇 <lb/> 　坪付見配分　事 <lb/>\n\t\t\t\t右、以亡父<persName>渋谷孫三郎惟重</persName>跡、所被配分也者、早守先例可令領掌之状、 <lb/> 依仰下知如件、 <lb/> 　　　<date when=\"1329-11-11\">元徳元年十月廿日</date> <lb/>\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　相模守平 <note corresp=\"#朝臣\"><persName corresp=\"#朝臣\">守時</persName></note>\n<lb/>\n<lb/>\n</p>\n</body>"
+    ]
+}

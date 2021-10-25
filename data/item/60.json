@@ -1,0 +1,21 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重門",
+        "渋谷重継",
+        "渋谷重基"
+    ],
+    "date": [
+        "1349-08-07"
+    ],
+    "label": "5　　貞和5年閏6月23日　_渋谷重勝置文（＃６０）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/60/manifest.json",
+    "objectID": "60",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　置文条〃\n\t\t\t\t\n\t\t\t\t\n一子息\n\t\t\t\t乕松\n\t\t\t\t丸・舎弟\n\t\t\t\t乕一\n\t\t\t\t丸両人譲与所領事、\n\t\t\t\t\n\t\t\t\t\n　四至堺見本証文矣、\n\t\t\t\t\n\t\t\t\t\n一諸御公事任先例そのさたをいたすへし云〃、\n\t\t\t\t\n\t\t\t\t\n一\n\t\t\t\t定円\n\t\t\t\t・顕心のおきふミにまかせて、そのむねをそんちすへし、次庶子\n\t\t\t\t\n\t\t\t\t\n等事、北方ニおきてハ乕松かはからひたるへし、南方ニおきてハ乕一\n\t\t\t\t\n\t\t\t\t\nかはからひたるへし矣、\n\t\t\t\t\n\t\t\t\t\n一乕松無子孫者、乕一仁つくへし、乕一無子孫者、可持乕松云〃、女子\n\t\t\t\t\n\t\t\t\t\n仁おいてハ壱町壱箇所壱期分もつへし、両人分同前、\n\t\t\t\t\n\t\t\t\t\n一於養子者、少分もゆつるへからす、\n\t\t\t\t\n\t\t\t\t\n一雖有帯重勝譲状族、惣領并二郎北南於面〃ゆつりあたふるもの也、於\n\t\t\t\t\n\t\t\t\t\n此内有対論族者、重勝跡於不可知行云〃、\n\t\t\t\t\n\t\t\t\t\n右、於二人跡者、守器用仁一人仁ゆつるへし、其外者一期分たるへし、\n\t\t\t\t\n\t\t\t\t\n至子〃孫〃、守此旨可令知行、若於背此旨輩者、重勝於不可知行、仍置\n\t\t\t\t\n\t\t\t\t\n文状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　貞和五年閏六月廿三日　　　　　　　　　　平重勝（花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000011.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　置文条〃\n\t\t\t\t<lb/>\n\t\t\t\t\n一子息\n\t\t\t\t<persName corresp=\"#渋谷重門\">乕松</persName>\n\t\t\t\t丸・舎弟\n\t\t\t\t<persName corresp=\"#渋谷重継\">乕一</persName>\n\t\t\t\t丸両人譲与所領事、\n\t\t\t\t<lb/>\n\t\t\t\t\n　四至堺見本証文矣、\n\t\t\t\t<lb/>\n\t\t\t\t\n一諸御公事任先例そのさたをいたすへし云〃、\n\t\t\t\t<lb/>\n\t\t\t\t\n一\n\t\t\t\t<persName corresp=\"#渋谷重基\">定円</persName>\n\t\t\t\t・顕心のおきふミにまかせて、そのむねをそんちすへし、次庶子\n\t\t\t\t<lb/>\n\t\t\t\t\n等事、北方ニおきてハ乕松かはからひたるへし、南方ニおきてハ乕一\n\t\t\t\t<lb/>\n\t\t\t\t\nかはからひたるへし矣、\n\t\t\t\t<lb/>\n\t\t\t\t\n一乕松無子孫者、乕一仁つくへし、乕一無子孫者、可持乕松云〃、女子\n\t\t\t\t<lb/>\n\t\t\t\t\n仁おいてハ壱町壱箇所壱期分もつへし、両人分同前、\n\t\t\t\t<lb/>\n\t\t\t\t\n一於養子者、少分もゆつるへからす、\n\t\t\t\t<lb/>\n\t\t\t\t\n一雖有帯重勝譲状族、惣領并二郎北南於面〃ゆつりあたふるもの也、於\n\t\t\t\t<lb/>\n\t\t\t\t\n此内有対論族者、重勝跡於不可知行云〃、\n\t\t\t\t<lb/>\n\t\t\t\t\n右、於二人跡者、守器用仁一人仁ゆつるへし、其外者一期分たるへし、\n\t\t\t\t<lb/>\n\t\t\t\t\n至子〃孫〃、守此旨可令知行、若於背此旨輩者、重勝於不可知行、仍置\n\t\t\t\t<lb/>\n\t\t\t\t\n文状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1349-08-07\">貞和五年閏六月廿三日</date>　　　　　　　　　　<persName>平重勝</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

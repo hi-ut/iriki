@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津貞久"
+    ],
+    "date": [
+        "1322"
+    ],
+    "label": "3　 元亨2年8月22日　　_薩摩守護島津貞久請文（＃１９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/19/manifest.json",
+    "objectID": "19",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一九　薩摩守護島津貞久請文\n\t\t\t\t\n「\n\t\t\t\t下野三郎左衛門尉請文」\n\t\t\t\t\n\t\t\t\t\n永利如性掠申、薩摩国山田村山口新開田畠在家等事、去月廿二日御教書\n\t\t\t\t\n\t\t\t\t\n案并今月十七日御催促状、同十九日到来、謹拝見候畢、\n\t\t\t\t\n\t\t\t\t\n抑此事為令明申候、代官暁道令参上候、可有御披露候、恐惶謹言、\n\t\t\t\t\n\t\t\t\t\n　　　元享二年八月廿二日　　　　　　　左衛門尉貞久請文（裏花押）\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000005.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一九　薩摩守護<persName>島津貞久</persName>請文\n\t\t\t\t<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t下野三郎左衛門尉請文」\n\t\t\t\t<lb/>\n\t\t\t\t\n永利如性掠申、薩摩国山田村山口新開田畠在家等事、去月廿二日御教書\n\t\t\t\t<lb/>\n\t\t\t\t\n案并今月十七日御催促状、同十九日到来、謹拝見候畢、\n\t\t\t\t<lb/>\n\t\t\t\t\n抑此事為令明申候、代官暁道令参上候、可有御披露候、恐惶謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1322\">元享二年</date>八月廿二日　　　　　　　<persName corresp=\"島津貞久\">左衛門尉貞久</persName>請文（裏花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "_updated": "2021-10-25",
+    "date": [
+        "1311-03-10"
+    ],
+    "label": "15　　延慶4年2月20日　　_入来院塔原国方用途返抄（＃１３５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/135/manifest.json",
+    "objectID": "135",
+    "text": [
+        "\n\n\n「\n\t\t\t\t二月分　国方へ沙汰用途請取」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n二月中ニ国方へ御沙汰候佰伍拾貫文用途内\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　合弐拾九貫四百六十五文　塔原分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n預置候、無相違国方仁被請取候者、請取を可取進候、若異儀候者、此用\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n途を任員数可返進候、仍状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　延慶四年二月廿日　　　　　　　　　　　　道弘（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000023.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t二月分　国方へ沙汰用途請取」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n二月中ニ国方へ御沙汰候佰伍拾貫文用途内\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　合弐拾九貫四百六十五文　<placeName>塔原</placeName>分\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n預置候、無相違国方仁被請取候者、請取を可取進候、若異儀候者、此用\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n途を任員数可返進候、仍状如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1311-03-10\">延慶四年二月廿日</date>　　　　　　　　　　　　<persName>道弘</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

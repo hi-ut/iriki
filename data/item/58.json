@@ -1,0 +1,27 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重門",
+        "渋谷重基",
+        "渋谷重勝"
+    ],
+    "date": [
+        "1349-08-07"
+    ],
+    "label": "3　　貞和5年閏6月23日　_渋谷重勝同日一筆譲状（＃５８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/58/manifest.json",
+    "objectID": "58",
+    "spatial": [
+        "薩摩国",
+        "筑前国",
+        "筑後国",
+        "相模国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n譲与\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　所　子息\n\t\t\t\t乕松\n\t\t\t\t丸\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　薩摩国入来院内清色北方、四至堺可任本譲状、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　筑前国柏原水田屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　筑後国永淵屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　同国みな木の屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　相模国渋谷曾司郷内ふちこゝろの屋敷立野等事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、於所領等者、親父\n\t\t\t\t定円\n\t\t\t\t重代さうてんの所領也、而重勝ゆつりうると\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nころなり、仍子息乕松丸仁ゑいたいをかきりて、相副定円・重知手継証\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n文等、ゆつりあたふる者也、守此状可令知行、仍譲状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　貞和五年閏六月廿三日　　　　　　　　　　平重勝（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000009.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n譲与\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　所　子息\n\t\t\t\t<persName corresp=\"#渋谷重門\">乕松</persName>\n\t\t\t\t丸\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内清色北方、四至堺可任本譲状、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#筑前国\">筑前国</placeName>柏原水田屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#筑後国\">筑後国</placeName>永淵屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　同国みな木の屋敷\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#相模国\">相模国</placeName>渋谷曾司郷内ふちこゝろの屋敷立野等事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、於所領等者、親父\n\t\t\t\t<persName corresp=\"#渋谷重基\">定円</persName>\n\t\t\t\t重代さうてんの所領也、而重勝ゆつりうると\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nころなり、仍子息乕松丸仁ゑいたいをかきりて、相副定円・重知手継証\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n文等、ゆつりあたふる者也、守此状可令知行、仍譲状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1349-08-07\">貞和五年閏六月廿三日</date>　　　　　　　　　　<persName corresp=\"#渋谷重勝\">平重勝</persName>（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

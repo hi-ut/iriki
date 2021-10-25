@@ -1,0 +1,17 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津忠治",
+        "渋谷重聡"
+    ],
+    "label": "1　 (年未詳)11月2日　　島津忠治書状（＃１１）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/11/manifest.json",
+    "objectID": "11",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一一　島津忠治書状（切紙）\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t」\n\t\t\t\t\n\t\t\t\t\n就祁荅院重貴\n\t\t\t\t綱津\n\t\t\t\t・\n\t\t\t\t京泊\n\t\t\t\t知行、其堺之時宜如何候哉、雖無差事候、令啓\n\t\t\t\t\n\t\t\t\t\n候、世間如何様猶以\n\t\t\t\t可\n\t\t\t\t物怱候歟、於弥\n\t\t\t\t三ヶ国\n\t\t\t\t立柄、憑存候之外無他候、\n\t\t\t\t\n\t\t\t\t\n委細年寄共可申入候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　霜月二日　　　　忠治（花押）\n\t\t\t\t\n\t\t\t\t\n　　　渋谷\n\t\t\t\t少弼\n\t\t\t\t入道殿\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t「\n\t\t\t\t渋谷少弼入道殿　　　　忠治」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000003.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一一　<persName>島津忠治</persName>書状（切紙）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t」\n\t\t\t\t<lb/>\n\t\t\t\t\n就祁荅院重貴\n\t\t\t\t<note corresp=\"#肥後\">綱津</note>\n\t\t\t\t・\n\t\t\t\t<note corresp=\"#薩摩\">京泊</note>\n\t\t\t\t知行、其堺之時宜如何候哉、雖無差事候、令啓\n\t\t\t\t<lb/>\n\t\t\t\t\n候、世間如何様猶以\n\t\t\t\t<note corresp=\"#為脱カ\">可</note>\n\t\t\t\t物怱候歟、於弥\n\t\t\t\t<note corresp=\"#薩摩・大隅・日向\">三ヶ国</note>\n\t\t\t\t立柄、憑存候之外無他候、\n\t\t\t\t<lb/>\n\t\t\t\t\n委細年寄共可申入候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　霜月二日　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<persName corresp=\"#渋谷重聡\">渋谷\n\t\t\t\t<note corresp=\"#重聡\">少弼</note>\n\t\t\t\t入道</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷少弼入道殿　　　　忠治」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

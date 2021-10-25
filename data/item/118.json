@@ -1,0 +1,17 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "宮内大輔三雄",
+        "渋谷重頼"
+    ],
+    "label": "19　　(年未詳)2月11日　　宮内大輔三雄書状（＃１１８）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/118/manifest.json",
+    "objectID": "118",
+    "text": [
+        "\n\n\n\t\t\t\t\n　其方事、此間久御注進なく候事、心もとなく存候、抑愚身早〃罷越候\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nて、力をつけ申候へく候処、高久勢をあひまち候間、其儀なく候、明\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n日も勢着津候ハヽ、早〃参へく候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一自大手かん状一通進候、其後事ハ萬事御計之儀、たのミ入存候、下村\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n殿えも状進之候へく候とも、いて舟参候、いそき候間、同事に申候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n諸事期後信時候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　二月十一日　　　　　　　　　　　　　　　三雄（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t清色\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t「\n\n\t\t\t\t\n　　　清色五郎殿　　　　　三雄」\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000031.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　其方事、此間久御注進なく候事、心もとなく存候、抑愚身早〃罷越候\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nて、力をつけ申候へく候処、高久勢をあひまち候間、其儀なく候、明\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n日も勢着津候ハヽ、早〃参へく候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一自大手かん状一通進候、其後事ハ萬事御計之儀、たのミ入存候、下村\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n殿えも状進之候へく候とも、いて舟参候、いそき候間、同事に申候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n諸事期後信時候、恐〃謹言、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　二月十一日　　　　　　　　　　　　　　　<persName corresp=\"#宮内大輔三雄\">三雄</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<persName corresp=\"#渋谷重頼\">清色</persName>\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<note corresp=\"#端裏切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　清色五郎殿　　　　　三雄」\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

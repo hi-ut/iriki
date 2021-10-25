@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "入来院重朝",
+        "島津勝久"
+    ],
+    "date": [
+        "1536"
+    ],
+    "label": "4　 (天文5年カ)6月3日　島津勝久書状（＃１４）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/14/manifest.json",
+    "objectID": "14",
+    "text": [
+        "\n\n\n\t\t\t\t\n　一四　島津勝久書状（切紙）\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t」\n\t\t\t\t\n\t\t\t\t\n　　　猶〃、弥以其方之事、憑入之外無他事候、\n\t\t\t\t\n\t\t\t\t\n毎〃従\n\t\t\t\t石州\n\t\t\t\t丁嚀之儀、其礼難尽筆帋候、就其、各辛労之由、歓悦之至\n\t\t\t\t\n\t\t\t\t\n候、仍石州之事、諸事無不足之儀候へ共、廻船者、于今無知行候間、我\n\t\t\t\t\n\t\t\t\t\n等於入国者、七嶋之内一所、此間之為報恩可進候也、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n　　　\n\t\t\t\t六月三日\n\t\t\t\t　　　　勝久（花押）\n\t\t\t\t\n\t\t\t\t\n　　　　入来院山城守殿\n\t\t\t\t\n\t\t\t\t\n　　　　東郷　越後守殿\n\t\t\t\t\n\t\t\t\t\n　　　　\n\t\t\t\t「\n\t\t\t\t入来院山城守殿　勝久\n\t\t\t\t\n\t\t\t\t\n　　　　　東郷　越後守殿」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/2/00000006.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一四　<persName>島津勝久</persName>書状（切紙）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#端裏切封\">「</note>\n\t\t\t\t」\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　猶〃、弥以其方之事、憑入之外無他事候、\n\t\t\t\t<lb/>\n\t\t\t\t\n毎〃従\n\t\t\t\t<persName corresp=\"#入来院重朝\"><note corresp=\"#入来院重朝\">石州</note></persName>\n\t\t\t\t丁嚀之儀、其礼難尽筆帋候、就其、各辛労之由、歓悦之至\n\t\t\t\t<lb/>\n\t\t\t\t\n候、仍石州之事、諸事無不足之儀候へ共、廻船者、于今無知行候間、我\n\t\t\t\t<lb/>\n\t\t\t\t\n等於入国者、七嶋之内一所、此間之為報恩可進候也、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<date when=\"1536\"><note corresp=\"#天文五年カ\">六月三日</note></date>\n\t\t\t\t　　　　<persName corresp=\"#島津勝久\">勝久</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　<persName>入来院山城守</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　<persName>東郷　越後守</persName>殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書 \">「</note>\n\t\t\t\t入来院山城守殿　勝久\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　東郷　越後守殿」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

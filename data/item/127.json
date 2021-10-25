@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重豊",
+        "木場重着"
+    ],
+    "date": [
+        "1481-06-27"
+    ],
+    "label": "6　　文明13年6月1日　　_木場重着避状（＃１２７）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/127/manifest.json",
+    "objectID": "127",
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　　　　○コノ文書ノ別紙ハ、モト懸紙ウハ書ナルベシ、\n\t\t\t\t\n「\n\t\t\t\t進上御使　種田図書殿　　　　木場但馬守重着」\n\t\t\t\t\n\t\t\t\t\n御こゝろさしありかたく存候、よて木場但馬守重着之私領こはの原之内\n\t\t\t\t\n\t\t\t\t\nの水田、平田大丸一反、野中田一反、下つる一反、以上三反、\n\t\t\t\t重豊\n\t\t\t\tニあけ申\n\t\t\t\t\n\t\t\t\t\n候事実也、\n\t\t\t\t\n\t\t\t\t\n此之外、ぬく谷ニほりま地所〃候を、私之心あて共仕候事候、於以後\n\t\t\t\t\n\t\t\t\t\nも、奉憑候之外無候、仍為後日証文如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　文明十三年辛寅六月一日　　　　　　　木場但馬守重着（花押）\n\t\t\t\t\n\t\t\t\t\n　　進上御使種田図書殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000011.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　○コノ文書ノ別紙ハ、モト懸紙ウハ書ナルベシ、\n\t\t\t\t<lb/>\n<note corresp=\"#別紙\">「</note>\n\t\t\t\t進上御使　<persName>種田図書</persName>殿　　　　木場但馬守重着」\n\t\t\t\t<lb/>\n\t\t\t\t\n御こゝろさしありかたく存候、よて木場但馬守重着之私領こはの原之内\n\t\t\t\t<lb/>\n\t\t\t\t\nの水田、平田大丸一反、野中田一反、下つる一反、以上三反、\n\t\t\t\t<persName corresp=\"#渋谷重豊\" ref=\"https://ja.wikipedia.org/wiki/%E5%85%A5%E6%9D%A5%E9%99%A2%E9%87%8D%E8%B1%8A_(10%E4%BB%A3%E5%BD%93%E4%B8%BB)\">重豊</persName>\n\t\t\t\tニあけ申\n\t\t\t\t<lb/>\n\t\t\t\t\n候事実也、\n\t\t\t\t<lb/>\n\t\t\t\t\n此之外、ぬく谷ニほりま地所〃候を、私之心あて共仕候事候、於以後\n\t\t\t\t<lb/>\n\t\t\t\t\nも、奉憑候之外無候、仍為後日証文如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1481-06-27\">文明十三年辛寅六月一日</date>　　　　　　　<persName corresp=\"#木場重着\">木場但馬守重着</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　進上御使種田図書殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

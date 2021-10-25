@@ -1,0 +1,22 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "渋谷重広"
+    ],
+    "date": [
+        "1346-06-22"
+    ],
+    "label": "16　　貞和2年6月3日　　　渋谷重広自筆譲状（＃９１）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/91/manifest.json",
+    "objectID": "91",
+    "spatial": [
+        "薩摩国"
+    ],
+    "text": [
+        "\n\n\n\t\t\t\t\n　　　ゆつりわたすそりやうの事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一さつまのくにいりきいんのうちたうのはらのうちまへのまふし・あつ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nきあな、おなしきかうのうちなへの五郎二郎かさいけ三うの事、重広\n\n\t\t\t\t\nちうたいさうてんのそりやうたるあいた、ゑいたいをかきて、子そく\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nくまわうにゆつりわたすところなり、いさゝ\n\t\t\t\tか\n\t\t\t\tもこのところにいらん\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nをもいたさんものハ、ふけうのものたるへきなり、重広かあとをちき\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nやうすへからす、よてのちのために、しひちのゆつり状くたんのことし、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　ちやうハ二年六月三日　　　　　　　　　　　重広（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000036.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　ゆつりわたすそりやうの事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一<placeName corresp=\"#薩摩国\">さつまのくに</placeName>いりきいんのうち<placeName>たうのはら</placeName>のうち<placeName>まへのまふし</placeName>・<placeName>あつ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nきあな</placeName>、おなしきかうのうちなへの五郎二郎かさいけ三うの事、<persName corresp=\"#渋谷重広\">重広</persName>\n<lb/>\n\t\t\t\t\nちうたいさうてんのそりやうたるあいた、ゑいたいをかきて、子そく\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nくまわうにゆつりわたすところなり、いさゝ\n\t\t\t\t<note corresp=\"#○「か」ノ裏ニ重広ノ花押アリ\">か</note>\n\t\t\t\tもこのところにいらん\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nをもいたさんものハ、ふけうのものたるへきなり、重広かあとをちき\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nやうすへからす、よてのちのために、しひちのゆつり状くたんのことし、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1346-06-22\">ちやうハ二年六月三日</date>　　　　　　　　　　　<persName corresp=\"#渋谷重広\">重広</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

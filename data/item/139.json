@@ -1,0 +1,19 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "今川和元"
+    ],
+    "date": [
+        "1388-01-07"
+    ],
+    "label": "19　　嘉慶元年11月28日　_宮内大輔和元名字書出案（＃１３９）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/139/manifest.json",
+    "objectID": "139",
+    "text": [
+        "\n\n\n\t\t\t\t\n　渋谷次郎\n\n\t\t\t\t\n　　　　　元重\n\t\t\t\t\n嘉慶元年十一月廿八日\n\n\t\t\t\t\n\t\t\t\t　　　　　　　　宮内大輔和元在判\n\t\t\t\t\n\t\t\t\t\n　　渋谷次郎殿\n\t\t\t\t\n\t\t\t\t\n　\n\t\t\t\t「\n\t\t\t\t渋谷次郎殿　　　　宮内大輔和元」\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000028.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/>\n\t\t\t\t\n　<persName>渋谷次郎</persName>\n<lb/>\n\t\t\t\t\n　　　　　元重\n\t\t\t\t<lb/>\n<date when=\"1388-01-07\">嘉慶元年十一月廿八日</date>\n<lb/>\n\t\t\t\t\n\t\t\t\t　　　　　　　　<persName corresp=\"#今川和元\">宮内大輔和元</persName>在判\n\t\t\t\t<lb/>\n\t\t\t\t\n　　渋谷次郎殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷次郎殿　　　　宮内大輔和元」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}

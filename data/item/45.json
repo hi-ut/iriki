@@ -1,0 +1,20 @@
+{
+    "_updated": "2021-10-25",
+    "agential": [
+        "島津勝久",
+        "入来院重朝"
+    ],
+    "date": [
+        "1537-04-23"
+    ],
+    "label": "19　 天文6年3月14日　　_島津勝久知行充行状（＃４５）",
+    "manifest": "https://nakamura196.github.io/iriki/iiif/45/manifest.json",
+    "objectID": "45",
+    "text": [
+        "\n\n 　四五　島津勝久知行充行状  今度就入国之企、一段入魂之奉公、最神妙之至候、仍為此忠賞、満家院\n\t\t\t\t 之内郡山之城并卅町之事、所宛行也、早任此旨、可被知行之状如件、  天文六年三月十四日　　　　　　　　　　　　　　勝久（花押）  　　　　 入来 院殿\n\t\t\t\t\n\n"
+    ],
+    "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000031.jpg",
+    "xml": [
+        "<body>\n<p>\n<lb/> 　四五　<persName>島津勝久</persName>知行充行状 <lb/> 今度就入国之企、一段入魂之奉公、最神妙之至候、仍為此忠賞、満家院\n\t\t\t\t<lb/> 之内郡山之城并卅町之事、所宛行也、早任此旨、可被知行之状如件、 <lb/> <date when=\"1537-04-23\">天文六年三月十四日</date>　　　　　　　　　　　　　　<persName corresp=\"島津勝久\">勝久</persName>（花押） <lb/> 　　　　<persName corresp=\"#入来院重朝\"> <note corresp=\"#重朝\">入来</note> 院</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ]
+}
