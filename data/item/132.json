@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
+        "渋谷五郎平重頼",
         "渋谷重頼"
+    ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
     ],
     "date": [
         "1385-03-15"
@@ -9,6 +13,9 @@
     "label": "12　　至徳2年2月4日　　　渋谷重頼軍忠状（＃１３２）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/132/manifest.json",
     "objectID": "132",
+    "sent": [
+        "渋谷重頼"
+    ],
     "spatial": [
         "肥後"
     ],
@@ -16,7 +23,13 @@
         "\n\n\n\t\t\t\t\n　　渋谷五郎平重頼謹言上\n\t\t\t\t\n\t\t\t\t\n右、自去年八月、馳参\n\t\t\t\t二見\n\t\t\t\t之御陣、致忠節之処、給身一人之暇帰国仕、\n\t\t\t\t\n\t\t\t\t\n親類若党等不残令在陣、致警固、今年正月十日夜、\n\t\t\t\t佐敷\n\t\t\t\t仁御退之間、彼\n\t\t\t\t\n\t\t\t\t\n等御\n\t\t\t\t共\n\t\t\t\t仕了、重頼不遷時日、同十六日馳参佐敷、致宿直之処、和泉・水\n\t\t\t\t\n\t\t\t\t\n俣依難儀、為手宛可罷向之由、被仰下之間、馳越彼在所、致合力、相残\n\t\t\t\t\n\t\t\t\t\n親類若党等励忠勤、同晦夜御\n\t\t\t\t弛\n\t\t\t\t佐敷御陣、天草仁御渡海、難儀至極時分、\n\t\t\t\t\n\t\t\t\t\n彼親類若党等、或者御\n\t\t\t\t共\n\t\t\t\t仕、或者留跡勢、楯篭佐敷之城、成粉骨之思、\n\t\t\t\t\n\t\t\t\t\n抽軍功之条、御見知之上者、下賜御証判、為備末代、粗言上如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　至徳二年二月四日\n\n\t\t\t\t\n　　　　　　　　　　　　\n\t\t\t\t「\n\t\t\t\t承了（花押）」\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000020.jpg",
+    "type": [
+        "軍忠状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　<persName><persName corresp=\"#渋谷重頼\">渋谷五郎平重頼</persName></persName>謹言上\n\t\t\t\t<lb/>\n\t\t\t\t\n右、自去年八月、馳参\n\t\t\t\t<placeName corresp=\"#肥後\" ref=\"https://ja.wikipedia.org/wiki/%E8%82%A5%E5%BE%8C%E5%9B%BD\">二見</placeName>\n\t\t\t\t之御陣、致忠節之処、給身一人之暇帰国仕、\n\t\t\t\t<lb/>\n\t\t\t\t\n親類若党等不残令在陣、致警固、今年正月十日夜、\n\t\t\t\t<note corresp=\"#同上\">佐敷</note>\n\t\t\t\t仁御退之間、彼\n\t\t\t\t<lb/>\n\t\t\t\t\n等御\n\t\t\t\t<note corresp=\"#供、下同ジ\">共</note>\n\t\t\t\t仕了、重頼不遷時日、同十六日馳参佐敷、致宿直之処、和泉・水\n\t\t\t\t<lb/>\n\t\t\t\t\n俣依難儀、為手宛可罷向之由、被仰下之間、馳越彼在所、致合力、相残\n\t\t\t\t<lb/>\n\t\t\t\t\n親類若党等励忠勤、同晦夜御\n\t\t\t\t<note corresp=\"#馳\">弛</note>\n\t\t\t\t佐敷御陣、天草仁御渡海、難儀至極時分、\n\t\t\t\t<lb/>\n\t\t\t\t\n彼親類若党等、或者御\n\t\t\t\t<note corresp=\"#供\">共</note>\n\t\t\t\t仕、或者留跡勢、楯篭佐敷之城、成粉骨之思、\n\t\t\t\t<lb/>\n\t\t\t\t\n抽軍功之条、御見知之上者、下賜御証判、為備末代、粗言上如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1385-03-15\">至徳二年二月四日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　\n\t\t\t\t<note corresp=\"#証判\">「</note>\n\t\t\t\t承了（花押）」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

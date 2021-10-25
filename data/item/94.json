@@ -3,17 +3,29 @@
     "agential": [
         "渋谷重門"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1367-02-28"
     ],
     "label": "19　　正平22年1月29日　　渋谷重門置文（＃９４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/94/manifest.json",
     "objectID": "94",
+    "sent": [
+        "渋谷重門"
+    ],
     "text": [
         "\n\n\n「\n\t\t\t\t置文」\n\t\t\t\t\n\t\t\t\t\n　定\n\t\t\t\t\n\t\t\t\t\n　　依合戦忠節料所可沙汰条〃事\n\t\t\t\t\n\t\t\t\t\n一其忠有抽出事者、可有常一倍之沙汰也、\n\t\t\t\t\n\t\t\t\t\n一討死跡事、有子息者、本知行之上、重料所出来之時、可有其沙汰也、\n\t\t\t\t\n\t\t\t\t\n次於女子者、本知行半分事、一\n\t\t\t\t後\n\t\t\t\t之間、不可有子細之也、次於後家\n\t\t\t\t\n\t\t\t\t\n者、可為女子同篇之沙汰、但、別男被相具者、不可有知行之也、\n\t\t\t\t\n\t\t\t\t\n一其跡無子孫者、田地一反永代可有寄進寺家也、\n\t\t\t\t\n\t\t\t\t\n右、此之趣、至子〃孫〃、於背此之旨之輩者、不可有重門之子孫\n\t\t\t\t之\n\t\t\t\t也、\n\t\t\t\t\n\t\t\t\t\n仍為後日所定置如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　正平廿二年正月廿九日　　　　　　　　　　重門（花押）\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000039.jpg",
+    "type": [
+        "置文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t置文」\n\t\t\t\t<lb/>\n\t\t\t\t\n　定\n\t\t\t\t<lb/>\n\t\t\t\t\n　　依合戦忠節料所可沙汰条〃事\n\t\t\t\t<lb/>\n\t\t\t\t\n一其忠有抽出事者、可有常一倍之沙汰也、\n\t\t\t\t<lb/>\n\t\t\t\t\n一討死跡事、有子息者、本知行之上、重料所出来之時、可有其沙汰也、\n\t\t\t\t<lb/>\n\t\t\t\t\n次於女子者、本知行半分事、一\n\t\t\t\t<note corresp=\"#期\">後</note>\n\t\t\t\t之間、不可有子細之也、次於後家\n\t\t\t\t<lb/>\n\t\t\t\t\n者、可為女子同篇之沙汰、但、別男被相具者、不可有知行之也、\n\t\t\t\t<lb/>\n\t\t\t\t\n一其跡無子孫者、田地一反永代可有寄進寺家也、\n\t\t\t\t<lb/>\n\t\t\t\t\n右、此之趣、至子〃孫〃、於背此之旨之輩者、不可有重門之子孫\n\t\t\t\t<note corresp=\"#マヽ\">之</note>\n\t\t\t\t也、\n\t\t\t\t<lb/>\n\t\t\t\t\n仍為後日所定置如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1367-02-28\">正平廿二年正月廿九日</date>　　　　　　　　　　<persName corresp=\"#渋谷重門\">重門</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

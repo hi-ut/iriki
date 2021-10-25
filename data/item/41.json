@@ -4,6 +4,9 @@
         "島津久世",
         "入来院重長"
     ],
+    "collection": [
+        "4 入来院家文書 四     1巻"
+    ],
     "date": [
         "1411-10-02"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000026.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　四一　<persName>島津久世</persName>知行充行状\n\t\t\t\t<lb/>\n\t\t\t\t\n薩摩之国莫祢院一曲之事、依今度志宛行所也、\n\t\t\t\t<note corresp=\"#至\">致</note>\n\t\t\t\t子〃孫〃、無相違可有\n\t\t\t\t<lb/>\n\t\t\t\t\n御知行、仍状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1411-10-02\">応永十八年九月十五日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　<persName corresp=\"#島津久世\">兵衛尉久世</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#重長\"><persName corresp=\"#入来院重長\">清色</persName></note>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番"
     ]
 }

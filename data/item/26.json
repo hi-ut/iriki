@@ -5,6 +5,9 @@
         "島津家久",
         "入来院重高"
     ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
+    ],
     "date": [
         "1612-11-15"
     ],
@@ -17,5 +20,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000019.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二六　<persName corresp=\"#島津義久\">島津龍伯義久</persName>書状（折紙）\n\t\t\t\t<lb/>\n<note corresp=\"#家久\"><persName corresp=\"#島津家久\">陸奥</persName></note>\n\t\t\t\t守殿其宅へ被成入御候哉、定何かと馳走之志推察候、近比乍軽微、上酒両樽、損候て無爾〃之由候へとも、令進之候、補空書計候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<date when=\"1612-11-15\"><note corresp=\"#慶長十七年\">十月廿三日</note></date>\n\t\t\t\t　　　<persName corresp=\"#島津義久\">龍伯</persName>　（黒印）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　<persName corresp=\"#入来院重高\">入来院\n\t\t\t\t<note corresp=\"#重高\">\n\t\t\t\t\t守殿\n\t\t\t\t\t<lb/>\n\t\t\t\t\t\n　　　　　\n\t\t\t\t</note></persName>\n<note corresp=\"#封書切封ウハ書\">「</note>\n<lb/>\n\t\t\t\t\n　　　　　入来院石見守殿　　　　　　竜伯」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

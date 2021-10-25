@@ -4,6 +4,9 @@
         "島津義弘",
         "入来院重高"
     ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
+    ],
     "date": [
         "1600"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000007.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二〇　<persName corresp=\"#島津義弘\">島津維新義弘</persName>知行充行状\n\t\t\t\t<lb/>\n\t\t\t\t\n今度美濃国開か原之合戦致粉骨、従其伊勢・近江・伊賀・大和・河内・\n\t\t\t\t<lb/>\n\t\t\t\t\n和泉ニ至り、帰国之路次伝、片時も側を不相離、被抽奉公之段、神妙之\n\t\t\t\t<lb/>\n\t\t\t\t\n至、尤感入候、仍知行弐佰石遺之候也、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<date when=\"1600\">慶長五</date>\n<lb/>\n\t\t\t\t\n　　　　拾月十日　　　　　　　　　　　　　　　維新　（墨印）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　\n\t\t\t\t<note corresp=\"#入来院重高\"><persName corresp=\"入来院重高\">頴娃弥市郎</persName></note>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

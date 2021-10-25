@@ -4,6 +4,9 @@
         "島津忠治",
         "渋谷重聡"
     ],
+    "collection": [
+        "3 入来院家文書 三     1巻"
+    ],
     "date": [
         "1495-12-19"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/3/00000011.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二二　<persName>島津忠治</persName>書状\n\t\t\t\t<lb/>\n\t\t\t\t\n其のちハ申うけたまわらす候、御ゆかしくこそ候へ、まつまついよいよ\n\t\t\t\t<lb/>\n\t\t\t\t\nたのミ申へきために、ひろいかきにて申候、さてもさつまこほり、すてに\n\t\t\t\t<lb/>\n\t\t\t\t\nやふれ候つるところに、それのはからひによりしつまり候事、くれくれ\n\t\t\t\t<lb/>\n\t\t\t\t\nかしこまり入候、なををもつて、こゝもとゆミやになり候ハぬやうに、く\n\t\t\t\t<lb/>\n\t\t\t\t\nにをしつめたく候、しかれハなにことも申たむし、たのミ申へきよりほか\n\t\t\t\t<lb/>\n\t\t\t\t\nへちにも候ハす候、恐〃謹言、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#明応四年\"><date when=\"1495-12-19\">十一月廿四日</date></note>\n\t\t\t\t　　　　　　　　<persName corresp=\"#島津忠治\">忠治</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<persName corresp=\"#渋谷重聡\"><note corresp=\"#重聡\">渋谷</note></persName>\n\t\t\t\t殿\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　\n\t\t\t\t<note corresp=\"#懸紙ウハ書\">「</note>\n\t\t\t\t渋谷殿　　忠治」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 家久公御袖判ヨリ龍伯公御状迄 拾通 十壱番"
     ]
 }

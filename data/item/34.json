@@ -4,6 +4,9 @@
         "島津守久",
         "渋谷重頼"
     ],
+    "collection": [
+        "4 入来院家文書 四     1巻"
+    ],
     "date": [
         "1404-01-19"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000012.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　三四　<persName>島津守久</persName>知行充行状 <lb/> 薩摩国山門院西方之事、并薩摩郡之内荒 <note corresp=\"#河\">皮</note> ・羽嶋之事、可有御忠節之由、 <lb/> 承候之間、所置進之也、任先例可有知行之状如件、 <lb/> 　　　<date when=\"1404-01-19\">応永拾年十二月七日</date>　　　　　　　　　　　<persName corresp=\"#島津守久\">守久</persName>（花押） <lb/> 　　　<persName corresp=\"#渋谷重頼\">渋谷　 <note corresp=\"#重頼\">弾正</note> 少弼</persName>殿 <lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番"
     ]
 }

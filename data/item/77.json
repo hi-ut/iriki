@@ -1,13 +1,28 @@
 {
     "_updated": "2021-10-25",
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
+    "date": [
+        "1265-09-13"
+    ],
     "label": "2　　文永2年8月3日　　　渋谷善心(明重)譲状案（＃７７）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/77/manifest.json",
     "objectID": "77",
+    "sent": [
+        "渋谷明重"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n　　　　　　○コノ文書、次号文書ノ案文ナルヲ以テ、本文省略ニ従フ、\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000004.jpg",
+    "type": [
+        "譲状案"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　　　○コノ文書、次号文書ノ案文ナルヲ以テ、本文省略ニ従フ、\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

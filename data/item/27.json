@@ -4,6 +4,9 @@
         "島津元久",
         "渋谷重頼"
     ],
+    "collection": [
+        "4 入来院家文書 四     1巻"
+    ],
     "date": [
         "1404-02-03"
     ],
@@ -16,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/4/00000003.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　二七　<persName>島津元久</persName>契状\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　契約\n\t\t\t\t<lb/>\n\t\t\t\t\n一雖為天下\n\t\t\t\t<note corresp=\"#転\">伝</note>\n\t\t\t\t変、就大小事、可成一味同心之思申事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一自然東郷殿・柏原殿、我等同心之儀被申候時者、東郷者〓淵并黒\n\t\t\t\t<note corresp=\"#木\">禾</note>\n\t\t\t\t・\n\t\t\t\t<lb/>\n\t\t\t\t\n見成河、柏原者湯田、此外者、当知行共可被置差事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一於三ヶ国中、如何様雖不慮之子細之候、相互見次被見次可申事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一讒者出来、縦雖何事申候、不可及信用之事、\n\t\t\t\t<lb/>\n\t\t\t\t\n一今度申談候条〃、自今以後不可有相違事、若此条〃詐申候者、\n\t\t\t\t<lb/>\n\t\t\t\t\n正八幡大菩薩、稲\n\t\t\t\t<note corresp=\"#荷\">莉</note>\n\t\t\t\t大明神、\n\t\t\t\t<lb/>\n\t\t\t\t\n諏訪上下大明神、可蒙御罰候、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1404-02-03\">応永十年十二月十三日</date>　　　　<persName corresp=\"#島津元久\">元久</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<persName corresp=\"#渋谷重頼\">渋谷\n\t\t\t\t<note corresp=\"#重頼\">弾正</note>\n<note corresp=\"#少\">小</note>\n\t\t\t\t弼</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 元久公御契約状ヨリ勝久公御在判迄 廿通 十二番"
     ]
 }

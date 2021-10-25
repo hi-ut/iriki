@@ -6,6 +6,9 @@
         "北条時宗",
         "北条政村"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1265-09-13",
         "1267-07-08"
@@ -13,16 +16,29 @@
     "label": "1　　文永4年6月16日　　_関東下知状（＃７６）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/76/manifest.json",
     "objectID": "76",
+    "sent": [
+        "北条時宗",
+        "北条政村"
+    ],
     "spatial": [
         "相模国",
+        "藤意村",
         "美作国",
-        "薩摩国"
+        "河会郷",
+        "薩摩国",
+        "清色郷"
     ],
     "text": [
         "\n\n\n\t\t\t\t\n　可令早\n\t\t\t\t平有重\n\t\t\t\t領知相模国吉田庄内清太入道西在家壱宇、藤意村内立野\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　伍町、美作国河会郷内下森自上山宮西、薩摩国入来院内清色郷伍分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　参事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t右、任亡父明重法師法名善心、文永二年八月三日譲状、可令領掌之状、依仰\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n下知如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　文永四年六月十六日\n\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t相模守平朝臣\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t左京権大夫朝臣\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000003.jpg",
+    "type": [
+        "下知状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　可令早\n\t\t\t\t<persName corresp=\"#渋谷有重\">平有重</persName>\n\t\t\t\t領知<placeName corresp=\"#相模国\">相模国</placeName>吉田庄内清太入道西在家壱宇、<placeName>藤意村</placeName>内立野\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　伍町、<placeName corresp=\"#美作国\">美作国</placeName><placeName>河会郷</placeName>内下森自上山宮西、<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内<placeName>清色郷</placeName>伍分\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　参事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t右、任亡父<persName corresp=\"#渋谷明重\">明重</persName>法師法名善心、<date when=\"1265-09-13\">文永二年八月三日</date>譲状、可令領掌之状、依仰\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n下知如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1267-07-08\">文永四年六月十六日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#北条時宗\">相模守平朝臣</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#北条政村\">左京権大夫朝臣</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

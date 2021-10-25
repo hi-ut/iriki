@@ -5,6 +5,9 @@
         "懐良親王",
         "渋谷重勝"
     ],
+    "collection": [
+        "1 入来院家文書 一     1帖"
+    ],
     "date": [
         "1351-08-25"
     ],
@@ -17,5 +20,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000008.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　七　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（白紙、小切紙）\n\t\t\t\t<lb/>\n\t\t\t\t\n可参御方之由聞食了、早属申\n\t\t\t\t<note corresp=\"#懐良親王\"><persName corresp=\"#懐良親王\">征西将軍</persName></note>\n\t\t\t\t宮、可致軍忠、有殊功者、可有其\n\t\t\t\t<lb/>\n\t\t\t\t\n賞者、\n\t\t\t\t<lb/>\n\t\t\t\t\n天気如此、悉之以状、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1351-08-25\">正平六年八月三日</date>　　左中辨（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n　<persName corresp=\"渋谷重勝\">渋谷\n\t\t\t\t<note corresp=\"#重勝\">美濃</note>\n\t\t\t\t守</persName>舘\n\t\t\t\t<lb/>\n<note corresp=\"#別紙\">「</note>\n\t\t\t\t吉野　御綸旨正文」\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 御綸旨御下文御感状御教書 九通 九番"
     ]
 }

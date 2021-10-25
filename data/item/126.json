@@ -3,17 +3,32 @@
     "agential": [
         "武光師兼"
     ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
+    ],
     "date": [
         "1311-03-24"
     ],
     "label": "5　　延慶4年3月4日　　　入来院塔原領家文書代用途免除状（＃１２６）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/126/manifest.json",
     "objectID": "126",
+    "sent": [
+        "領家"
+    ],
+    "spatial": [
+        "塔原"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n入来院領家文書代用途内塔原御分四十五貫余、別以御志奉免許候畢、若\n\t\t\t\t\n\t\t\t\t\n自余村〃無沙汰候者、各別之契約を可申候、仍状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　延慶四年三月四日\n\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t法忍\n\t\t\t\t（花押）\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000010.jpg",
+    "type": [
+        "代用途免除状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n入来院領家文書代用途内<placeName>塔原</placeName>御分四十五貫余、別以御志奉免許候畢、若\n\t\t\t\t<lb/>\n\t\t\t\t\n自余村〃無沙汰候者、各別之契約を可申候、仍状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1311-03-24\">延慶四年三月四日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#武光師兼\">法忍</persName>\n\t\t\t\t（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

@@ -3,20 +3,33 @@
     "agential": [
         "本田暁道"
     ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1320-10-04"
     ],
     "label": "1　　元応2年9月2日　　　本田暁道請文（＃１００）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/100/manifest.json",
     "objectID": "100",
+    "sent": [
+        "本田暁道"
+    ],
     "spatial": [
-        "薩摩国"
+        "薩摩国",
+        "山田村"
     ],
     "text": [
         "\n\n\n「\n\t\t\t\t本田民部入道請文」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t永利如性掠申、薩摩国薩摩郡内山田村与田崎名堺事、訴状具書等謹下賜\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n候畢、此条、当名下地以下事、名主善法与暁道番于数問荅訴陳、已被逢\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n御引付候上者、是非治定之後、可被経御沙汰哉候覧、以此旨可有御披露\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n候、恐惶謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　元応二年九月二日　　　　　　　　　　地頭代暁道請文（裏花押）\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000003.jpg",
+    "type": [
+        "請文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t本田民部入道請文」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t永利如性掠申、<placeName corresp=\"#薩摩国\">薩摩国</placeName>薩摩郡内<placeName>山田村</placeName>与田崎名堺事、訴状具書等謹下賜\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n候畢、此条、当名下地以下事、名主善法与暁道番于数問荅訴陳、已被逢\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n御引付候上者、是非治定之後、可被経御沙汰哉候覧、以此旨可有御披露\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n候、恐惶謹言、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1320-10-04\">元応二年九月二日</date>　　　　　　　　　　地頭代<persName corresp=\"#本田暁道\">暁道</persName>請文（裏花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

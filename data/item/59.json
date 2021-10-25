@@ -2,7 +2,17 @@
     "_updated": "2021-10-25",
     "agential": [
         "渋谷重門",
+        "静重",
+        "重知",
+        "九郎重与",
+        "乕松丸",
+        "定円",
+        "重知",
+        "乕松丸",
         "渋谷重勝"
+    ],
+    "collection": [
+        "6 入来院家文書 六      1巻"
     ],
     "date": [
         "1349-08-07"
@@ -10,15 +20,34 @@
     "label": "4　　貞和5年閏6月23日　_渋谷重勝同日一筆譲状（＃５９）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/59/manifest.json",
     "objectID": "59",
+    "received": [
+        "渋谷重門"
+    ],
+    "sent": [
+        "渋谷重勝"
+    ],
     "spatial": [
         "美作国",
-        "薩摩国"
+        "下森",
+        "上山",
+        "大足",
+        "薩摩国",
+        "市比野",
+        "倉野村",
+        "九重村",
+        "柏嶋"
     ],
     "text": [
         "\n\n\n\t\t\t\t\n譲与\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　所　子息\n\t\t\t\t乕松\n\t\t\t\t丸\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　美作国河\n\t\t\t\t絵\n\t\t\t\t庄内下森上山大足\n\n\t\t\t\t\n　　　此内一期分所僧二人跡静重後家分金子村\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　薩摩国入来院内一野・河床等事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n右、任親父重知譲状、舎弟九郎重与与子息乕松丸半分津〃可令知行、而\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n於定円・重知跡関所者、一向乕松丸可知行、仍巨細見置文、為後譲状\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　貞和五年閏六月廿三日　　　　　　　　　　平重勝（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　入来院内市比野地頭職\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一所　入来院内倉野村\n\n\t\t\t\t\n一所　同九重村　　　一所　入来院内柏嶋四分壱\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ２２\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　重勝（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/6/00000010.jpg",
+    "type": [
+        "譲状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n譲与\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　所　子息\n\t\t\t\t<persName corresp=\"#渋谷重門\">乕松</persName>\n\t\t\t\t丸\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#美作国\">美作国</placeName>河\n\t\t\t\t<note corresp=\"#会\">絵</note>\n\t\t\t\t庄内<placeName>下森</placeName><placeName>上山</placeName><placeName>大足</placeName>\n<lb/>\n\t\t\t\t\n　　　此内一期分所僧二人跡<persName>静重</persName>後家分金子村\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　<placeName corresp=\"#薩摩国\">薩摩国</placeName>入来院内一野・河床等事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n右、任親父<persName>重知</persName>譲状、舎弟<persName>九郎重与</persName>与子息<persName>乕松丸</persName>半分津〃可令知行、而\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n於<persName>定円</persName>・<persName>重知</persName>跡関所者、一向<persName>乕松丸</persName>可知行、仍巨細見置文、為後譲状\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n如件、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1349-08-07\">貞和五年閏六月廿三日</date>　　　　　　　　　　<persName corresp=\"#渋谷重勝\">平重勝</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　入来院内<placeName>市比野</placeName>地頭職\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一所　入来院内<placeName>倉野村</placeName>\n<lb/>\n\t\t\t\t\n一所　同<placeName>九重村</placeName>　　　一所　入来院内<placeName>柏嶋</placeName>四分壱\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ２２\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　　　　<persName corresp=\"#渋谷重勝\">重勝</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "定心大庭徴ヨリ重利判迄 拾五通 十四番"
     ]
 }

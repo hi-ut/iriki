@@ -1,16 +1,31 @@
 {
     "_updated": "2021-10-25",
+    "agential": [
+        "御大くわん浄慶"
+    ],
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
     "date": [
         "1334-09-26"
     ],
     "label": "22　　建武元年9月8日　　_二牟礼の六郎二郎入道在家得分注文（＃１２１）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/121/manifest.json",
     "objectID": "121",
+    "sent": [
+        "二牟礼の六郎二郎入道?"
+    ],
     "text": [
         "\n\n\n「\n\t\t\t\t甲戌　きよしき殿よりふたむれのとくふんちうもん」\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nふたむれの六郎二郎入道のさいけの一年中のとくふんちうもんの事\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nちたう一七石七斗　　　延米とかきの定\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一壱貫三〃百文　　くわ代\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一五百文　　　　あい・あかねの代\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一三百九十五文　ふようとう\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一壱貫文　　　　くうしれう\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一三百文　　　　からをのしろ\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一百文　　　　　とりこのいと\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一三百文　　　　そのゝはくのそたう\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　　　\n\t\t\t\tのいねのはら\n\t\t\t\tのさいけくわう也、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一七反延米一石五斗五升のいねのはら\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　せに三貫八百九十五文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　よね九石二斗五舛\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　けんむくわんねん九月八日\n\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　御大くわん浄慶（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000037.jpg",
+    "type": [
+        "在家得分注文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t甲戌　きよしき殿よりふたむれのとくふんちうもん」\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nふたむれの六郎二郎入道のさいけの一年中のとくふんちうもんの事\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nちたう一七石七斗　　　延米とかきの定\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一壱貫三〃百文　　くわ代\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一五百文　　　　あい・あかねの代\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一三百九十五文　ふようとう\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一壱貫文　　　　くうしれう\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一三百文　　　　からをのしろ\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一百文　　　　　とりこのいと\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一三百文　　　　そのゝはくのそたう\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　　　\n\t\t\t\t<note corresp=\"#野稲原\">のいねのはら</note>\n\t\t\t\tのさいけくわう也、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一七反延米一石五斗五升のいねのはら\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　せに三貫八百九十五文\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　よね九石二斗五舛\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　<date when=\"1334-09-26\">けんむくわんねん九月八日</date>\n<lb/>\n\t\t\t\t\n　　　　　　　　　　　　　　　　　　　　<persName>御大くわん浄慶</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

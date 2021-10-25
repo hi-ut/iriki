@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
-        "藤原頼嗣"
+        "藤原頼嗣",
+        "渋谷三郎重保"
+    ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
     ],
     "date": [
         "1247-01-17"
@@ -9,6 +13,9 @@
     "label": "4　　寛元4年12月9日　　_藤原頼嗣袖加判下文（＃１２５）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/125/manifest.json",
     "objectID": "125",
+    "sent": [
+        "藤原頼嗣"
+    ],
     "spatial": [
         "伊勢国"
     ],
@@ -16,7 +23,13 @@
         "\n\n\n\t\t\t\t\n　　　　\n\t\t\t\t（花押）\n\n\t\t\t\t\n\t\t\t\t下　　伊勢国甲賀山住人\n\t\t\t\t\n\t\t\t\t\n　補任地頭職事\n\t\t\t\t\n\t\t\t\t\n　　渋谷三郎重保法師法名重厳\n\t\t\t\t\n\t\t\t\t\n右人、為彼職、守先例、可致沙汰之状如件、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　寛元四年十二月九日\n\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000009.jpg",
+    "type": [
+        "下文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　　　　\n\t\t\t\t<persName corresp=\"#藤原頼嗣\">（花押）</persName>\n<lb/>\n\t\t\t\t\n\t\t\t\t下　　<placeName corresp=\"#伊勢国\">伊勢国</placeName>甲賀山住人\n\t\t\t\t<lb/>\n\t\t\t\t\n　補任地頭職事\n\t\t\t\t<lb/>\n\t\t\t\t\n　　<persName>渋谷三郎重保</persName>法師法名重厳\n\t\t\t\t<lb/>\n\t\t\t\t\n右人、為彼職、守先例、可致沙汰之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1247-01-17\">寛元四年十二月九日</date>\n<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

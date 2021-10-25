@@ -1,5 +1,11 @@
 {
     "_updated": "2021-10-25",
+    "collection": [
+        "10 入来院家文書 十      1巻"
+    ],
+    "date": [
+        "年月日欠"
+    ],
     "label": "16　　(年月日欠)　　　　_某手日記（＃１１５）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/115/manifest.json",
     "objectID": "115",
@@ -7,7 +13,13 @@
         "\n\n\n\t\t\t\t\n一　太刀\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ５８\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n二弓、征矢\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n三よろい\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n四鞍置馬\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　同引副\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n料足廿貫\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n又御屋形・松之屋とニ御出之時、太刀・扇・料そく五貫進之候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n御せんニ料足三くハん、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　次ニ平田殿ニ料足三貫、太刀一遣候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　村田殿ニ料足二貫、太刀一、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　石井殿ニ料足二貫、太刀一、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　十郎左衛門殿ニ料足二貫、扇、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n引出物うけとられ候方ニ、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　料足一貫、太刀一、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　御中間ニ料足一貫、\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/10/00000028.jpg",
+    "type": [
+        "某手日記"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n一　太刀\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ５８\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n二弓、征矢\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n三よろい\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n四鞍置馬\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　同引副\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n料足廿貫\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n又御屋形・松之屋とニ御出之時、太刀・扇・料そく五貫進之候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n御せんニ料足三くハん、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　次ニ平田殿ニ料足三貫、太刀一遣候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　村田殿ニ料足二貫、太刀一、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　石井殿ニ料足二貫、太刀一、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　十郎左衛門殿ニ料足二貫、扇、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n引出物うけとられ候方ニ、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　料足一貫、太刀一、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　御中間ニ料足一貫、\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "地頭代暁道請文ヨリ御代官浄慶在判マテ 廿二通 十八番"
     ]
 }

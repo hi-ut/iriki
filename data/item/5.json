@@ -7,6 +7,9 @@
         "後村上天皇",
         "入来院重門"
     ],
+    "collection": [
+        "1 入来院家文書 一     1帖"
+    ],
     "date": [
         "1367-03-11"
     ],
@@ -19,5 +22,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000006.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　五　<persName corresp=\"#後村上天皇\">後村上天皇</persName>綸旨（白紙、小切紙） <lb/> 致軍忠之由被聞食了、尤以神妙者、 <lb/> 天気如此、悉之以状、 <lb/>\n\t\t\t\t　　　<date when=\"1367-03-11\">正平廿二年二月十日</date>　　右衛門権佐（花押） <lb/> 　<persName corresp=\"#入来院重門\">渋谷 <note corresp=\"#重門\">弾正</note>\n<note corresp=\"#少、下同ジ\">小</note> 弼</persName>館 <lb/> 　 <note corresp=\"#懸紙ウハ書\">「</note> <persName corresp=\"#入来院重門\">渋谷<name corresp=\"#弾正少弼\" ref=\"https://kotobank.jp/word/%E5%B0%91%E5%BC%BC-533058\" type=\"keyword\">弾正 <note corresp=\"#少\">小</note> 弼</name></persName>館　右衛門権佐（花押）」 <lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 御綸旨御下文御感状御教書 九通 九番"
     ]
 }

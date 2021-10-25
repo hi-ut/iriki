@@ -3,6 +3,9 @@
     "agential": [
         "渋谷重棟"
     ],
+    "collection": [
+        "5 入来院家文書 五      1巻"
+    ],
     "date": [
         "1329-01-19"
     ],
@@ -15,5 +18,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/5/00000033.jpg",
     "xml": [
         "<body>\n<p>\n<lb/> 　五五　関東（？）召文奉書案 <lb/> 渋谷河内十郎重文申、相模国渋谷庄合郷内田畠在家以下事、訴状如此、 <lb/> 早可被参決之状、依仰執進如件、\n\t\t\t\t<lb/> 　　　<date when=\"1329-01-19\">嘉暦三年十二月十九日</date>　　　　　　　　　　沙弥在判 <lb/> 　　　　<persName corresp=\"#渋谷重棟\">渋谷 <note corresp=\"#重棟\">河内</note> 権守入道</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "重豊譲状ヨリ重文申状迄 廿一通 十三番"
     ]
 }

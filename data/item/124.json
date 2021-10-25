@@ -3,12 +3,18 @@
     "agential": [
         "渋谷重利"
     ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
+    ],
     "date": [
         "1492-03-28"
     ],
     "label": "3　　延徳4年3月1日　　　渋谷重聡田地并所当注文（＃１２４）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/124/manifest.json",
     "objectID": "124",
+    "sent": [
+        "渋谷重聡"
+    ],
     "spatial": [
         "高城"
     ],
@@ -16,7 +22,13 @@
         "\n\n\nたき\n\t\t\t\tのうちのしさく六反三丁にて候を、なかむらにいまたてかへ候ふん、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n四反下もちさこ　　二反三丁かハち田\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　以上六反三丁\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　みや田のかとに、むかいなかむらのかとかへ候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一ねんくおなし　　くうしおなし\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一みや田なしもの　壱貫五百文五百文ハたいくわんふん\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一むかいなかむらなしもの　壱貫百五十百五十文ハたいくハんふんか〃〃〃〃〃〃〃〃〃〃〃〃〃\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一か\n\t\t\t\tと\n\t\t\t\tをなし　一きぬくたおなし\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\nＰ６２\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一わたおなし　　　一か\n\t\t\t\tと\n\t\t\t\tみのおなし\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　又みや田よりはあかり候、なかむらよりハあけす候もの、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一いも壱斗五舛　　一か\n\t\t\t\tと\n\t\t\t\tあい一斗\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一からを百五十め　一むきのねんく五斗\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　此ふんにうきめんのはたけあひそへ候ふん、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一一反　いけつる\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　又みや田よりあけ候もの\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一あまつらのしろ百文　一あかねのしろ五十文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一ゑりこのまゆ三舛銭なれハ六百文\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n一ないけんのふん五百文　このふん、むかいなかむらニハなく候ほとに、二反そへ候田の事、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　二反　まへ田\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n又あらためて、たきのうちへまいらせ候分、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　二反丁　まへ田　　　　　二反　いけつる\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　しさくものゝしろ以上に\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　水田壱町二反四丁\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　畠地四反\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　延徳四年みつのえね三月一日　　　　　　　重とし（花押）\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000007.jpg",
+    "type": [
+        "田地并所当注文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<placeName corresp=\"#高城\" ref=\"https://ja.wikipedia.org/wiki/%E9%AB%98%E5%9F%8E%E9%83%A1_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)\">たき</placeName>\n\t\t\t\tのうちのしさく六反三丁にて候を、なかむらにいまたてかへ候ふん、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n四反下もちさこ　　二反三丁かハち田\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　以上六反三丁\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　みや田のかとに、むかいなかむらのかとかへ候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一ねんくおなし　　くうしおなし\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一みや田なしもの　壱貫五百文五百文ハたいくわんふん\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一むかいなかむらなしもの　壱貫百五十百五十文ハたいくハんふんか〃〃〃〃〃〃〃〃〃〃〃〃〃\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一か\n\t\t\t\t<note corresp=\"#らカ\">と</note>\n\t\t\t\tをなし　一きぬくたおなし\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\nＰ６２\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一わたおなし　　　一か\n\t\t\t\t<note corresp=\"#らカ\">と</note>\n\t\t\t\tみのおなし\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　又みや田よりはあかり候、なかむらよりハあけす候もの、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一いも壱斗五舛　　一か\n\t\t\t\t<note corresp=\"#らカ\">と</note>\n\t\t\t\tあい一斗\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一からを百五十め　一むきのねんく五斗\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　此ふんにうきめんのはたけあひそへ候ふん、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一一反　いけつる\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　又みや田よりあけ候もの\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一あまつらのしろ百文　一あかねのしろ五十文\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一ゑりこのまゆ三舛銭なれハ六百文\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n一ないけんのふん五百文　このふん、むかいなかむらニハなく候ほとに、二反そへ候田の事、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　二反　まへ田\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n又あらためて、たきのうちへまいらせ候分、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　二反丁　まへ田　　　　　二反　いけつる\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　しさくものゝしろ以上に\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　水田壱町二反四丁\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　畠地四反\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1492-03-28\">延徳四年みつのえね三月一日</date>　　　　　　　<persName corresp=\"#渋谷重利\">重とし</persName>（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }

@@ -1,7 +1,11 @@
 {
     "_updated": "2021-10-25",
     "agential": [
-        "足利直義"
+        "足利直義",
+        "渋谷孫次郎（重広）"
+    ],
+    "collection": [
+        "1 入来院家文書 一     1帖"
     ],
     "date": [
         "1343"
@@ -15,5 +19,8 @@
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/1/00000011.jpg",
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n　一〇　<persName>足利直義</persName>軍勢催促状\n\t\t\t\t<lb/>\n\t\t\t\t\n参御方、可致軍忠之状如件、\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date when=\"1343\">康永二年</date>四月十二日　　　　　　　　　　\n\t\t\t\t<note corresp=\"#直義\"><persName corresp=\"#足利直義\">（花押）</persName></note>\n<lb/>\n\t\t\t\t\n　　<persName>渋谷孫次郎（重広）</persName>殿\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        " 御綸旨御下文御感状御教書 九通 九番"
     ]
 }

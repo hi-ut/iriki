@@ -5,12 +5,20 @@
         "伴信忠",
         "伴信俊"
     ],
+    "collection": [
+        "8 入来院家文書 八      1巻"
+    ],
     "date": [
         "1247-09-05"
     ],
     "label": "6　　宝治元年8月5日　　_伴信俊同信忠同信資連署起請文（＃８１）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/81/manifest.json",
     "objectID": "81",
+    "sent": [
+        "伴信俊",
+        "伴信忠",
+        "伴信資"
+    ],
     "spatial": [
         "塔原",
         "箱根",
@@ -20,7 +28,13 @@
         "\n\n\n「\n\t\t\t\t大目とも□□□□□」\n\t\t\t\t\n\t\t\t\t\n　たて申きしやうもんの事\n\t\t\t\t\n\t\t\t\t\n右件の元ハ、\n\t\t\t\tいりきのゐん\n\t\t\t\tのちとう御とくふんの中ニ、すいてん・はく\n\t\t\t\t\n\t\t\t\t\nち・\n\t\t\t\tおしろ\n\t\t\t\t・\n\t\t\t\tくわしろ\n\t\t\t\t・かりおかしのなかに、いちふん十たいにいた\n\t\t\t\t\n\t\t\t\t\nるまて、ちとう殿の御ために、\n\t\t\t\tへんは\nいつはり\n\t\t\t\tをも申、\n\t\t\t\tおやけわた\n\t\t\t\tく\n\t\t\t\t\n\t\t\t\t\nし、\n\t\t\t\tたいし\nせうし\n\t\t\t\tにいたるまて、へんはおもし候ひ、御ためにうしろつ\n\t\t\t\t\n\t\t\t\t\nたなくも候ひ、又かやうに給はりて候うへニ、ちとう殿おはなれまいら\n\t\t\t\t\n\t\t\t\t\nせて、かみにしさいお申候ものならは、かの\n\t\t\t\tたうのハら\n\t\t\t\tをめされ候へ\n\t\t\t\t\n\t\t\t\t\nし、もしこの申しやういつはりおも申候物ならは、にほんの\n\t\t\t\tちんすはつはん\n\n\t\t\t\t\n大ほさつ、ことにハ、1\n\t\t\t\t1いつ\n\t\t\t\t・\n\t\t\t\tハこね\n\t\t\t\t・\n\t\t\t\tみしま\n\t\t\t\t大ミやうしん、そうし\n\t\t\t\t\n\t\t\t\t\nてハ六十よしふの\n\t\t\t\tしんき\nミやうたう\n\t\t\t\tの御はつお、のふとし・のふたゝ・\n\t\t\t\t\n\t\t\t\t\nのふすけまかりかふり候へし、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　宝治元年八月五日　　　　　　　　　　　　伴信資（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　伴信忠（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　大目伴信俊（花押）\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/8/00000015.jpg",
+    "type": [
+        "連署起請文"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n<note corresp=\"#端裏書\">「</note>\n\t\t\t\t大目とも□□□□□」\n\t\t\t\t<lb/>\n\t\t\t\t\n　たて申きしやうもんの事\n\t\t\t\t<lb/>\n\t\t\t\t\n右件の元ハ、\n\t\t\t\t<note corresp=\"#入来院\">いりきのゐん</note>\n\t\t\t\tのちとう御とくふんの中ニ、すいてん・はく\n\t\t\t\t<lb/>\n\t\t\t\t\nち・\n\t\t\t\t<note corresp=\"#苧代\">おしろ</note>\n\t\t\t\t・\n\t\t\t\t<note corresp=\"#桑代\">くわしろ</note>\n\t\t\t\t・かりおかしのなかに、いちふん十たいにいた\n\t\t\t\t<lb/>\n\t\t\t\t\nるまて、ちとう殿の御ために、\n\t\t\t\t<note corresp=\"#偏頗\">へんは</note>\n<note corresp=\"#偽\">いつはり</note>\n\t\t\t\tをも申、\n\t\t\t\t<note corresp=\"#公私\">おやけわた</note>\n\t\t\t\tく\n\t\t\t\t<lb/>\n\t\t\t\t\nし、\n\t\t\t\t<note corresp=\"#大事\">たいし</note>\n<note corresp=\"#小事\">せうし</note>\n\t\t\t\tにいたるまて、へんはおもし候ひ、御ためにうしろつ\n\t\t\t\t<lb/>\n\t\t\t\t\nたなくも候ひ、又かやうに給はりて候うへニ、ちとう殿おはなれまいら\n\t\t\t\t<lb/>\n\t\t\t\t\nせて、かみにしさいお申候ものならは、かの\n\t\t\t\t<placeName corresp=\"#塔原\">たうのハら</placeName>\n\t\t\t\tをめされ候へ\n\t\t\t\t<lb/>\n\t\t\t\t\nし、もしこの申しやういつはりおも申候物ならは、にほんの\n\t\t\t\t<note corresp=\"#鎮守八幡\">ちんすはつはん</note>\n<lb/>\n\t\t\t\t\n大ほさつ、ことにハ、1\n\t\t\t\t<note corresp=\"#入来院\">1いつ</note>\n\t\t\t\t・\n\t\t\t\t<placeName corresp=\"#箱根\">ハこね</placeName>\n\t\t\t\t・\n\t\t\t\t<placeName corresp=\"#三島\">みしま</placeName>\n\t\t\t\t大ミやうしん、そうし\n\t\t\t\t<lb/>\n\t\t\t\t\nてハ六十よしふの\n\t\t\t\t<note corresp=\"#神祇\">しんき</note>\n<note corresp=\"#冥道\">ミやうたう</note>\n\t\t\t\tの御はつお、のふとし・のふたゝ・\n\t\t\t\t<lb/>\n\t\t\t\t\nのふすけまかりかふり候へし、\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　<date when=\"1247-09-05\">宝治元年八月五日</date>　　　　　　　　　　　　<persName corresp=\"#伴信資\">伴信資</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　　　<persName corresp=\"#伴信忠\">伴信忠</persName>（花押）\n\t\t\t\t<lb/>\n\t\t\t\t\n\t\t\t\t　　　　　　　　　　　　　　　　　　　　　大目<persName corresp=\"伴信俊\">伴信俊</persName>（花押）\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "左京権太夫在判ヨリ相模守下知状迄 十七通 十六番"
     ]
 }

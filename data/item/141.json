@@ -5,14 +5,32 @@
         "市来家親",
         "渋谷重長"
     ],
+    "collection": [
+        "11 入来院家文書 十一      1巻"
+    ],
+    "date": [
+        "(年未詳)8月4日"
+    ],
     "label": "21　　(年未詳)8月4日　　_市来家親書状（＃１４１）",
     "manifest": "https://nakamura196.github.io/iriki/iiif/141/manifest.json",
     "objectID": "141",
+    "received": [
+        "渋谷重長"
+    ],
+    "sent": [
+        "市来家親"
+    ],
     "text": [
         "\n\n\n\t\t\t\t\n此間連〃申承候条、日来本望併令満足候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n抑荒河事、適愚身始而申沙汰仕事にて候ヘハ、先彼在所御知行候者、外\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n聞\n\t\t\t\t実\n\t\t\t\t可目出候、此外承候在所等事、及所存、\n\t\t\t\t綱\n網州方\n\t\t\t\tへ可申候、尚〃\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n八幡・天神も御照覧候へ、於身懸浮沈可申候、少も不可有等閑之儀候、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n此子細御使節申入候之間、定可被聞召候哉、恐〃謹言、\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　八月四日　　　　　　　　　　　　　　　　\n\t\t\t\t家親\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　\n\t\t\t\t清色\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n　　　　　　\n\t\t\t\t「\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t\n\n"
     ],
     "thumbnail": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0671/18/11/00000033.jpg",
+    "type": [
+        "親書状"
+    ],
     "xml": [
         "<body>\n<p>\n<lb/>\n\t\t\t\t\n此間連〃申承候条、日来本望併令満足候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n抑荒河事、適愚身始而申沙汰仕事にて候ヘハ、先彼在所御知行候者、外\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n聞\n\t\t\t\t<note corresp=\"#儀脱カ\">実</note>\n\t\t\t\t可目出候、此外承候在所等事、及所存、\n\t\t\t\t<note corresp=\"#総\">綱</note>\n<persName corresp=\"#島津久世\" ref=\"https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E4%B9%85%E4%B8%96\">網州方</persName>\n\t\t\t\tへ可申候、尚〃\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n八幡・天神も御照覧候へ、於身懸浮沈可申候、少も不可有等閑之儀候、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n此子細御使節申入候之間、定可被聞召候哉、恐〃謹言、\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　<date>八月四日</date>　　　　　　　　　　　　　　　　\n\t\t\t\t<persName corresp=\"#市来家親\">家親</persName>\n\t\t\t\t（花押）\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　\n\t\t\t\t<persName corresp=\"#渋谷重長\">清色</persName>\n\t\t\t\t殿\n\t\t\t\t\n\t\t\t\t<lb/>\n\t\t\t\t\n　　　　　　\n\t\t\t\t<note corresp=\"#礼紙切封\">「</note>\n\t\t\t\t　　」\n\t\t\t\t\n\t\t\t\t<lb/>\n</p>\n</body>"
+    ],
+    "外題": [
+        "趙宣留守所ヨリ周頼在判迄 廿二通 十九番"
     ]
 }
